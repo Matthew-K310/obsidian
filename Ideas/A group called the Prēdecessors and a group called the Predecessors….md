@@ -1,0 +1,1 @@
+A group called the Prēdecessors and a group called the Predecessors. People always get the names mixed up, and so the groups are at war with each other, as well as hostile to all groups who have gotten their names wrong
