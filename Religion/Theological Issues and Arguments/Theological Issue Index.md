@@ -22,7 +22,7 @@ I am basing my conclusions on Biblical study and understanding of context, as we
 - Does the Bible support [[The Ordination of Women]]? (Researched)
 - Does the Bible support [[The Practice of Homosexuality]](Researched)
 - What do we do about [[Drug Use and the Bible]]?
-- What do we do about [[Alcohol and the Bible]]? (Researched)
+- What do we do about [[Alcohol and the Bible 1]]? (Researched)
 
 ### Questions about the Church
 

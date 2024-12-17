@@ -10,7 +10,7 @@
 
 ### What Does the Old Testament Say?
 
-In the Old Testament law, the Lord call the act of a man lying with a man as with a woman an abomination (Leviticus 18:22, 20:13).
+In the Old Testament law, the Lord calls the act of a man lying with a man as with a woman an abomination (Leviticus 18:22, 20:13).
 
 There are those who would argue that we are no longer under the Old Testament law, and hence these verses do not apply today.
 
