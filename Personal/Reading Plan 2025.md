@@ -18,4 +18,6 @@
 - [ ] War of the Worlds
 - [ ] Rule of Two
 - [ ] Dynasty of Evil
+- [ ] Dune
+- [ ] Dune: Messiah
 - [ ] 
