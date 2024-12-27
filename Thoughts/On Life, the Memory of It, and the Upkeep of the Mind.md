@@ -24,6 +24,7 @@
 	'That is like saying "My food I must be content only to eat."
 	'I do not understand.'
 
+
 Here, we see Ransom (a human) speaking to Hyoi (a hross from Malacandra, or Mars) about the nature of the hrossa and séroni (the intelligentsia of Malacandra). 
 
 Ransom originally asked if there were wars between the hrossa and séroni, to which Hyoi replied in the negative sense. Then Ransom asked if they would fight over food, to which Hyoi said, 'If the other hnau (sentient beings) wanted food, why should we not give it to them? We often do.'
