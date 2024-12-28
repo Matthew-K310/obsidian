@@ -27,6 +27,6 @@ The Two Commandments
 __ Believe on the name of Jesus
 dl
 
-![[Drawing 5.png]]
+![[remote/Ideas/Drawing 5.png]]
 
 #sermon

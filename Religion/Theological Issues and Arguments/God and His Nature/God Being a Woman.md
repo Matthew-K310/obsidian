@@ -53,8 +53,8 @@ Context matters when it comes to understanding Scripture. There are many issues 
 
 ### References
 
-- [[Is God male or female?  GotQuestions.org]]
-- [[The Names of God  Reformed Bible Studies & Devotionals at Ligonier.org]]
+- [[remote/Religion/Theological Issues and Arguments/References/Is God male or female?  GotQuestions.org]]
+- [[remote/Religion/Theological Issues and Arguments/References/The Names of God  Reformed Bible Studies & Devotionals at Ligonier.org]]
 - The Holy Bible (English Standard Version)
 
 

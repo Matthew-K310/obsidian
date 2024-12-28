@@ -1,11 +1,11 @@
 
 ### Beliefs about God and His Nature
 
-- [[God]]
-- [[Jesus Christ]]
-- [[The Holy Spirit]]
-- [[The Trinity]] 
-- [[The Crucifixion]]
+- [[remote/Religion/My Personal Beliefs/God]]
+- [[remote/Religion/My Personal Beliefs/Jesus Christ]]
+- [[remote/Religion/My Personal Beliefs/The Holy Spirit]]
+- [[remote/Religion/My Personal Beliefs/The Trinity]] 
+- [[remote/Religion/My Personal Beliefs/The Crucifixion]]
 
 
 ### Beliefs about the Church
@@ -14,17 +14,17 @@
 
 ### Beliefs about Worldview
 
-- [[Abortion]]
-- [[Sin]]
-- [[Homosexuality]]
-- [[Sex]]
+- [[remote/Religion/My Personal Beliefs/Abortion]]
+- [[remote/Religion/My Personal Beliefs/Sin]]
+- [[remote/Religion/My Personal Beliefs/Homosexuality]]
+- [[remote/Religion/My Personal Beliefs/Sex]]
 
 
 
 ### Beliefs about Relationships and Marriage
 
-- [[Marriage]]
-- [[Divorce]]
-- [[Dating]]
-- [[Sex]]
+- [[remote/Religion/My Personal Beliefs/Marriage]]
+- [[remote/Religion/My Personal Beliefs/Divorce]]
+- [[remote/Religion/My Personal Beliefs/Dating]]
+- [[remote/Religion/My Personal Beliefs/Sex]]
 

@@ -54,4 +54,4 @@
 - [ ] Silver Pen
 
 
-![[Drawing.png]]
+![[remote/Apple Notes Attachments/Drawing.png]]

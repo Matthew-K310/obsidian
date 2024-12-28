@@ -30,6 +30,6 @@ my food day and night, while they
 say to me all the day long, "Where is
 your God?"
 
-![[Drawing 9.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 9.png]]
 
 #sermon

@@ -37,7 +37,7 @@ If sharing the news is what made these women apostles, shouldn't all those who g
 
 
 ### Resources used
-- [[Women Speaking in Church]]
+- [[remote/Religion/Theological Issues and Arguments/References/Women Speaking in Church]]
 - The Holy Bible (English Standard Version)
 
 

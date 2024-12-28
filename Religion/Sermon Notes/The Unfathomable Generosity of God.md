@@ -31,6 +31,6 @@ the giver of those blessings.
 Develop a generous heart.
 Be lavish and generous in your giving.
 
-![[Drawing 15.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 15.png]]
 
 #sermon

@@ -56,6 +56,6 @@ Do not blame fat for failing or
 giving in to temptation before the
 finish line.
 
-![[Drawing 10.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 10.png]]
 
 #sermon

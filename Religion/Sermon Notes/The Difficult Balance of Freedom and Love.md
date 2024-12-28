@@ -29,6 +29,6 @@ b) We have a tendency to be
 arrogant and puffed up.
 d. Be humble, and be known by your
 
-![[Drawing 7.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 7.png]]
 
 #sermon

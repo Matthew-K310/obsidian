@@ -58,6 +58,6 @@ v⋅32-33
 "I want them to hate the nicest person
 they've ever met."- Keith Sanders
 
-![[Drawing 12.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 12.png]]
 
 #sermon

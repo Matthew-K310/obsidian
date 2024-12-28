@@ -28,4 +28,4 @@ Dark Blue
 Panel Scan Main Board Jacks
 Inverter
 
-![[Drawing 8.png]]
+![[remote/Apple Notes Attachments/Drawing 8.png]]

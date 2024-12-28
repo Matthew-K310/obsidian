@@ -1,2 +1,2 @@
-![[MortificationOfSinInBelievers 1.pdf]]
+![[remote/Religion/Resources/MortificationOfSinInBelievers 1.pdf]]
 

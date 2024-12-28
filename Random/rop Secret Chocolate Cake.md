@@ -1,1 +1,1 @@
-![[Scan Page.jpg]]
+![[remote/Apple Notes Attachments/Scan Page.jpg]]

@@ -48,6 +48,6 @@ to apply our own meaning of marriage.
 "Or do we provoke the Loved to jealousy?
 We are not stranger than He, are we?"
 
-![[Drawing 11.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 11.png]]
 
 #sermon

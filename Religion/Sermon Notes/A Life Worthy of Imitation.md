@@ -30,6 +30,6 @@ b) Finished Race (2 Timothy I'
 4:7-8/
 PeterAtelard=Lorkhimup
 
-![[Drawing 13.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 13.png]]
 
 #sermon

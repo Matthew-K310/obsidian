@@ -48,6 +48,6 @@ every mean according to what he has done."
 John 3:16
 John 14
 
-![[Drawing 14.png]]
+![[remote/Religion/Sermon Notes/Handwritten Notes/Drawing 14.png]]
 
 #sermon
