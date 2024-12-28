@@ -1,5 +1,6 @@
 ### Books of the Bible
 
+- [ ] Isaiah
 - [ ] Hebrews
 - [ ] Galatians
 - [ ] Micah
@@ -9,7 +10,7 @@
 
 ### Books
 
-- [ ] Out of the Silent Planet 
+- [x] Out of the Silent Planet ✅ 2024-12-27
 - [ ] Perelandra
 - [ ] That Hideous Strength
 - [ ] Lords of Mars
