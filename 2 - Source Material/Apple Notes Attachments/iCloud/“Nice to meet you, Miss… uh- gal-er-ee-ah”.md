@@ -1,0 +1,1 @@
+“Gal-air-ee-ah.” she said curtly, clearly offended.

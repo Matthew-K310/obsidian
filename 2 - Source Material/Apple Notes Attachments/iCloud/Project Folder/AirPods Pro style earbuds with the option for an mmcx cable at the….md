@@ -1,0 +1,1 @@
+AirPods Pro style earbuds with the option for an mmcx cable at the end of the stem and multiple ear tips

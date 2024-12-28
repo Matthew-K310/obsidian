@@ -1,0 +1,5 @@
+- [ ] Clean out closet
+- [ ] Clean off desk (again)
+- [ ] Find a better way to organize my desk
+- [ ] Clean off bookshelves
+- [ ] Vacuum room

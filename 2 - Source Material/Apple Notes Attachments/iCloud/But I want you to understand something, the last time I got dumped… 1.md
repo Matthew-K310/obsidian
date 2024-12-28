@@ -1,0 +1,3 @@
+I can live with the fact that you’re dealing with a lot, and a relationship isn’t the best thing for you but what I can’t stand is the fact that you are already talking to another guy who you met almost a week after you dump me.
+
+All of that being said I wish you the best in life. I hope you figure out what you need to and that it works out for the both of you. I do still care for you Grace, but don’t for a second take me for a fool.

@@ -1,5 +1,3 @@
-Kick in 1
-
 Snare in 12
 
 Acoustic in 3

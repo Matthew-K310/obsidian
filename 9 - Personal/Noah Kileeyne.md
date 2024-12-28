@@ -8,4 +8,4 @@ Jaxon Everly (band)
 Aidan Isham
 Kevin Benz
 
-![[remote/Apple Notes Attachments/Drawing 2.png]]
+![[Drawing 2.png]]
