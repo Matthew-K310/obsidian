@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744576
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 32445
+      }
+    },
+    {
+      "query": "path:Therapy  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:Thoughts  ",
+      "color": {
+        "a": 1,
+        "rgb": 9437146
+      }
+    },
+    {
+      "query": "path:Quotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11813631
+      }
+    },
+    {
+      "query": "path:\"Work Stuff\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.20796305338542,
+  "lineSizeMultiplier": 2.222216796875,
+  "collapse-forces": false,
+  "centerStrength": 0.510526315789474,
+  "repelStrength": 9.5068359375,
+  "linkStrength": 0.721052631578947,
+  "linkDistance": 193,
+  "scale": 0.7380722973592632,
+  "close": true
+}

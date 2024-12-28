@@ -1,1 +1,0 @@
-Pray for Hazel’s mom’s cancer

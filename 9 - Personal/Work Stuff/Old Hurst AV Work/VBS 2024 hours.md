@@ -1,0 +1,1 @@
+Tuesday, June 4th - 8:00am to 12:15pm

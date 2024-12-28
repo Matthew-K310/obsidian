@@ -1,8 +1,0 @@
-- [[remote/IT Concepts/What is Clustering?]]
-- [[remote/IT Concepts/What is Containerization?]]
-- [[remote/IT Concepts/What is HTTP?]]
-- [[remote/IT Concepts/What is DNS?]]
-- [[remote/IT Concepts/What is a Hypervisor?]]
-- [[remote/IT Concepts/What is ZFS?]]
-- [[remote/IT Concepts/What is Ceph?]]
-- [[remote/IT Concepts/What is Kubernetes?]]
