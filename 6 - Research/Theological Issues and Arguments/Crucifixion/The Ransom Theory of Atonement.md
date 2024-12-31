@@ -1,4 +1,3 @@
-
 ### What is the Ransom Theory of Atonement?
 
 - What does it teach?
@@ -6,16 +5,10 @@
 - Who taught it?
 - Who believes it?
 - What are its issues?
-
 ---
-
 "Essentially, this theory claimed that Adam and Eve sold humanity over to the Devil at the time of the Fall' hence, justice required that God pay the Devil a ransom, for the Devil did not realize that Christ could not be held in the bonds of death. Once the Devil accepted Christ's death as a ransom, this theory concluded, justice was satisfied and God was able to free us from Satan's grip." - Robin Collins, "Understanding Atonement: A New and Orthodox Theory."
 
----
-
-
 ### What Does it Teach?
----
 
 The basic concept is that Adam and Eve sold humanity over to the Devil when they committed the first sin. Following that, Satan demanded a ransom payment from God, and that way we could be set free. 
 
@@ -25,19 +18,11 @@ The Devil accepted the ransom, not realizing that death could not hold Jesus; an
 
 Now that the Devil's demands were satisfied, God then freed us from the grasp of the Devil. 
 
----
-
-
 ### Where Did it Originate?
----
 
 According to Stephen D. Morrison's article "[7 Theories of the Atonement Summarized](https://www.sdmorrison.org/7-theories-of-the-atonement-summarized/)", the ransom theory has roots in the Early Church, mainly from Origen in the 3rd century. 
 
----
-
-
 ### Who Taught It?
----
 
 - Origen believed that Satan old all people and demanded that the God the Father give him Jesus the Son. Satan released humanity, but found Christ too powerful to keep imprisoned. 
 
@@ -53,11 +38,7 @@ According to Stephen D. Morrison's article "[7 Theories of the Atonement Summari
 
 There were many who founded this theory on a misinterpretation or a dramatization of the Scripture's message of redemption through Christ's substitutionary atonement on the cross.
 
----
-
-
 ### Who Believes It?
----
 
 Apart from those who founded this theory, are there others who still conform to this belief?
 
@@ -65,11 +46,7 @@ The ransom theory is associated with the Eastern Orthodox Church.
 
 It is not widely accepted in modern day Christianity, but some Anabaptist peace churches and some from the Word of Faith (prosperity gospel) movement still endorse it.
 
----
-
-
 ### What's Are Its Issues?
----
 
 The Bible teaches that Christ gave Himself up on the cross as the propitiation (appeasement or amending) for our sins. 
 

@@ -19,4 +19,4 @@ SP140001-XI Hitachi Display
 15" wide
 2.5 to 3 " deep
 
-![[remote/Apple Notes Attachments/Drawing 6.png]]
+![[Drawing 6.png]]
