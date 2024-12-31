@@ -1,1 +1,0 @@
-Fmin9-Gmin9 or Gmin7

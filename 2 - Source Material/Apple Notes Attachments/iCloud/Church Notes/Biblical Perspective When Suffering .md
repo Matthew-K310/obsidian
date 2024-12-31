@@ -1,1 +1,0 @@
-![[Drawing 9.png]]

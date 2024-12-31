@@ -1,1 +1,0 @@
-![[Drawing 8.png]]

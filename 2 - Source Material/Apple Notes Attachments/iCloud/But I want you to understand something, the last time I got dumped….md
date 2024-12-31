@@ -1,3 +1,0 @@
-I can understand with the fact that you’re dealing with a lot, and a long distance relationship isn’t the best thing for you but the fact that you are already talking to another guy, who you met almost a week after you dump me just makes me feel like you see me as a novelty or someone you can use up and throw away.
-
-All of that being said, I wish you the best in life. I hope you figure out what you need to and that it works out for the both of you. I do still care for you Grace, but don’t for a second take me for a fool.

@@ -1,1 +1,0 @@
-Aracochra paladin, extremely racist, named Ku Klux

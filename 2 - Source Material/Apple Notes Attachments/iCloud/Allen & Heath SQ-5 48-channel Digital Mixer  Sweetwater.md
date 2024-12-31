@@ -1,3 +1,0 @@
-[Allen & Heath AR2412 24x12 I/O Expander for Qu / Avantis / SQ Mixers | Sweetwater](https://www.sweetwater.com/store/detail/AR2412--allen-and-heath-ar2412-24x12-i-o-expander-for-qu-avantis-sq-mixers)
-
-Here are console and stage box that we could get. Apparently the issue we’re currently having is (unfortunately) very common with those particular consoles and stage boxes, which is why I don’t want to get them again and deal with this again.
