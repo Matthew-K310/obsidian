@@ -18,4 +18,4 @@ Vox 4 in 10
 
 
 
-![[remote/Apple Notes Attachments/Kick in 1.jpeg]]
+![[Kick in 1.jpeg]]
