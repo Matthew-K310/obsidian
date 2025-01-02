@@ -1,9 +1,7 @@
 ---
 author: 
 tags: 
-created: 
-description: 
-source:
+created:
 ---
 
 
