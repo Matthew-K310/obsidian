@@ -1,14 +1,17 @@
-Created: 2025-01-02
+---
+author:
+  - Matthew Kennedy
+tags:
+  - religion
+  - christianity
+  - church
+  - worldview
+created: 2024-01-02
+source:
+---
+# Origins, Schisms, and the Reformation
 
-Status: #child 
-
-Tags: [[catholicism]], [[church]], [[churchhistory]], [[christianity]]
-
-# Catholicism
-
-## Origins, Schisms, and the Reformation
-
-### Origins
+## Origins
 
 The Church of Rome, which would later become the Roman Catholic Church is said to have been founded in AD 30 by Saint Peter on the day of Pentecost. 
 
@@ -24,7 +27,7 @@ The Church of Rome kept meticulous records, and thus was thought to have more st
 
 The Pope steadily gained more authority and influence during the collapse of the western Roman Empire; it was because of this that the Church began to fill the institutional power vacuum, with succeeding popes making increasingly ambitious claims to authority. 
 
-### The Great Schism of 1504
+## The Great Schism of 1504
 
 The Church of Rome had a Great Schism, which led to it being divided into the western, Latin-speaking Roman Catholic Church and the eastern, Greek-speaking Eastern Orthodox Church. This schism was precipitated by 2 main doctrinal disagreements.
 
@@ -40,7 +43,7 @@ The Athanasian Creed (written late 5th century) states as follows concerning the
 
 The Holy Spirit proceeds from both the Father and Son, and all 3 are co-equal and co-eternal. The Roman Catholics were correct in their belief. 
 
-### The Reformation
+## The Reformation
 
 In 1517, a historic event took place which would later cause another schism to occur within the Roman Catholic Church. 
 
@@ -52,9 +55,9 @@ The Church was the split off into the Roman Catholics, the Protestant Reformers 
 
 The Protestants believed that the Bible should be translated for all people to read and understand, while the Roman Catholics maintained that should stay in Latin.
 
-## Purgatory, Distinctions, and Utter Insanity
+# Purgatory, Distinctions, and Utter Insanity
 
-### Central Beliefs
+## Central Beliefs
 
 - One True Church
 - Belief in Purgatory
@@ -64,7 +67,7 @@ The Protestants believed that the Bible should be translated for all people to r
 - Immaculate Conception
 - The Eternal Virgin
 
-### Purgatory
+## Purgatory
 
 
 

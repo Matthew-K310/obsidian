@@ -1,18 +1,26 @@
-Created: 2024-12-31
-
-Status: #child 
-
-Tags: [[philosophy]], [[pleasure]], [[humannature]]
-
-# Repetitive Pleasure
-
+---
+author:
+  - Matthew Kennedy
+tags:
+  - philosophy
+  - mind
+  - pleasure
+  - humanity
+created: 2024-12-31
+description: From pages 53-54 of the Harper Collins edition
+source: '"Perelandra" by C.S. Lewis'
+---
 > [!tldr] TLDR
 > We think of life as a movie that we can rewind and enjoy the same pleasures over again. This is problematic for our everyday lives, as we take pleasure out of its context and thus ruin the action/moment that provided the original pleasure. 
 
 
 *“Looking at a fine cluster of the bubbles which hung above his head he thought how easy it would be to get up and plunge oneself through the whole lot of them and to feel, all at once, that magical refreshment multiplied tenfold. But he was restrained by the same sort of feeling which had restrained him over-night from tasting a second gourd. He had always disliked the people who encored a favorite air in an opera—“That just spoils it” had been his comment. But this now appeared to him as a principle of far wider application and deeper moment. This itch to have things over again, as if life were a film that could be unrolled twice or even made to work backwards... was it possibly the root of all evil? No: of course the love of money was called that. But money itself—perhaps one valued it chiefly as a defense against chance, a security for being able to have things over again, a means of arresting the unrolling of the film.”*
 
--- "Perelandra" by C.S Lewis, Pages 53-54
+Excerpt From
+The Space Trilogy
+C. S. Lewis
+https://books.apple.com/us/book/the-space-trilogy/id6476514768
+This material may be protected by copyright.
 
 > [!note] Note
 Repetition of pleasure dulls the enjoyment. See Chapter 12 of “Out of the Silent Planet”.
@@ -37,4 +45,3 @@ So why then, if this is the effect of those rewinds and encores, do we want to l
 
 [[On Life, the Memory of Pleasure, and the Upkeep of the Mind]]
 
-[[Perelandra Highlights - Philosophy]]

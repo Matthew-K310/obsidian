@@ -1,11 +1,12 @@
-Created: 2024-12-31
-
-Status: #quotes 
-
-Tags: [[god]], [[justice]]
-
-# Just and Unjust
-
+---
+author:
+  - C.S Lewis
+tags:
+  - philosophy
+  - christianity
+  - quotes
+created: 2024-12-31
+---
 "My argument against God
 was that the universe
 seemed so cruel

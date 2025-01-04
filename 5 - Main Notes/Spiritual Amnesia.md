@@ -1,11 +1,15 @@
-Created: 2024-12-31
-
-Status: #baby 
-
-Tags: [[christianity]], [[religion]], [[philosophy]]
-
-# Spiritual Amnesia
-
+---
+author:
+  - Matthew Kennedy
+tags:
+  - religion
+  - christianity
+  - mind
+  - philosophy
+created: 2024-12-31
+description: 
+source:
+---
 > [!tldr] TLDR
 Spiritual amnesia is the idea that we, as humans, downplay or forget the sacrifice of Christ on the cross. 
 
