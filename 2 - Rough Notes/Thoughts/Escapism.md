@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+2025-01-04 15:01
+
+Status: baby
+
+Tags: [[philosophy]], [[mind]], [[humannature]]
+
+# Escapism
+
+>>>>>>> origin/main
 I want escape. 
 
 From what?
@@ -38,4 +49,11 @@ Because I think I know better
 
 But I know nothing
 
+<<<<<<< HEAD
 compared to Him who created me. 
+=======
+compared to Him who created me. 
+
+# References
+
+>>>>>>> origin/main
