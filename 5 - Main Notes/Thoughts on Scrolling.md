@@ -1,13 +1,10 @@
----
-title: Thoughts on Scrolling
-author:
-  - Matthew Kennedy
-tags:
-  - philosophy
-  - mind
-  - time
-  - socialmedia
----
+Created: 2025-01-04
+
+Status: #child 
+
+Tags: [[philosophy]], [[socialmedia]]
+
+# Thoughts on Scrolling
 
 Do I find it "fun" to mindlessly scroll my day away on social media?
 

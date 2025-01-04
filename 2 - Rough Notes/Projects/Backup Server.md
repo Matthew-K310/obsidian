@@ -1,4 +1,0 @@
-- Must contain backups of config files
-- Add Obsidian vault backup #todo
-- Push backups to Github #todo 
-- Eventually upgrade storage (2-4tb of SATA storage)
