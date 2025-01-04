@@ -1,16 +1,14 @@
 ---
-title: Thoughts on Existence and Purpose
-author:
-  - Matthew Kennedy
-tags:
-  - philosophy
-  - essay
-  - mind
-  - humanity
-  - atheism
 created: 2024-12-20
 ---
+2025-01-04 16:01
 
+Status: #child
+
+Tags: [[philosophy]], [[existence]], [[humanity]], [[atheism]]
+
+
+# Thoughts on Existence and Purpose
 
 ## If We, as Humans, Were not Created with Intentionality, what is Our Purpose?
 
@@ -74,3 +72,8 @@ Our human psyche needs something to latch on to for hope; but if there is no aft
 I'm mildly sick, and so these are just my ramblings as of 21:03pm on the night of Thursday, December 19th. 
 
 I'll fix this mess later :p
+
+# References
+
+
+
