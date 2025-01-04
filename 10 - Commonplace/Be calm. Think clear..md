@@ -2,10 +2,9 @@
 author:
   - Unknown
 tags:
-  - nature
   - philosophy
   - mind
-  - strategy
+  - quotes
 created: 2024-12-31
 ---
 "The calmer you are, the clearer

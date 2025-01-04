@@ -4,7 +4,7 @@ author:
 tags:
   - philosophy
   - christianity
-  - waiting
+  - quotes
 created: 2024-12-31
 ---
 "I do not know why

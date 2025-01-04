@@ -4,7 +4,7 @@ author:
 tags:
   - philosophy
   - "#humanity"
-  - nature
+  - quotes
 created: 2024-12-31
 ---
 "No man knows how bad he is till he has tried very hard

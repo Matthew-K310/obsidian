@@ -4,9 +4,7 @@ author:
 tags:
   - philosophy
   - christianity
-  - faith
-  - justice
-  - natureofgod
+  - quotes
 created: 2024-12-31
 ---
 "My argument against God

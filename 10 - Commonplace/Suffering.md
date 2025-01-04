@@ -6,6 +6,7 @@ tags:
   - christianity
   - suffering
   - humanity
+  - quotes
 created: 2024-12-31
 ---
 "A man is never made thoroughly useful until he
