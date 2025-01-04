@@ -1,6 +1,5 @@
 ---
-author:
-  - Matthew Kennedy
+author: Matthew Kennedy
 tags:
   - beliefs
   - philosophy
