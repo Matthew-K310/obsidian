@@ -1,18 +1,10 @@
 2025-01-04 15:01
 
-SStatus: baby
+Status: baby
 
-Tags: [[philosophy]], [[mind]], [[humannature]]tatus:
+Tags: [[philosophy]], [[mind]], [[humannature]]
 
-Tags:
-
-
-# Untitled
-
-
-
-
-# {{Title}}
+# Escapism
 
 I want escape. 
 
@@ -54,21 +46,7 @@ Because I think I know better
 
 But I know nothing
 
-compared to Him who created me. :w
-
-
-
-
-
-
-
+compared to Him who created me. 
 
 # References
 
-
-
-
-
-
-
-# References
