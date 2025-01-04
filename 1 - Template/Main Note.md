@@ -1,9 +1,8 @@
-Created: {{date:YYYY-MM-DD}} {{time:HH-MM}}
+Created: {{date:YYYY-MM-DD}}
 
 Status:
 
 Tags:
-
 
 # {{Title}}
 
@@ -16,3 +15,6 @@ Tags:
 
 
 # References
+
+
+

@@ -1,16 +1,8 @@
----
-author: 
-tags:
-  - quotes
-  - blue
-created:
----
-2025-01-04 16:01
+Created: 2025-01-04
 
-Status:
+Status: #baby #quotes 
 
-Tags:
-
+Tags: [[perelandra]], [[books]], [[blue]]
 
 # Perelandra Highlights - Quotes
 
@@ -18,11 +10,6 @@ Tags:
 
 
 
-
-
-
-
-# References
 
 
 
