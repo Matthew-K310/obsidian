@@ -1,13 +1,11 @@
----
-author:
-  - Matthew Kennedy
-tags:
-  - philosophy
-  - purple
-created: 2024-01-03
-source: '"Perelandra" by C.S. Lewis'
-description: All of these are purple colored highlights from my readings. All page numbers are from the Harper Collins edition of "Perelandra".
----
+Created: 2025-01-03
+
+Status: #child 
+
+Tags: [[highlights]], [[perelandra]], [[purple]], [[philosophy]]
+
+# Perelandra Highlights - Philosophy
+
 **$\quad$** "He had meant to extract the smallest, experimental sip, but the first taste, but the first taste put his caution all to flight. It was, of course, a taste, just as his thirst and hunger had been thirst and hunger. But then it was so different from every other taste that it seemed mre pedantry to call it a taste at all. It was like the discovery of a totally new genus of pleasures, something unheard among men, out of all reckoning, beyond all covenant. <ins>For one draught of this on Earth wars would be fought and nations betrayed.</ins>" - Page 46
 
 **$\quad$**"And yet to repeat a pleasure so intense and almost so spiritual seemed an obvious thing to do. His reason, or what we commonly take to be reason in our own world, was all in favor of tasting this miracle again; the child-like innocence of fruit, the labours he had undergone, the uncertainty of the future, all seemed to commend the action. yet something seemed opposed to this 'reason.' It is difficult to suppose that this opposition came from desire, for what desire would turn from so much deliciousness? But for whatever cause, it appeared to him better not to taste again. Perhaps the experience had been so complete that repetition would be a vulgarity-like asking to hear the same symphony twice in a day. 

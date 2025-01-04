@@ -1,17 +1,12 @@
----
-title: On Life, the Memory of Pleasure, and the Upkeep of the Mind
-author:
-  - Matthew Kennedy
-created: 2024-12-26
-tags:
-  - philosophy
-  - essay
-  - mind
-source: Out of the Silent Planet by C.S. Lewis
----
+Created: 2024-12-26
 
+Status: #child 
 
-# C.S. Lewis on the Context of Memories
+Tags: [[philosophy]], [[humannature]], [[essay]]
+
+# On Life, the Memory of Pleasure, and the Upkeep of the Mind
+
+## C.S. Lewis on the Context of Memories
 
 
 > [!tldr] TLDR
@@ -78,6 +73,5 @@ Maybe those moments weren't as amazing at the time of happening as they are now 
 
 Maybe, just maybe, the longing is what makes the memory of that time all the sweeter.
 
-
-# The Upkeep of the Mind, and the Importance of Remembering
+## The Upkeep of the Mind, and the Importance of Remembering
 

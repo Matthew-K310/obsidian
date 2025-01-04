@@ -1,6 +1,22 @@
 > [!Handwriting]-
 
-![[Drawing 12.png]]
+Created: 2024-11-10
 
-#sermon
-#christianity
+Status: #child 
+
+Tags: [[sermon]], [[church]], [[christianity]]
+
+# 1 Corinthians
+
+
+
+
+
+
+
+
+
+# References
+
+
+![[Drawing 12.png]]

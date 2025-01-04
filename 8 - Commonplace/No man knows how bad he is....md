@@ -1,12 +1,11 @@
----
-author:
-  - Unknown
-tags:
-  - philosophy
-  - "#humanity"
-  - quotes
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quotes 
+
+Tags: [[philosophy]], [[humanity]]
+
+# No Man Knows how Bad He Is...
+
 "No man knows how bad he is till he has tried very hard
 to be good. A silly idea is current that good people do
 not know what temptation means. This is an obvious lie.

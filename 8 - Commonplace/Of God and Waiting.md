@@ -1,12 +1,11 @@
----
-author:
-  - C.S Lewis
-tags:
-  - philosophy
-  - christianity
-  - quotes
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quotes 
+
+Tags: [[philosophy]], [[god]], [[natureofgod]]
+
+# Of God and Waiting
+
 "I do not know why
 there is this difference,
 but I am sure that God keeps no one 
