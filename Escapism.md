@@ -1,8 +1,15 @@
-{{date:YYYY-MM-DD}} {{time:HH:mm}}
+2025-01-04 15:01
 
-Status: baby
+SStatus: baby
 
-Tags: [[philosophy]], [[mind]], [[humannature]]
+Tags: [[philosophy]], [[mind]], [[humannature]]tatus:
+
+Tags:
+
+
+# Untitled
+
+
 
 
 # {{Title}}
@@ -47,7 +54,16 @@ Because I think I know better
 
 But I know nothing
 
-compared to Him who created me.
+compared to Him who created me. :w
+
+
+
+
+
+
+
+
+# References
 
 
 
