@@ -51,3 +51,4 @@ We are not stranger than He, are we?"
 ![[Drawing 11.png]]
 
 #sermon
+#christianity

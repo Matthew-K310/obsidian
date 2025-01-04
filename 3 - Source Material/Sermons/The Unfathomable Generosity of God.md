@@ -34,3 +34,4 @@ Be lavish and generous in your giving.
 ![[Drawing 15.png]]
 
 #sermon
+#christianity
