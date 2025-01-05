@@ -1,4 +1,4 @@
-{{date}}
+Created: {{date}}
 
 Status:
 
