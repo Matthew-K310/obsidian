@@ -1,8 +1,11 @@
----
-author:
-  - Charles Spurgeon
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quote 
+
+Tags: [[remote/10 - Tags/suffering|suffering]], [[humanity]], [[commonplace]]
+
+# Suffering
+
 "A man is never made thoroughly useful until he
 has passed through suffering."
 

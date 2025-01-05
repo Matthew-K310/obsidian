@@ -1,2 +1,2 @@
 1689 Confession
-Psalm 51
+John MacArthur on Genesis

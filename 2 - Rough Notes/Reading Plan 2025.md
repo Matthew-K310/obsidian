@@ -2,6 +2,7 @@
 
 - [ ] Isaiah
 - [ ] Hebrews
+- [ ] Colossians
 - [ ] Galatians
 - [ ] Micah
 - [ ] Jeremiah

@@ -2,7 +2,7 @@ Created: 2024-12-31
 
 Status: #quote
 
-Tags: [[philosophy]], [[emotions]]
+Tags: [[philosophy]], [[emotions]], [[commonplace]]
 
 # Be Calm. Think Clear.
 

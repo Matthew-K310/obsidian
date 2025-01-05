@@ -2,7 +2,7 @@ Created: 2024-12-31
 
 Status: #quote 
 
-Tags: [[philosophy]]
+Tags: [[philosophy]], [[commonplace]]
 
 # Two Ways to Get Enough
 

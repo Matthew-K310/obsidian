@@ -1,6 +1,6 @@
 Created: 2025-01-05 15:46
 
-Status: #baby 
+Status: #child  
 
 Tags: [[church]], [[class]], [[creation]]
 
@@ -54,14 +54,11 @@ Christ is the Lord of the Sabbath. (Matthew 12:8)
 
 Christ is our Sabbath, and we can take our rest in Him and reflect on His gift of salvation.
 
+"The Doctrine of Fine Tuning" - The margins of success for the creation of the universe were so small that it is not possible or probable that the universe was created by a simple accident.
 
+God created with intentionality.
 
-
-
-
-
-
-
+[John MacArthur on Genesis 1 and creation](https://www.gty.org/library/sermons-library/90-211/The-How-Why-and-When-of-Creation-Part-1)
 
 # References
 

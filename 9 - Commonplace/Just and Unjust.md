@@ -1,8 +1,11 @@
----
-author:
-  - C.S Lewis
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quote 
+
+Tags: [[justice]], [[god]], [[humanity]], [[commonplace]]
+
+# Just and Unjust
+
 "My argument against God
 was that the universe
 seemed so cruel

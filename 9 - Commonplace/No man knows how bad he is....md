@@ -1,8 +1,11 @@
----
-author:
-  - Unknown
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quote 
+
+Tags: [[humanity]], [[temptation]], [[commonplace]]
+
+# No man knows how bad he is…
+
 "No man knows how bad he is till he has tried very hard
 to be good. A silly idea is current that good people do
 not know what temptation means. This is an obvious lie.

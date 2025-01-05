@@ -1,8 +1,11 @@
----
-author:
-  - C.S Lewis
-created: 2024-12-31
----
+Created: 2024-12-31
+
+Status: #quote 
+
+Tags: [[waiting]], [[god]], [[patience]], [[commonplace]]
+
+# Of God and Waiting
+
 "I do not know why
 there is this difference,
 but I am sure that God keeps no one 

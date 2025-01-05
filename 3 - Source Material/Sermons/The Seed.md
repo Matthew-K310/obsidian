@@ -2,7 +2,7 @@
 
 Created: 2024-12-01
 
-Status: #baby 
+Status: #child 
 
 Tags: [[sermon]], [[church]], [[christianity]]
 

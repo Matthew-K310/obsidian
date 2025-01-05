@@ -1,3 +1,11 @@
+Created: 2025-01-05
+
+Status: #quote 
+
+Tags: [[prayer]], [[serenity]], [[commonplace]]
+
+# The Serenity Prayer
+
 God grant me the serenity to accept the things I cannot change;  
 
 courage to change the things I can;  
