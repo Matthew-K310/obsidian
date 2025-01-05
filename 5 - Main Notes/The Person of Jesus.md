@@ -2,11 +2,6 @@
 title: The Person of Jesus
 author:
   - Matthew Kennedy
-tags:
-  - religion
-  - lesson
-  - trinity
-  - natureofgod
 created: 2024-12-28
 source: https://learn.ligonier.org/articles/the-chalcedonian-definition-of-the-faith
 ---

@@ -6,8 +6,6 @@ author:
 published:
 created: 2024-12-07
 description: "Is God male or female? What gender is God? Is God a he or she? Is God a man or woman? Why does God always speak of Himself as a male?"
-tags:
-  - "clippings"
 ---
 Question
 

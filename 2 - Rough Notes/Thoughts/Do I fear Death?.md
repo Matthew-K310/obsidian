@@ -1,10 +1,5 @@
 ---
 author: Matthew Kennedy
-tags:
-  - beliefs
-  - philosophy
-  - humanity
-  - mind
 created: 2024-12-29
 description: 
 source:

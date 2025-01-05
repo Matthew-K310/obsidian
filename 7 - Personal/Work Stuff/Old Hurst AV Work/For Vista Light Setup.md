@@ -1,3 +1,3 @@
-## Hold red button and turn encoder to have fine control
-## First assignable button under pots is for intensity, pan, and tilt
-## Fourth assignable button, middle encoder is beam tightness for movers
+## Hold Red Button and Turn Encoder to Have Fine Control
+## First Assignable Button under Pots is for Intensity, Pan, and Tilt
+## Fourth Assignable Button, Middle Encoder is Beam Tightness for Movers

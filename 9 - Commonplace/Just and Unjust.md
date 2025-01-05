@@ -1,10 +1,6 @@
 ---
 author:
   - C.S Lewis
-tags:
-  - philosophy
-  - christianity
-  - quotes
 created: 2024-12-31
 ---
 "My argument against God

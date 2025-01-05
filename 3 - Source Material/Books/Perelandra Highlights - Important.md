@@ -1,8 +1,5 @@
 ---
 author: 
-tags:
-  - important
-  - pink
 created:
 ---
 

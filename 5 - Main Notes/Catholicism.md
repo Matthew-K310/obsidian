@@ -1,11 +1,6 @@
 ---
 author:
   - Matthew Kennedy
-tags:
-  - religion
-  - christianity
-  - church
-  - worldview
 created: 2024-01-02
 source:
 ---

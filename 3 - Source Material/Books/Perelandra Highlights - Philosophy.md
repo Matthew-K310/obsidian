@@ -1,9 +1,6 @@
 ---
 author:
   - Matthew Kennedy
-tags:
-  - philosophy
-  - purple
 created: 2024-01-03
 source: '"Perelandra" by C.S. Lewis'
 description: All of these are purple colored highlights from my readings. All page numbers are from the Harper Collins edition of "Perelandra".

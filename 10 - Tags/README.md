@@ -1,4 +1,4 @@
-# obsidian
+# Obsidian
 
 This is my Git backup of my Obsidian vault
 

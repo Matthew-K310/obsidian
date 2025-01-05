@@ -8,7 +8,7 @@ lawful, but not all things edify."v.23
 2. Be unselfish
 ".., but not all things edify"
 "Let ne one seek his own good, but
-that of his neighber,"v.24
+that of his neighbor,"v.24
 3. Don't be legalistic
 "Eat anything that is sold in the meat
 market without asking questions for

@@ -3,10 +3,6 @@ title: On Life, the Memory of Pleasure, and the Upkeep of the Mind
 author:
   - Matthew Kennedy
 created: 2024-12-26
-tags:
-  - philosophy
-  - essay
-  - mind
 source: Out of the Silent Planet by C.S. Lewis
 ---
 

@@ -1,37 +1,37 @@
-### *Connect to Wifi
+### *Connect To Wifi
 - iwctl
 - station wlan0 connect Odyssey1
 - ping [google.com](http://google.com)
 
-### *Partition with cfdisk
+### *Partition With Cfdisk
 - cfdisk
 - /dev/sda1 = 100M
 - /dev/sda2 = 4G
 - /dev/sda3 = the rest of the drive
 
-### *Format the partitions
+### *Format The Partitions
 - mkfs.ext4 /dev/sda3
 - mkfs.fat -F 32 /dev/sda1
 - mkswap /dev/sda2
 
-### *Mount the partitions
+### *Mount The Partitions
 - mount /dev/sda3 /mnt
 - mkdir -p /mnt/boot/efi
 - mount /dev/sda1 /mnt/boot/efi
 - swapon /dev/sda2
 
-### *Install packages
+### *Install Packages
 - pacstrap /mnt base linux linux-firmware sof-firmware base-devel grub efibootmgr vim nano networkmanager git
 
-### *Generate filesystem
+### *Generate Filesystem
 - genfstab /mnt
 - genfstab /mnt > /mnt/etc/fstab
 - cat /mnt/etc/fstab
 
-### *Enter system
+### *Enter System
 - arch-chroot /mnt
 
-### *Set timezone
+### *Set Timezone
 - ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime
 - Check time with date
 - hwclock —systohc
@@ -43,7 +43,7 @@
 - echo LANG=en_US.UTF-8 > /etc/locale.conf
 - export LANG=en_US.UTF-8
 
-### *Create hostname and users
+### *Create Hostname and Users
 - vim /etc/hostname
 - matthewarch
 - passwd
@@ -52,17 +52,17 @@
 - passwd matthewuser
 - willtreaty
 
-### *Allow sudo
+### *Allow Sudo
 - EDITOR=vim visudo
 - Find “Uncomment to allow members of group wheel to execute any command”
 - Uncomment below line
 
-### *Enable core services and grub
+### *Enable Core Services and Grub
 - systemctl enable NetworkManager
 - grub-install /dev/sda
 - grub-mkconfig -o /boot/grub/grub.cfg
 
-### *Final steps
+### *Final Steps
 - exit bash shell
 - run umount -a
 - reboot

@@ -2,12 +2,6 @@
 title: Thoughts on Existence and Purpose
 author:
   - Matthew Kennedy
-tags:
-  - philosophy
-  - essay
-  - mind
-  - humanity
-  - atheism
 created: 2024-12-20
 ---
 

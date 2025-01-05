@@ -5,8 +5,6 @@ author:
 published:
 created: 2024-12-07
 description: "Ligonier Ministries, founded by R.C. Sproul, exists to proclaim, teach, and defend the holiness of God in all its fullness to as many people as possible."
-tags:
-  - "clippings"
 ---
 In the old covenant tabernacle, the high priest stood between the Lord who revealed Himself to Israel and the Israelites. One of the chief ways God has made Himself known is through the different names for Him we find in Scripture. Over the next week we will examine what these names tell us about our great Lord using *The Names of God*, a teaching series by Dr. R.C. Sproul.
 

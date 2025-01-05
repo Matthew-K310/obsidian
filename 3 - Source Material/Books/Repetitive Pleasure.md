@@ -1,11 +1,6 @@
 ---
 author:
   - Matthew Kennedy
-tags:
-  - philosophy
-  - mind
-  - pleasure
-  - humanity
 created: 2024-12-31
 description: From pages 53-54 of the Harper Collins edition
 source: '"Perelandra" by C.S. Lewis'

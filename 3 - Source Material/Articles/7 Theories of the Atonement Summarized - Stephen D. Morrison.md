@@ -6,10 +6,8 @@ author:
 published: 2014-10-14
 created: 2024-12-16
 description: "7 Theories of the Atonement discussed and briefly explained. Article by Stephen D Morrison"
-tags:
-  - "clippings"
 ---
-#### #3 *Christus Victor*
+#### #3 *Christus Victor*
 
 Classically, the Christus Victor theory of Atonement is widely considered to be the dominant theory for most of the historical Christian Church. In this theory, Jesus Christ dies in order to defeat the powers of evil (such as sin, death, and the devil) in order to free mankind from their bondage. This is related to the Ransom view with the difference being that there is no payment to the devil or to God. Within the *Christus Victor* framework, the cross did not pay off anyone but defeated evil thereby setting the human race free.
 

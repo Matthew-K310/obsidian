@@ -1,5 +1,5 @@
 
-### Why should churches not ordain women?
+### Why Should Churches not Ordain Women?
 
 Look at 1 Timothy 2:11-14 - "Let a woman learn quietly with all submissiveness. I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet. For Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."
 
@@ -36,7 +36,7 @@ The argument here is that Mary Magdelene had exerted authority over the disciple
 If sharing the news is what made these women apostles, shouldn't all those who gossip be apostles as well?
 
 
-### Resources used
+### Resources Used
 - [[Women Speaking in Church]]
 - The Holy Bible (English Standard Version)
 

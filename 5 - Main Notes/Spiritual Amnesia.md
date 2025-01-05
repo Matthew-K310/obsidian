@@ -1,11 +1,6 @@
 ---
 author:
   - Matthew Kennedy
-tags:
-  - religion
-  - christianity
-  - mind
-  - philosophy
 created: 2024-12-31
 description: 
 source:

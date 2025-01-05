@@ -5,8 +5,6 @@ author:
 published:
 created: 2024-12-07
 description: "Ligonier Ministries, founded by R.C. Sproul, exists to proclaim, teach, and defend the holiness of God in all its fullness to as many people as possible."
-tags:
-  - "clippings"
 ---
 The right and orderly exercise of the gifts of tongues and prophecy in public has been Paul’s main concern in [1 Corinthians 14](https://www.esv.org/verses/1%20Corinthians%2014/), but this is not all that occupies his attention. In today’s passage, he addresses another issue—namely, women speaking in worship.
 

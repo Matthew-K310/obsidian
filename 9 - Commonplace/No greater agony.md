@@ -1,7 +1,6 @@
 ---
 author:
   - Maya Angelou
-tags: []
 created: 2024-12-31
 ---
 Tags: [[mind]], [[art]], [[quotes]]

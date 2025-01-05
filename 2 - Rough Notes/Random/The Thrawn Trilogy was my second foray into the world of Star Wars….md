@@ -66,7 +66,7 @@ The glow in his eyes did likewise. and Thrawn, the last Grand Admiral, was gone.
 Pellacon looked up at the viewports. At the chaos that had erupted behind the defenses of the supposedly secure ship-yards; at the unexpected need to split his forces to its defense; at the Rebel fleet taking full advantage of the diversion. In the blink of an eye, the universe had suddenly turned against them. 
 Thrawn could still have pulled an Imperial victory out of it. But he, Pellaeon, was not Thrawn.
 
-"Signal to all ships," he rasped. The words ached in his throat, in a way that ' -d nothing to do with the throbbing pain of Rukh's tre
+"Signal to all ships," he rasped. The words ached in his throat, in a way that ' -d nothing to do with the throbbing pain of Rukh's tree
 attack. "Prepare to retreat."
 
 May the Force be with you.

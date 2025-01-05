@@ -21,7 +21,7 @@ The Lord does not forbid the drinking of wine or other alcoholic beverages, but 
 
 Titus 1:7 - "For an overseer, as God's steward, must be above reproach. He must not be arrogant or quick-tempered <u>or a drunkard</u> or violent or greedy for gain, but hospitable, a lover of good, self-controlled, upright, holy, and disciplined."
 
-The Lord calls his overseers (pastors, deacons, elders) to live a life that is above reproach. His guidelines include and are not limited to not being drunkards, quick-tempered, or violent. Instead, they should be hospitable, self-controlled, and sober-minded[^1].
+The Lord calls his overseers (pastors, deacons, elders) to live a life that is above reproach. His guidelines include and are not limited to not being drunkards, quick-tempered, or violent. Instead, they should be hospitable, self-controlled, and sober-minded.[^1]
 
 The effects of alcohol can be dangerous to all who drink it, but there is another factor to keep in mind for those of us who are Christians: we can lose control of our actions. 
 
@@ -59,7 +59,7 @@ You can see how this might distract someone from the Lord, and how they would en
 
 When we drink, it is visible to others. 
 
-In 1 Corinthians 10, Paul warns against the knowing consumption of meat sacrificed to idols[^2], saying that it could cause another to stumble. They might see you eat it with the knowledge that it was sacrificed and believe that it is ok to do so, thus sinning in the process. 
+In 1 Corinthians 10, Paul warns against the knowing consumption of meat sacrificed to idols,[^2] saying that it could cause another to stumble. They might see you eat it with the knowledge that it was sacrificed and believe that it is ok to do so, thus sinning in the process. 
 
 I believe this applies to the drinking of alcohol as well. 
 

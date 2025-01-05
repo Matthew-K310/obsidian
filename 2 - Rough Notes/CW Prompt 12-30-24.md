@@ -1,9 +1,6 @@
 ---
 author:
   - Matthew Kennedy
-tags:
-  - creativewriting
-  - challenge
 created: 2024-12-30
 description: Prompt - "Write a story on this misty path"
 source:

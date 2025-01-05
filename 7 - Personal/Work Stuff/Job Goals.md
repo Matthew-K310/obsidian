@@ -1,8 +1,8 @@
-## What is my goal?
+## What is My Goal?
 - To become a Network Engineer 
 - To work with/on servers
 
-## What skills do I need?
+## What Skills Do I Need?
 - Experience with Linux
 - Experience with enterprise hypervisors
 - Skilled in relevant programming languages (listed below)
@@ -10,7 +10,7 @@
 - Experience with TrueNAS and Unraid
 - Knowledge of server filesystems
 
-## What programming languages do I need to learn?
+## What Programming Languages Do I Need to Learn?
 - Python  
 - JavaScript  
 - Bash 

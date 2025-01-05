@@ -1,8 +1,5 @@
 ---
 author: 
-tags:
-  - interesting
-  - green
 created:
 ---
 

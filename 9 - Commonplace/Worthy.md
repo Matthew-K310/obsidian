@@ -1,6 +1,5 @@
 ---
 author: Benjamin Franklin
-tags: 
 created: 2024-12-31
 ---
 Tags: [[art]], [[writing]], [[humanity]]
