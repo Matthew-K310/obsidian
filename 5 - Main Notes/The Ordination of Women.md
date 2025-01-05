@@ -41,4 +41,3 @@ If sharing the news is what made these women apostles, shouldn't all those who g
 - The Holy Bible (English Standard Version)
 
 
-#biblicaldebate

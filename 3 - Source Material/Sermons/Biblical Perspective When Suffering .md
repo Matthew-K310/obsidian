@@ -32,5 +32,4 @@ your God?"
 
 ![[Drawing 9.png]]
 
-#sermon
-#christianity
+

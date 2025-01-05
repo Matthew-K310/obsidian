@@ -58,4 +58,3 @@ Context matters when it comes to understanding Scripture. There are many issues 
 - The Holy Bible (English Standard Version)
 
 
-#biblicaldebate

@@ -52,4 +52,3 @@ I am basing my conclusions on Biblical study and understanding of context, as we
 
 
 
-#index

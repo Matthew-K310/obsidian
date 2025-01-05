@@ -11,7 +11,7 @@
 - Knowledge of server filesystems
 
 ## What programming languages do I need to learn?
-- Python #todo 
-- JavaScript #todo 
-- Bash #todo
-- C #todo 
+- Python  
+- JavaScript  
+- Bash 
+- C  

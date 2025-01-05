@@ -1,6 +1,6 @@
 Created: 2024-12-31
 
-Status: #quotes 
+Status:  
 
 Tags: [[philosophy]], [[emotions]]
 

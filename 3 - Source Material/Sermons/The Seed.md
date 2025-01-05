@@ -50,5 +50,4 @@ John 14
 
 ![[Drawing 14.png]]
 
-#sermon
-#christianity
+

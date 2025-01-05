@@ -31,5 +31,4 @@ d. Be humble, and be known by your
 
 ![[Drawing 7.png]]
 
-#sermon
-#christianity
+

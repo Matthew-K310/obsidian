@@ -26,4 +26,3 @@ There are still many passages in the New Testament (Romans 1:26-27, 1 Corinthian
 No matter whether you look at the Old Testament or the New Testament, God is very clear; homosexuality, the act of a man having sex with another man, or a woman having sex with another woman, is a sinful and abominable act that is contrary to nature, as well as God's intent for sexual relations. 
 
 
-#biblicaldebate

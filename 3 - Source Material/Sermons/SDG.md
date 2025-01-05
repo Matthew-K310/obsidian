@@ -60,5 +60,4 @@ they've ever met."- Keith Sanders
 
 ![[Drawing 12.png]]
 
-#sermon
-#christianity
+

@@ -3,7 +3,7 @@ author:
   - Unknown
 tags:
   - philosophy
-  - "#humanity"
+  - ""
   - quotes
 created: 2024-12-31
 ---
