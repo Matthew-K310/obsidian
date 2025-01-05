@@ -1,18 +1,12 @@
-2025-01-04 16:01
 
-Status:
-
-Tags: [[debate]], [[christianity]], [[church]]
-
-# The Ordination of Women
-
-### Why Should Churches not Ordain Women?
+### Why should churches not ordain women?
 
 Look at 1 Timothy 2:11-14 - "Let a woman learn quietly with all submissiveness. I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet. For Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."
 
 Other verses include 1 Corinthians 14:33-35, Titus 1:5-9
 
 This also covers why women should not exert authority over men in the church.
+
 
 ### What about Prisca?
 
@@ -21,6 +15,7 @@ Aquila and his wife Prisca were a missionary team that worked closely with Paul.
 They initially met Paul in Corinth, and they held a gathering of the church in their home. 
 
 There is a common misconception that Prisca was leading the church out of her home (mainly because Paul named her first, and people read into that too much), but she was not the spiritual leader of her household or of the gathering of the church. That responsibility fell to Aquila. 
+
 
 ### What about Junia?
 
@@ -40,7 +35,10 @@ The argument here is that Mary Magdelene had exerted authority over the disciple
 
 If sharing the news is what made these women apostles, shouldn't all those who gossip be apostles as well?
 
-# References
 
+### Resources used
 - [[Women Speaking in Church]]
+- The Holy Bible (English Standard Version)
 
+
+#biblicaldebate

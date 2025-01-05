@@ -1,11 +1,3 @@
-Created: 2025-01-04
-
-Status: #child 
-
-Tags: [[theologicalstudy]], [[theology]], [[research]]
-
-# Theological Issue Index
-
 This is a passion project intended to provide answers to common (and some not so common) questions and theories about the Bible’s standing on certain topics. 
 
 This will by no means be comprehensive, as I am just one man, but I’ll try my best to cover as many as I can. 
@@ -59,3 +51,5 @@ I am basing my conclusions on Biblical study and understanding of context, as we
 
 
 
+
+#index

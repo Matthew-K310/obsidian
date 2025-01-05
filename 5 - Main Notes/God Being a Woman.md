@@ -1,10 +1,3 @@
-2025-01-04 16:01
-
-Status: #child
-
-Tags: [[christianity]], [[debate]], [[god]]
-
-# God Being a Woman
 
 ### Arguments For
 
@@ -57,8 +50,12 @@ The most common issues we see in the reasoning of those who argue that God is a 
 
 Context matters when it comes to understanding Scripture. There are many issues in today's church that could be avoid if people had not taken passages out of their context in the wider Bible. 
 
-# References
+
+### References
 
 - [[Is God male or female?  GotQuestions.org]]
 - [[The Names of God  Reformed Bible Studies & Devotionals at Ligonier.org]]
 - The Holy Bible (English Standard Version)
+
+
+#biblicaldebate

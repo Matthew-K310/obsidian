@@ -1,5 +1,4 @@
-- [[purple]] = Philosophical
-- [[pink]] = Important
-- [[green]] = Interesting
-- [[blue]] = Quotes
-- [[yellow]] = Entertaining or funny
+- #purple = Philosophical
+- #pink = Important
+- #green = Interesting
+- #yellow = Entertaining or funny
