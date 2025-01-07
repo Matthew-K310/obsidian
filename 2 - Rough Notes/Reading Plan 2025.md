@@ -1,6 +1,6 @@
 ### Books of the Bible
 
-- [ ] Isaiah
+- [x] Isaiah
 - [ ] Hebrews
 - [ ] Colossians
 - [ ] Galatians
