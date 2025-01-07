@@ -1,9 +1,8 @@
-> [!Handwriting]-
-> Noah killeyne
-> Chris Harris (switcher)
+Noah Kilcoyne
+Chris Harris (switcher)
 Adam Ellis
 Damon Grey
-Isaac Cetter (banda)
+Isaac Cotter (band)
 Jaxon Everly (band)
 Aidan Isham
 Kevin Benz
