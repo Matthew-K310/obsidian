@@ -2,7 +2,7 @@ Created: 2024-12-31
 
 Status: #quote 
 
-Tags: [[remote/9 - Tags/suffering|suffering]], [[humanity]], [[commonplace]]
+Tags: [[remote/8 - Tags/suffering|suffering]], [[humanity]], [[commonplace]]
 
 # Suffering
 
