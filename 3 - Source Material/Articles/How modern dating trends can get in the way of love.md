@@ -18,7 +18,7 @@ The term "the ick" tends to encourage people-usually women- to be more picky or 
 
 In the past twenty years, sexual frequency has declined, while anxiety and depression have increased drastically. In addition, many young adults have never experienced a serious romantic relationship. Researchers suggest that the climbing rates of depression and anxiety correlate to this decline in sexual frequency (I quite disagree).
 
-According to a study done by the Kinsey Institute and the dating app Feeld, around half of all Gen Z respondants were single, compared to only around one-fifth of Millenial respondants. This is despite Gen Z being more open and expansive with their views on sexuality and sexual kinks more than prior generations. Even with their expansive views, many report fantasizing about romance and monogamy more than anything else.
+According to a study done by the Kinsey Institute and the dating app Feeld, around half of all Gen Z respondants were single, compared to only around one-fifth of Millennial respondants. This is despite Gen Z being more open and expansive with their views on sexuality and sexual kinks more than prior generations. Even with their expansive views, many report fantasizing about romance and monogamy more than anything else.
 
     "The gamification of dating apps makes it easy to dump a love interest at the first sign of conflict because it is easy to swipe for a new hook-up."
 
