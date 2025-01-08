@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 2025-01-04 15:01
 
 Status: baby
@@ -8,7 +6,6 @@ Tags: [[philosophy]], [[mind]], [[humannature]]
 
 # Escapism
 
->>>>>>> origin/main
 I want escape. 
 
 From what?
