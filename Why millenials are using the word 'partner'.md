@@ -34,6 +34,8 @@ People see the word "partner" as being the perfect signifier of the equality and
 
     "For a long time, a wedding was the only way to signal the depth and seriousness of a romantic relationship, said Amy Shackelford, founder and chief executive of the feminist wedding planning company Modern Rebel. “But we work with couples who get married six years, nine years, 12 years, after they started dating,” she told me. “You think they weren’t serious before then?” The word “partner,” she said, gives couples the power to publicly announce a lasting adult commitment, without an engagement or a wedding. If the couple does decide to get married, the ceremony itself serves not to solidify the relationship but to celebrate it, surrounded by family and friends."
 
+-- Dating for that long indicates a lack of commitment --
+
 
 
 # References
