@@ -1,6 +1,6 @@
 Created: 2025-01-26 17:40
 
-Status: #baby
+Status: #child 
 
 Tags: [[personofjesus]], [[lesson]], [[theology]]
 

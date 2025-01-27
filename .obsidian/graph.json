@@ -1,52 +1,31 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Daily Notes\"  ",
+      "query": "path:\"6 - Personal\"  ",
       "color": {
         "a": 1,
-        "rgb": 16744576
+        "rgb": 47284
       }
     },
     {
-      "query": "path:Personal  ",
+      "query": "path:\"8 - Tags\"  ",
       "color": {
         "a": 1,
-        "rgb": 32445
+        "rgb": 16745573
       }
     },
     {
-      "query": "path:Therapy  ",
+      "query": "path:\"5 - Main Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
-      }
-    },
-    {
-      "query": "path:Thoughts  ",
-      "color": {
-        "a": 1,
-        "rgb": 9437146
-      }
-    },
-    {
-      "query": "path:Quotes  ",
-      "color": {
-        "a": 1,
-        "rgb": 11813631
-      }
-    },
-    {
-      "query": "path:\"Work Stuff\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
+        "rgb": 3994367
       }
     }
   ],
@@ -55,11 +34,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1.20796305338542,
   "lineSizeMultiplier": 2.222216796875,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.510526315789474,
   "repelStrength": 9.5068359375,
   "linkStrength": 0.721052631578947,
   "linkDistance": 193,
-  "scale": 0.7380722973592632,
+  "scale": 0.7207303787636045,
   "close": true
 }
