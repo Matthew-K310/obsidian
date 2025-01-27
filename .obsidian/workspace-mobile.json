@@ -181,7 +181,6 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-importer:Open Importer": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
