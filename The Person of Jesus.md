@@ -4,10 +4,35 @@ Status: #baby
 
 Tags: [[personofjesus]], [[lesson]], [[theology]]
 
-Source: Athanasian Creed 29-37
+Sources: Athanasian Creed 29-37
 Augsburg Confession, Article 3, 1-3
+Equip, Lesson 19 "The Person of Jesus"
 
 # Untitled
+
+## Full List of Questions
+
+- If you had lived in the time of Jesus, do you think you would have recognized Him as the Messiah? What would have surprised you about Jesus?
+
+- Why was it necessary for Jesus to be fully God? - Full divinity was required.
+
+- Why was it necessary for Jesus to be fully man? - Only man under the law could fulfill the law.
+
+- What does the fact that Jesus took on a fully human nature tell us about what it means to be human? - Flesh and rationality
+
+- We sometimes refer to the kingdom of God as an "upside-down kingdom." How does Jesus' ministry reflect this? - Counter-culture
+
+- If our love for Jesus leads us to be like Jesus, what should our lives look like? - Ephesians 5:1-21
+
+- Why are Jesus' death and resurrection both critical to the gospel? - If Christ did not rise again, what is our hope of resurrection?
+
+- Is there any part of Jesus' life, ministry, etc. that you find hard to believe?
+
+- Why must someone believe in Jesus to be saved? Why can't they get to God another way? - "I am the Way, the Truth, and the Life, and no one comes to the Father except through me."
+
+- What arguments do you hear from your friends, academia, or culture against the reality of who Jesus is? How would you respond to these?
+
+- At one point in His ministry, Jesus asked Peter: "Who do you say that I am?" If Jesus were to ask you this today, how would you answer? - My Lord and Savior.
 
 ## Why was it necessary for Jesus to be fully God and fully man?
 
@@ -63,7 +88,7 @@ $\quad$ He was, for all intents and purposes, as we are.
 
 $\quad$ (I need to research this more, as I want a more conclusive answer; I also want to better understand what is the nature of humanity.)
 
-## 
+## We sometimes refer to the kingdom of God as an "upside-down kingdom." How does Jesus' ministry reflect this?
 
 
 
