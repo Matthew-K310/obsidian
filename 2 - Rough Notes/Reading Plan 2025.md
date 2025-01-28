@@ -2,7 +2,7 @@
 
 - [x] Isaiah
 - [ ] Hebrews
-- [ ] Colossians
+- [x] Colossians
 - [ ] Galatians
 - [ ] Micah
 - [ ] Jeremiah
@@ -14,7 +14,7 @@
 - [x] Out of the Silent Planet ✅ 2024-12-27
 - [ ] Perelandra
 - [ ] That Hideous Strength
-- [ ] Lords of Mars
+- [x] Lords of Mars
 - [ ] Screwtape Letters (physical)
 - [ ] 1984 (physical)
 - [ ] Gods of Mars
