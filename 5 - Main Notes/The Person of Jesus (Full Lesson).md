@@ -136,9 +136,11 @@ $\quad$ But this is not the truth. Instead, Christ truly has been raised from th
 
 
 
+
 # References
 
 - 1 Corinthians 15:1-34 
+- Hebrews 10:1-18
 - Athanasian Creed 29-37
 - Augsburg Confession, Article 3, 1-3
 - Equip, Lesson 19, "The Person of Jesus"
