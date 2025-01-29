@@ -38,7 +38,7 @@ Equip, Lesson 19 "The Person of Jesus"
 
 ### The Nature of the Incarnation
 
-    $\quad$"But it is necessary for eternal salvation that one also believe in the incarnation of our Lord Jesus Christ faithfully. Now this is the true faith: that we believe and confess that our Lord Jesus Christ, God's Son, is both God and man, equally. He is God from the essence of the Father, begotten before time; and he is man from the essence of his mother, born in time; completely God, completely man, with a rational soul and human flesh; equal to the Father as regards divinity, less than the Father as regards humanity. Although He is God and man, yet Christ is not two, but one. He is one, however, not by His divinity being turned into flesh, but by God's taking humanity to Himself. He is one, certainly not by the blending of His essence, but by the unity of His person. For just as one man is both rational flesh, so too the one Christ is both God and man."
+    "But it is necessary for eternal salvation that one also believe in the incarnation of our Lord Jesus Christ faithfully. Now this is the true faith: that we believe and confess that our Lord Jesus Christ, God's Son, is both God and man, equally. He is God from the essence of the Father, begotten before time; and he is man from the essence of his mother, born in time; completely God, completely man, with a rational soul and human flesh; equal to the Father as regards divinity, less than the Father as regards humanity. Although He is God and man, yet Christ is not two, but one. He is one, however, not by His divinity being turned into flesh, but by God's taking humanity to Himself. He is one, certainly not by the blending of His essence, but by the unity of His person. For just as one man is both rational flesh, so too the one Christ is both God and man."
     -- Athanasian Creed, lines 29-37
 
 ### Fully God
@@ -51,12 +51,12 @@ $\quad$ The power of man could never defeat the devil, and someone/something tha
 
 ### Fully Man
 
-    $\quad$"But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons."
+    "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons."
     -- Galatians 4:4-5
 
 $\quad$ Only men can be born under the law, so how could one that is not born of the law fulfill the law? (How can you fulfill a law if you're not in the confines of the law?)
 
-    $\quad$"God, in His timing, sent His Son to redeem those under the law, so that we might be adopted as sons." 
+    "God, in His timing, sent His Son to redeem those under the law, so that we might be adopted as sons." 
     -- Personal Bible study notes from Galatians 4:4-5
 
 $\quad$We ourselves, men in the sense of "man" meaning "human", were going to pay the price for our sins in death. (Romans 6:23)
@@ -65,7 +65,7 @@ $\quad$ As we could not uphold the law, we could not be saved by the law, and we
 
 $\quad$ But Christ, in HIs perfect unity of flesh and Spirit, lived a perfect, sinless life as a man so that we might have salvation and forgiveness of sins through His death on the cross.
 
-    $\quad$"Also, they teach that the Word, that is, the Son of God, did assume a the human nature in the womb of the (blessed) Virgin Mary, so that there are two natures, the divine and the human, inseparably enjoined in one Person, one Christ, true God and true man, who was born of the Virgin Mary, truly suffered, was crucified, dead, and buried, that He might reconcile the Father unto us, and be a sacrifice, (not only for original guilt, but also) for all (actual) sins of man."
+    "Also, they teach that the Word, that is, the Son of God, did assume a the human nature in the womb of the (blessed) Virgin Mary, so that there are two natures, the divine and the human, inseparably enjoined in one Person, one Christ, true God and true man, who was born of the Virgin Mary, truly suffered, was crucified, dead, and buried, that He might reconcile the Father unto us, and be a sacrifice, (not only for original guilt, but also) for all (actual) sins of man."
     -- Augsburg Confession, Article 3, 1-3
 
 He suffered as a man for the sake of all men, that He might reconcile the Father to us, as well as for the forgiveness of sins.
@@ -82,37 +82,37 @@ $\quad$ But why is it vital that he died *and* was raised to life again?
 
 $\quad$ In 1 Corinthians 15, Paul speaks of the Gospel, and how he delivered it of first importance to the people of Corinth. 
 
-    $\quad$"For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures." 
+    "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures." 
     -- 1 Corinthians 15:3-4
 
 $\quad$ Paul delivered the foundational message of our faith; Christ was crucified, buried, and rose again on the third day in accordance with the Scriptures. ^926438
 
 $\quad$ Later in the passage, Paul states this question to the Corinthians,
 
-    $\quad$"Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?" 
+    "Now if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?" 
     -- 1 Corinthians 15:12
 
 $\quad$ If the resurrection of Christ is the foundation of our faith, how could some refuse to believe it and still profess to be followers of Christ?
 
-    $\quad$"But if there is no resurrection of the dead, then not even Christ has been raised." 
+    "But if there is no resurrection of the dead, then not even Christ has been raised." 
     -- 1 Corinthians 15:13
 
 $\quad$ Paul challenges their logic, "How could Christ be raised if there is no resurrection? Have we put our hope in a dead man?"
 
-    $\quad$"But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain." 
+    "But if there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, then our preaching is in vain and your faith is in vain." 
     -- 1 Corinthians 15:13-14
 
 $\quad$ Paul states the simple truth of the matter: If Christ was not raised, then our hope and faith have been for nothing and we have believed a lie.
 
 #### (Reference Sunday school lesson on false messiahs)
 
-    $\quad$"We are even found to be misrepresenting God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised."
-      "And if Christ has not been raised, your faith is futile and you         are still in your sins." 
+    "We are even found to be   misrepresenting God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised."
+    "And if Christ has not been raised, your faith is futile and you are still in your sins." 
       -- 1 Corinthians 15:15, 17
 
 $\quad$ Without the resurrection, there is no hope of salvation through the blood of Jesus Christ; and we are still trapped in our sins, clinging to a worthless, hopeless faith.
 
-    $\quad$"If in this life only we have hoped in Christ, we are of all people most to be pitied." 
+    "If in this life only we have hoped in Christ, we are of all people most to be pitied." 
     -- 1 Corinthians 15:19
 
 $\quad$ But this is not the truth. Instead, Christ truly has been raised from the dead, and because of this we have the hope of salvation and eternal life through His blood.
