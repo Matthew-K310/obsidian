@@ -4,7 +4,8 @@ Status: #child
 
 Tags: [[personofjesus]], [[lesson]], [[theology]]
 
-Sources: Athanasian Creed 29-37
+Sources: 1 Corinthians 15:1-34 
+Athanasian Creed 29-37
 Augsburg Confession, Article 3, 1-3
 Equip, Lesson 19 "The Person of Jesus"
 
@@ -33,6 +34,13 @@ Equip, Lesson 19 "The Person of Jesus"
 7. What arguments do you hear from your friends, academia, or culture against the reality of who Jesus is? How would you respond to these?
 
 8. At one point in His ministry, Jesus asked Peter: "Who do you say that I am?" If Jesus were to ask you this today, how would you answer? - My Lord and Savior.
+
+## Questions I'm focusing on
+
+- Why was it necessary for Jesus to be fully God? - Full divinity was required.
+- Why was it necessary for Jesus to be fully man? - Only man under the law could fulfill the law.
+- Why are Jesus' death and resurrection both critical to the gospel?
+- Why must someone believe in Jesus to be saved? Why can't they get to God another way?
 
 ## Why was it necessary for Jesus to be fully God and fully man?
 
@@ -121,13 +129,20 @@ $\quad$ But this is not the truth. Instead, Christ truly has been raised from th
 
 ### Other verses to mention
 
-- 
+- 1 Corinthians 15:29
 
-
+## Why must someone believe in Jesus to be saved? Why can't they get to God another way?
 
 
 
 
 # References
+
+- 1 Corinthians 15:1-34 
+- Athanasian Creed 29-37
+- Augsburg Confession, Article 3, 1-3
+- Equip, Lesson 19, "The Person of Jesus"
+
+# Footnotes
 
 [^1]: [[#^926438]]
