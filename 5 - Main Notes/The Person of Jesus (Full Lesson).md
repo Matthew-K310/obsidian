@@ -125,8 +125,6 @@ Without the resurrection, there is no hope of salvation through the blood of Jes
 
 But this is not the truth. Instead, Christ truly has been raised from the dead, and because of this we have the hope of salvation and eternal life through His blood.
 
-#### (Read The rest of 1 Corinthians 15)
-
 ### Other verses to mention
 
 - 1 Corinthians 15:29
