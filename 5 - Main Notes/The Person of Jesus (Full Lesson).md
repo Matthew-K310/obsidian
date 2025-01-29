@@ -1,6 +1,6 @@
 Created: 2025-01-26 17:40
 
-Status: #child 
+Status: #adult
 
 Tags: [[personofjesus]], [[lesson]], [[theology]]
 
@@ -133,9 +133,18 @@ But this is not the truth. Instead, Christ truly has been raised from the dead, 
 
 ## Why must someone believe in Jesus to be saved? Why can't they get to God another way?
 
+    "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year make perfect those who draw near."
+    -- Hebrews 10:1
 
+The writer of Hebrews lays the simple truth out; all of the repetitive sacrifices that are continually offered can never perfect nor cleanse us.
 
+    "Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any conciousness of sin?"
+    -- Hebrews 10:2
 
+If physical sacrifices could truly provided cleansing, why would they continue to be offered if they had cleansed the people once-for-all?
+
+    "For it is impossible for the blood of bulls and goats to take away sins"
+    -- Hebrews 10:4
 
 # References
 
