@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/The Person of Jesus (Full Lesson).md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Person of Jesus (Full Lesson)"
+              "title": "README"
             }
           },
           {
@@ -203,9 +203,11 @@
   },
   "active": "5189feeedc94349d",
   "lastOpenFiles": [
+    "5 - Main Notes/The Person of Jesus (Full Lesson).md",
+    "2 - Rough Notes/Topics to research.md",
+    "3 - Source Material/Others/The Person of Jesus (Full Lesson).pdf",
     "7 - Daily Notes/01-28-2025.md",
     "Working memory 1-28-25.md",
-    "5 - Main Notes/The Person of Jesus (Full Lesson).md",
     "working memory 1/28/25.md",
     "working memory 1",
     "working memory 1/28",
@@ -232,14 +234,12 @@
     "IT Concepts/What is Clustering?.md",
     "Religion/Theological Issues and Arguments/Questions about Worldview/What does the Bible teach about Masturbation?.md",
     "Religion/Theological Issues and Arguments/Questions about Worldview/_Index_of_Questions about Worldview.md",
-    "Projects/_Index_of_Projects.md",
     "IT Concepts",
     "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw",
     "Church and Religion/Ligonier",
-    "Projects/Project Planning.canvas",
-    "Daily Notes"
+    "Projects/Project Planning.canvas"
   ]
 }
