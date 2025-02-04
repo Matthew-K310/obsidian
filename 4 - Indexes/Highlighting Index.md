@@ -1,4 +1,4 @@
--  = Philosophical
--  = Important
--  = Interesting
--  = Entertaining or funny
+-  [[purple]] = Philosophical
+-  [[pink]] = Important
+-  [[green]] = Interesting
+-  [[yellow]] = Entertaining or funny

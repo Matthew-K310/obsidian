@@ -3,4 +3,4 @@
 - [ ] Why note-taking helps my brain
 - [ ] AI in Dune
 - [ ] The religion of the Adeptus Mechanicus
-- [ ] 
+- [ ] ![[Recording 20250204101201.m4a]]
