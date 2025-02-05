@@ -19,10 +19,10 @@ I am basing my conclusions on Biblical study and understanding of context, as we
 
 ### Questions about Worldview
 
-- Does the Bible support [[The Ordination of Women]]? (Researched)
-- Does the Bible support [[The Practice of Homosexuality]](Researched)
+- Does the Bible support [[The Ordination of Women]]? (Researched, but I definitely need to revise it)
+- Does the Bible support [[The Practice of Homosexuality]](Researched, but I need to revisit)
 - What do we do about [[Drug Use and the Bible]]?
-- What do we do about [[Alcohol and the Bible 1]]? (Researched)
+- What do we do about [[Alcohol and the Bible 1]]? (Researched, but I need to revisit)
 
 ### Questions about the Church
 
@@ -44,7 +44,7 @@ I am basing my conclusions on Biblical study and understanding of context, as we
 
 ### Questions about God
 
-- Does the Bible support [[God Being a Woman]]? (Researched)
+- Does the Bible support [[God Being a Woman]]? (Researched, but it was more abstract)
 - [[What does the Bible say about the Trinity?]]
 
 
