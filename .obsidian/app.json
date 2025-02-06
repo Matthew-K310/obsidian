@@ -9,5 +9,18 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:toggle-checklist-status",
+    "editor:attach-file",
+    "editor:toggle-highlight",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
 }
