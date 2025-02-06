@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## Big projects
 
+- [ ] fix mobile scaling
 - [ ] design store page
 - [ ] create about page
 - [ ] create contact page
