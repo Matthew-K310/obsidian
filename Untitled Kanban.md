@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] decide on font
 - [ ] add profile button
+- [ ] fix title and logo sizing (maybe???)
 
 
 ## Big projects
@@ -25,11 +26,12 @@ kanban-plugin: board
 
 ## In progress
 
+- [ ] import logo
+- [ ] find better way to link svg
 
 
 ## Done
 
-- [ ] import logo
 - [ ] add line below nav
 - [ ] fix svg color on nav
 - [ ] center footnote
