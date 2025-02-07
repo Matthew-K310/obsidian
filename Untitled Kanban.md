@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] add profile button
 - [ ] add sliding underline on button hover
 - [ ] add underline on active tab in nav
-- [ ] add PHP to manage basic HTML items
 
 
 ## Big projects
@@ -42,10 +41,15 @@ kanban-plugin: board
 - [ ] add home button
 
 
+## Postponed
+
+- [ ] add PHP to manage basic HTML items
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
