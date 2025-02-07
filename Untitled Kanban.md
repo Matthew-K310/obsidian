@@ -6,14 +6,13 @@ kanban-plugin: board
 
 ## To-do
 
-- [ ] import logo
 - [ ] decide on font
-- [ ] add line below nav
 - [ ] add profile button
 
 
 ## Big projects
 
+- [ ] import logo
 - [ ] create about page
 - [ ] create contact page
 - [ ] get contact form working
@@ -31,6 +30,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] add line below nav
 - [ ] fix svg color on nav
 - [ ] center footnote
 - [ ] decide on nav buttons
