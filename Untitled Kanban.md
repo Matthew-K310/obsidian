@@ -28,11 +28,12 @@ kanban-plugin: board
 
 ## In progress
 
+- [ ] import logo
+- [ ] find better way to link svg
 
 
 ## Done
 
-- [ ] import logo
 - [ ] add line below nav
 - [ ] fix svg color on nav
 - [ ] center footnote
