@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## To-do
+## Projects
 
 - [ ] decide on font
 - [ ] add profile button
@@ -12,7 +12,6 @@ kanban-plugin: board
 
 ## Big projects
 
-- [ ] import logo
 - [ ] create about page
 - [ ] create contact page
 - [ ] get contact form working
@@ -26,6 +25,7 @@ kanban-plugin: board
 
 ## In progress
 
+- [ ] import logo
 
 
 ## Done
