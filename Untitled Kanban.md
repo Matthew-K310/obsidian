@@ -8,6 +8,9 @@ kanban-plugin: board
 
 - [ ] decide on font
 - [ ] add profile button
+- [ ] add sliding underline on button hover
+- [ ] add underline on active tab in nav
+- [ ] add PHP to manage basic HTML items
 
 
 ## Big projects
