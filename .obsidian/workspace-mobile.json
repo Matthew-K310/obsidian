@@ -61,20 +61,30 @@
             "id": "ac12b5ecaafc1e0f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "2 - Rough Notes/Movies to Watch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Movies to Watch"
+            }
+          },
+          {
+            "id": "d8cd942bc5542199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies for date night.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Movies for date night"
             }
           },
           {
@@ -88,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,9 +242,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac12b5ecaafc1e0f",
+  "active": "d8cd942bc5542199",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2 - Rough Notes/Movies to Watch.md",
+    "Movies for date night.md",
     "Untitled Kanban.md",
     "README.md",
     "5 - Main Notes/The Person of Jesus (Full Lesson).md",
@@ -264,7 +275,6 @@
     "_Index_of_Matthew's Vault.md",
     "Daily Notes/12-09-2024.md",
     "Daily Notes/12-08-2024.md",
-    "IT Concepts/What is a Hypervisor?.md",
     "IT Concepts",
     "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
