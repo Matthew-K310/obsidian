@@ -32,23 +32,7 @@ As we saw from Ben and Jude's lesson last month, God made many covenants.
 
 ## Why is the Old Covenant still relevant?
 
-[With one of my old Bible study groups, we had a system called the Four Questions that we would apply to whatever passage we were reading. The questions were
-
-- What does this say about God?
-- What does this say about us?
-- Is there an attitude we need to change?
-- Is there a work we need to do?
-
-When I read this, I can see that there is a work we are to do: We are to teach the Law accurately in its entirety, not skipping over bits that we don't like all that much.
-
-But why?
-
-First, because Jesus said so!
-
-Second, because the Law was put in place by God.]
-
-The Law is from God, written by Moses through the work of the Spirit. Who are we to disagree with God's commands because we think that they're a bit antiquated?
-
+The Old Testament law and covenant is from God, written by Moses, through the work of the Spirit. Are we to disagree with God's commands because we think that they're a bit antiquated?
 
 There are a lot of similarities between the Old and New Testaments.
 
@@ -58,15 +42,19 @@ Throughout the Old Testament, especially the Pentateuch (the first five books of
 
 ### Second, the whole of the Old Testament points to Christ.
 
-The greatest example of this is the book of Isaiah.
-
-
-The Old Testament/Covenant was also the only part of the Bible that was written at the time of Jesus and makes up 75 percent of all Scripture. The Old Covenant set the groundwork for all that Jesus would do throughout the gospels, and it also gave us a glimpse of the good things to come.
+The Old Covenant set the groundwork for all that Jesus would do throughout the gospels, and it also gave us a glimpse of the good things to come.
 
     "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never"
 
+The greatest example of this is the book of Isaiah.
 
-### For the third reason, we must ask another queston?
+Twelve different chapters out of the sixty-six in Isaiah contain prophecies of the coming Messiah, and Jude taught last month on the topic of the Promised Messiah. We were in Isaiah 53 during that lesson, which is commonly referred to as the "suffering servant" chapter. There, we see one of the most important prophecies of Christ; that He would suffer and be sacrificed for our sins in order that we might have salvation.
+
+### Third, the Old Testament was the only part of the Bible available at the time of Jesus.
+
+The reason that this is important is that Jesus taught in accordance to the available Scriptures and commonly called back to certain passages and prophecies throughout the Old Testament. 
+
+These reasons, along with the fact that the Old Testament makes up 75 percent of all Scripture, are a testament to the relevance and trustworthy nature of the Old Testament.
 
 ## What does it mean that Jesus fulfilled the Law?
 
@@ -81,13 +69,6 @@ We see one more covenant within the Old Testament, and we can find it in Jeremia
     "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts."
 
 ## In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
-
-
-
-
-
-
-
 
 
 # References
