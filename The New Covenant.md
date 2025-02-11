@@ -30,6 +30,7 @@ As we saw from Ben and Jude's lesson last month, God made many covenants.
 
 
 
+
 ## Why is the Old Covenant still relevant?
 
 The Old Testament law and covenant is from God, written by Moses, through the work of the Spirit. Are we to disagree with God's commands because we think that they're a bit antiquated?
@@ -62,13 +63,27 @@ These reasons, along with the fact that the Old Testament makes up 75 percent of
 
 But what does this*mean?* Why is it important that He didn't abolish the Law, but fulfilled it?
 
+
+
+
+
+
 ## What is the hope offered by the New Covenant?
 
 We see one more covenant within the Old Testament, and we can find it in Jeremiah 31:31-34
 
     "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts."
 
+
+
+
+
 ## In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
+
+
+
+
+
 
 
 # References
