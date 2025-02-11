@@ -11,12 +11,13 @@ kanban-plugin: board
 
 ## Projects
 
-- [ ] decide on font
 - [ ] add profile button
+- [ ] decide on font
 
 
 ## Big projects
 
+- [ ] create profile page
 - [ ] create about page
 - [ ] create contact page
 - [ ] get contact form working
@@ -24,18 +25,18 @@ kanban-plugin: board
 
 ## Massive projects
 
-- [ ] fix mobile scaling
 - [ ] design store page
+- [ ] fix mobile scaling
 
 
 ## In progress
 
 - [ ] add underline on active tab in nav
-- [ ] add sliding underline on button hover
 
 
 ## Done
 
+- [ ] add underline on button hover
 - [ ] change nav button order
 - [ ] import logo
 - [ ] find better way to link svg
