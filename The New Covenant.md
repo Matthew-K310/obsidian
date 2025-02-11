@@ -13,6 +13,7 @@ Tags: [[lesson]], [[christianity]], [[covenant]]
 - What is the hope offered by the New Covenant?
 - In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
 
+
 ## What is a Covenant?
 
     "Generally speaking, a covenant is a promise between two or more parties to perform certain actions."
@@ -25,13 +26,28 @@ As we saw from Ben and Jude's lesson last month, God made many covenants.
 - Mosaic - This was the Law of the Old Testament
 - Davidic - A descendant of David would sit on his throne forever
 
+
 ## Why wasn't the Old Covenant enough?
 
+    "For all who rely on the works of the law are under a curse, as it is written: 'Cursed is everyone who does not continue to do everything written in the Book of the Law.'"
 
+The Old Covenant and the Law were never meant for salvation, as God knows that we could never acheive the standard of perfection that was set in the Law. Rather, the Law was meant to show God's moral perfection and our moral failure. Romans says it best,
 
+    "Therefore no one will be declared righteous in God's sight by the works of the law; rather, through the law we become conscious of our sin." - Romans 3:20
+
+No one will be righteous through works of the law, but the law makes us consious of our sins and shortcomings.
+
+The Law can't transform either. See Galatians
+
+    "Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith? Are you so foolish? Having begun in the Spirit, are you now being perfected by the flesh?" - Galatians 3:2-3
 
 
 ## Why is the Old Covenant still relevant?
+
+If the Old Covenant Law could not save, what makes it relevant and useful in the modern day?
+
+    "Is the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have com eby the law. But Scripture has locked up everything under the control of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
+    Before the coming of this faith, we were held in custody under the law, locked up until the faith that was to com would be revealed. So the law was our guardian until Christ came that we might be justified by faith. Now that this faith has come, we are no longer under a guardian.""
 
 The Old Testament law and covenant is from God, written by Moses, through the work of the Spirit. Are we to disagree with God's commands because we think that they're a bit antiquated?
 
@@ -57,15 +73,12 @@ The reason that this is important is that Jesus taught in accordance to the avai
 
 These reasons, along with the fact that the Old Testament makes up 75 percent of all Scripture, are a testament to the relevance and trustworthy nature of the Old Testament.
 
+
 ## What does it mean that Jesus fulfilled the Law?
 
     "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
 
 But what does this*mean?* Why is it important that He didn't abolish the Law, but fulfilled it?
-
-
-
-
 
 
 ## What is the hope offered by the New Covenant?
@@ -75,14 +88,7 @@ We see one more covenant within the Old Testament, and we can find it in Jeremia
     "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts."
 
 
-
-
-
 ## In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
-
-
-
-
 
 
 
