@@ -30,16 +30,6 @@ As we saw from Ben and Jude's lesson last month, God made many covenants.
 
 
 
-## What does it mean that Jesus fulfilled the Law?
-
-    "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
-
-But what does this*mean?*
-
-
-
-
-
 ## Why is the Old Covenant still relevant?
 
 [With one of my old Bible study groups, we had a system called the Four Questions that we would apply to whatever passage we were reading. The questions were
@@ -60,6 +50,29 @@ Second, because the Law was put in place by God.]
 The Law is from God, written by Moses through the work of the Spirit. Who are we to disagree with God's commands because we think that they're a bit antiquated?
 
 
+There are a lot of similarities between the Old and New Testaments.
+
+### First, they both show us how to live.
+
+Throughout the Old Testament, especially the Pentateuch (the first five books of the Bible that make up the Jewish law), we see examples and guidelines (commandments, one might call them) telling us how to conduct ourselves in a way that honors God and brings glory to His name.
+
+### Second, the whole of the Old Testament points to Christ.
+
+The greatest example of this is the book of Isaiah.
+
+
+The Old Testament/Covenant was also the only part of the Bible that was written at the time of Jesus and makes up 75 percent of all Scripture. The Old Covenant set the groundwork for all that Jesus would do throughout the gospels, and it also gave us a glimpse of the good things to come.
+
+    "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never"
+
+
+### For the third reason, we must ask another queston?
+
+## What does it mean that Jesus fulfilled the Law?
+
+    "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
+
+But what does this*mean?* Why is it important that He didn't abolish the Law, but fulfilled it?
 
 ## What is the hope offered by the New Covenant?
 
