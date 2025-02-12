@@ -26,6 +26,8 @@ As we saw from Ben and Jude's lesson last month, God made many covenants.
 - Mosaic - This was the Law of the Old Testament
 - Davidic - A descendant of David would sit on his throne forever
 
+God uses covenants 
+
 
 ## Why wasn't the Old Covenant enough?
 
@@ -71,7 +73,13 @@ Twelve different chapters out of the sixty-six in Isaiah contain prophecies of t
 
 The reason that this is important is that Jesus taught in accordance to the available Scriptures and commonly called back to certain passages and prophecies throughout the Old Testament. 
 
-These reasons, along with the fact that the Old Testament makes up 75 percent of all Scripture, are a testament to the relevance and trustworthy nature of the Old Testament.
+The Old Testament also makes up around 75% of Biblical Scripture.
+
+Paul says this about the Law,
+
+    "What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, 'You shall not covet.'" - Romans 7:7
+
+If the law did not exist, how would we recognize our sin and our need for a Savior? The simple answer is that we wouldn't. We would be stuck in our sin without any guiding rules to hold to.
 
 
 ## What does it mean that Jesus fulfilled the Law?
@@ -102,6 +110,13 @@ We see one more covenant within the Old Testament, and we can find it in Jeremia
 
 
 ## In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
+
+In Jeremiah 31, as well as in a few chapters of Romans (namely in Romans 2:15), we see that God has "written His law on our hearts." This is not referring to the Old Covenant Mosaic Law, but is instead referring to God's moral law.
+
+    "Gentiles may not have the Mosaic law, but they naturally 'do what the law requires.' (Romans 2:14)"
+
+We all have an awareness of God's moral law. Even someone who doesn't believe will know that it is wrong to kill or steal or commit sexual atrocities. this sense comes from the Lord having given us His law to tell us right from wrong. 
+
 
 
 
