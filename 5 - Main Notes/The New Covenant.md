@@ -54,7 +54,7 @@ The Law can't transform either. See Galatians
 
 If the Old Covenant Law could not save, what makes it relevant and useful in the modern day?
 
-    "Is the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have com eby the law. But Scripture has locked up everything under the control of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
+    "Is the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have comeby the law. But Scripture has locked up everything under the control of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
     Before the coming of this faith, we were held in custody under the law, locked up until the faith that was to com would be revealed. So the law was our guardian until Christ came that we might be justified by faith. Now that this faith has come, we are no longer under a guardian." - Galatians 3:21-25
 
 The Old Testament law and covenant is from God, written by Moses, through the work of the Spirit. Are we to disagree with God's commands because we think that they're a bit antiquated?
@@ -92,7 +92,7 @@ If the law did not exist, how would we recognize our sin and our need for a Savi
 
 ^e33744
 
-    "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
+    "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
 
 He fulfilled the Law in three different ways
 
@@ -116,7 +116,7 @@ No burnt offering or ceremonial sacrifice could ever take away our sins. It's as
 
 We see the promise of a future covenant in Jeremiah,
 
-    "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts." - Jeremiah31:31-34
+    "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts." - Jeremiah 31:31-34
 
 We see it again in Ezekiel,
 
