@@ -2,19 +2,21 @@ Created: 2025-02-11 11:37
 
 Tags: [[lesson]], [[christianity]], [[covenant]]
 
+To be taught on 2-12-25 with Lethan Hutchins
+
 # The New Covenant
 
-- What is a Covenant?
-- Why wasn't the Old Covenant enough?
-- What does it mean that Jesus fulfilled the Law? (the Old Covenant)
-- Why is the Old Covenant still relevant?
-- What is the New Covenant?
-- How does life under the New Covenant look different than life under the Old Covenant?
-- What is the hope offered by the New Covenant?
-- In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
+- What is a Covenant? [[#^7b27dc]]
+- Why wasn't the Old Covenant enough? [[#^9b7590]]
+- What does it mean that Jesus fulfilled the Law? [[#^e33744]]
+- Why is the Old Covenant still relevant? [[#^edeccf]]
+- What is the hope offered by the New Covenant? [[#^5da001]]
+- In what way has God "put His laws" in the minds of Christians and "written them on their hearts?" [[#^b844a2]]
 
 
 ## What is a Covenant?
+
+^7b27dc
 
     "Generally speaking, a covenant is a promise between two or more parties to perform certain actions."
 
@@ -31,13 +33,15 @@ God uses covenants
 
 ## Why wasn't the Old Covenant enough?
 
+^9b7590
+
     "For all who rely on the works of the law are under a curse, as it is written: 'Cursed is everyone who does not continue to do everything written in the Book of the Law.'"
 
-The Old Covenant and the Law were never meant for salvation, as God knows that we could never acheive the standard of perfection that was set in the Law. Rather, the Law was meant to show God's moral perfection and our moral failure. Romans says it best,
+The Old Covenant and the Law were never meant for salvation, as God knows that we could never achieve the standard of perfection that was set in the Law. Rather, the Law was meant to show God's moral perfection and our moral failure. Romans says it best,
 
     "Therefore no one will be declared righteous in God's sight by the works of the law; rather, through the law we become conscious of our sin." - Romans 3:20
 
-No one will be righteous through works of the law, but the law makes us consious of our sins and shortcomings.
+No one will be righteous through works of the law, but the law makes us conscious of our sins and shortcomings.
 
 The Law can't transform either. See Galatians
 
@@ -46,10 +50,12 @@ The Law can't transform either. See Galatians
 
 ## Why is the Old Covenant still relevant?
 
+^edeccf
+
 If the Old Covenant Law could not save, what makes it relevant and useful in the modern day?
 
     "Is the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have com eby the law. But Scripture has locked up everything under the control of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe.
-    Before the coming of this faith, we were held in custody under the law, locked up until the faith that was to com would be revealed. So the law was our guardian until Christ came that we might be justified by faith. Now that this faith has come, we are no longer under a guardian.""
+    Before the coming of this faith, we were held in custody under the law, locked up until the faith that was to com would be revealed. So the law was our guardian until Christ came that we might be justified by faith. Now that this faith has come, we are no longer under a guardian." - Galatians 3:21-25
 
 The Old Testament law and covenant is from God, written by Moses, through the work of the Spirit. Are we to disagree with God's commands because we think that they're a bit antiquated?
 
@@ -84,6 +90,8 @@ If the law did not exist, how would we recognize our sin and our need for a Savi
 
 ## What does it mean that Jesus fulfilled the Law?
 
+^e33744
+
     "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
 
 He fulfilled the Law in three different ways
@@ -104,12 +112,32 @@ No burnt offering or ceremonial sacrifice could ever take away our sins. It's as
 
 ## What is the hope offered by the New Covenant?
 
-We see one more covenant within the Old Testament, and we can find it in Jeremiah 31:31-34
+^5da001
 
-    "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts."
+We see the promise of a future covenant in Jeremiah,
+
+    "'Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts." - Jeremiah31:31-34
+
+We see it again in Ezekiel,
+
+    "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh."
+
+We would be filled with the Holy Spirit, and our hearts would change thanks to the sanctifying work of the Spirit within us. 
+
+The New Covenant was originally given to Israel,
+
+    "Then you will live in the land I gave your ancestors; you will be my people, and I will be your God." - Ezekiel 36:28
+
+Even though this promise was originally made to Israel, God's grace, through Christ's work on the cross, brought Gentiles into the New Covenant, as well.
+
+    "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ. For He Himself is our peace, who has made us both one and has broken down in His flesh the diving wall of hostility." - Ephesians 2:13-14
+
+The promise of the New Covenant is salvation and unity by the blood of Christ, as well as eternal life with our Father in the coming Messianic kingdom.
 
 
-## In what way has God "put His laws" in the minds of Christians and "[written] them on their hearts?"
+## In what way has God "put His laws" in the minds of Christians and "written them on their hearts?"
+
+^b844a2
 
 In Jeremiah 31, as well as in a few chapters of Romans (namely in Romans 2:15), we see that God has "written His law on our hearts." This is not referring to the Old Covenant Mosaic Law, but is instead referring to God's moral law.
 
@@ -118,6 +146,13 @@ In Jeremiah 31, as well as in a few chapters of Romans (namely in Romans 2:15), 
 We all have an awareness of God's moral law. Even someone who doesn't believe will know that it is wrong to kill or steal or commit sexual atrocities. this sense comes from the Lord having given us His law to tell us right from wrong. 
 
 
+# Sources
 
+- [What is the New Covenant?](https://www.gotquestions.org/new-covenant.html)
+- [What does it mean that the law is written on our hearts?](https://www.gotquestions.org/law-written-on-our-hearts.html)
+- [Christ as the Fulfillment of the Law](https://biblehub.com/topical/c/christ_as_the_fulfillment_of_the_law.htm)
+- [Why can the law not save us?](https://www.gotquestions.org/why-can-the-law-not-save-us.html)
+- [The Coming of the Messiah](https://www.openbible.info/topics/the_coming_of_the_messiah)
+- [10 Reasons the Old Testament Matters to Christians](https://www.crossway.org/articles/10-reasons-the-old-testament-matters-to-christians/)
 
 # References
