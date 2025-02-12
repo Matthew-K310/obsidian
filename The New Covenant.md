@@ -78,7 +78,20 @@ These reasons, along with the fact that the Old Testament makes up 75 percent of
 
     "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pas away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
 
-But what does this*mean?* Why is it important that He didn't abolish the Law, but fulfilled it?
+He fulfilled the Law in three different ways
+
+- Moral fulfillment - He adhered to the moral standards of the Law by living a life free of all sin. His teachings also call His followers to live in imitation of Him and to strive for righteousness.
+
+- Ceremonial fulfillment - He also was the perfect sacrificial lamb for our atonement. Hebrews says this
+
+    "For it is impossible for the blood of bulls and goats to take away sins." - Hebrews 10:4
+
+No burnt offering or ceremonial sacrifice could ever take away our sins. It's as the song says
+
+    "What can take away my sins? Nothing but the blood of Jesus.
+     What can make me whole again? Nothing but the blood of Jesus."
+
+- Prophetic fulfillment - He also fulfilled the Old Testament prophecies of the promised Messiah, as mentioned previously and as we learned a few weeks ago with Jude's lesson.
 
 
 ## What is the hope offered by the New Covenant?
