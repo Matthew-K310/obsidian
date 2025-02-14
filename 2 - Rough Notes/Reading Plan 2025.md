@@ -3,7 +3,7 @@
 - [x] Isaiah
 - [ ] Hebrews
 - [x] Colossians
-- [ ] Galatians
+- [x] Galatians
 - [ ] Micah
 - [ ] Jeremiah
 - [ ] Nehamiah

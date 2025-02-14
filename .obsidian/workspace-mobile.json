@@ -78,13 +78,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/The New Covenant.md",
-                "mode": "preview",
+                "file": "Books I read in 2025.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The New Covenant"
+              "title": "Books I read in 2025"
             }
           },
           {
@@ -244,6 +244,9 @@
   },
   "active": "d8cd942bc5542199",
   "lastOpenFiles": [
+    "2 - Rough Notes/Reading Plan 2025.md",
+    "Books I read in 2025.md",
+    "5 - Main Notes/The New Covenant.md",
     "The New Covenant.pdf",
     "2 - Rough Notes/Topics to research.md",
     "2 - Rough Notes/Things to Look Into.md",
@@ -273,14 +276,11 @@
     "Personal/Ask about this SOON.md",
     "Religion/Theological Issues and Arguments/Questions about Crucifixion/Concept of Glorious Exchange.md",
     "Religion/Theological Issues and Arguments/Questions about Crucifixion/_Index_of_Questions about Crucifixion.md",
-    "Religion/Theological Issues and Arguments/_Index_of_Theological Issues and Arguments.md",
-    "Religion/_Index_of_Religion.md",
     "IT Concepts",
     "Excalidraw/Scripts",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw",
-    "Church and Religion/Ligonier",
     "Projects/Project Planning.canvas"
   ]
 }
