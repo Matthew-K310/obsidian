@@ -19,7 +19,6 @@ kanban-plugin: board
 
 - [ ] create profile page
 - [ ] create about page
-- [ ] create contact page
 - [ ] get contact form working
 
 
@@ -48,10 +47,15 @@ kanban-plugin: board
 - [ ] add home button
 
 
+## Today
+
+- [ ] create contact page
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
