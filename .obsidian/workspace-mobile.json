@@ -78,7 +78,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "belles-crafts Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -93,7 +93,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "belles-crafts Kanban"
             }
           },
           {
@@ -251,7 +251,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d8cd942bc5542199",
+  "active": "8e8776d005ec0fa7",
   "lastOpenFiles": [
     "Books I read in 2025.md",
     "2 - Rough Notes/Reading Plan 2025.md",
@@ -262,7 +262,7 @@
     "2 - Rough Notes/Things to pray for.md",
     "2 - Rough Notes/Movies for date night.md",
     "2 - Rough Notes/Movies to Watch.md",
-    "Untitled Kanban.md",
+    "belles-crafts Kanban.md",
     "README.md",
     "5 - Main Notes/The Person of Jesus (Full Lesson).md",
     "2 - Rough Notes/Fun writing ideas.md",
