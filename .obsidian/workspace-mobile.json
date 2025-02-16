@@ -15,8 +15,8 @@
               "state": {
                 "file": "5 - Main Notes/The Person of Jesus (Full Lesson).md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "The Person of Jesus (Full Lesson)"
@@ -106,8 +106,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,8 +250,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e8776d005ec0fa7",
+  "active": "f5632611c8f03765",
   "lastOpenFiles": [
+    "belles-crafts Kanban.md",
     "Books I read in 2025.md",
     "2 - Rough Notes/Reading Plan 2025.md",
     "5 - Main Notes/The New Covenant.md",
@@ -262,7 +262,6 @@
     "2 - Rough Notes/Things to pray for.md",
     "2 - Rough Notes/Movies for date night.md",
     "2 - Rough Notes/Movies to Watch.md",
-    "belles-crafts Kanban.md",
     "README.md",
     "5 - Main Notes/The Person of Jesus (Full Lesson).md",
     "2 - Rough Notes/Fun writing ideas.md",
