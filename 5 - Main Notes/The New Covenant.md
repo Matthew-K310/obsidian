@@ -6,17 +6,15 @@ To be taught on 2-12-25 with Lethan Hutchins
 
 # The New Covenant
 
-- What is a Covenant? [[#^7b27dc]]
-- Why wasn't the Old Covenant enough? [[#^9b7590]]
-- What does it mean that Jesus fulfilled the Law? [[#^e33744]]
-- Why is the Old Covenant still relevant? [[#^edeccf]]
-- What is the hope offered by the New Covenant? [[#^5da001]]
-- In what way has God "put His laws" in the minds of Christians and "written them on their hearts?" [[#^b844a2]]
+- What is a Covenant? 
+- Why wasn't the Old Covenant enough? 
+- What does it mean that Jesus fulfilled the Law? 
+- Why is the Old Covenant still relevant? 
+- What is the hope offered by the New Covenant? 
+- In what way has God "put His laws" in the minds of Christians and "written them on their hearts?" 
 
 
 ## What is a Covenant?
-
-^7b27dc
 
     "Generally speaking, a covenant is a promise between two or more parties to perform certain actions."
 
@@ -33,8 +31,6 @@ God uses covenants
 
 ## Why wasn't the Old Covenant enough?
 
-^9b7590
-
     "For all who rely on the works of the law are under a curse, as it is written: 'Cursed is everyone who does not continue to do everything written in the Book of the Law.'"
 
 The Old Covenant and the Law were never meant for salvation, as God knows that we could never achieve the standard of perfection that was set in the Law. Rather, the Law was meant to show God's moral perfection and our moral failure. Romans says it best,
@@ -49,8 +45,6 @@ The Law can't transform either. See Galatians
 
 
 ## Why is the Old Covenant still relevant?
-
-^edeccf
 
 If the Old Covenant Law could not save, what makes it relevant and useful in the modern day?
 
@@ -90,8 +84,6 @@ If the law did not exist, how would we recognize our sin and our need for a Savi
 
 ## What does it mean that Jesus fulfilled the Law?
 
-^e33744
-
     "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven. For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven." - Matthew 5:17-20
 
 He fulfilled the Law in three different ways
@@ -111,8 +103,6 @@ No burnt offering or ceremonial sacrifice could ever take away our sins. It's as
 
 
 ## What is the hope offered by the New Covenant?
-
-^5da001
 
 We see the promise of a future covenant in Jeremiah,
 
@@ -136,8 +126,6 @@ The promise of the New Covenant is salvation and unity by the blood of Christ, a
 
 
 ## In what way has God "put His laws" in the minds of Christians and "written them on their hearts?"
-
-^b844a2
 
 In Jeremiah 31, as well as in a few chapters of Romans (namely in Romans 2:15), we see that God has "written His law on our hearts." This is not referring to the Old Covenant Mosaic Law, but is instead referring to God's moral law.
 
