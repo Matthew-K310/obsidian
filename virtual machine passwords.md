@@ -1,6 +1,6 @@
 nextcloud
-	matthewcloud
-	willtreaty
+	matthew
+	selfhostcloud
 
 Nextcloud
 	matthew
