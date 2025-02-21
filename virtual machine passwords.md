@@ -1,19 +1,11 @@
-nextcloudserverhost
-	matthewcloud
-	willtreaty
-
-vault
-	matthew
-	willtreaty
-
-rdrelay
-
-
-
-Nextcloud
+nextcloud
 	matthew
 	selfhostcloud
 
-piholedns
+Nextcloud
+	matthewcloud
+	selfhostcloud
+
+pihole
 	root
-	piholeadblock
+    dnsadblock
