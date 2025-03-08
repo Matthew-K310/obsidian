@@ -89,5 +89,13 @@
       ],
       "key": "N"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
   ]
 }

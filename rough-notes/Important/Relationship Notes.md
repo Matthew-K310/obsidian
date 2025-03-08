@@ -2,7 +2,7 @@ Created: 080320251628
 
 Type: #rough
 
-Tags: [[index]], [[relationship]], [[personal]]
+Tags: [[index]], [[080320251630-relationship|relationship]], [[personal]], [[important]]
 
 **First day talking - Sunday, February 18th**
 
