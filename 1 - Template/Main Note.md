@@ -1,17 +1,14 @@
+Title:
+
 Created: {{date}} {{time}}
 
-Status:
+Type:
+
+Source:
 
 Tags:
 
-# {{Title}}
-
-
-
-
-
-
-
-
+# Content
 
 # References
+

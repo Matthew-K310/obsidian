@@ -1,7 +1,9 @@
+Title:
+
 Created: {{date}}
 
-Status: #quote 
+Type: #quote
+
+Source:
 
 Tags:
-
-# {{Title}}
