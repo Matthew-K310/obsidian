@@ -1,3 +1,4 @@
 {
-  "format": "DDMMYYYYHHmm"
+  "format": "DDMMYYYYHHmm",
+  "template": "Templates/Main Note"
 }

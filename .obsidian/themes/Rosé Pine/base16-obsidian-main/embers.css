@@ -1,0 +1,181 @@
+:root {
+  --base00: #16130F;
+  --base01: #2C2620;
+  --base02: #433B32;
+  --base03: #5A5047;
+  --base04: #8A8075;
+  --base05: #A39A90;
+  --base06: #BEB6AE;
+  --base07: #DBD6D1;
+  --base08: #826D57;
+  --base09: #828257;
+  --base0A: #6D8257;
+  --base0B: #57826D;
+  --base0C: #576D82;
+  --base0D: #6D5782;
+  --base0E: #82576D;
+  --base0F: #825757;
+}
+
+/*************************
+ * Font selection
+*************************/
+
+.workspace {
+  font-family: var(--font-family-editor);
+}
+
+.markdown-preview-view {
+  font-family: var(--font-family-preview) !important;
+}
+
+/*************************
+ * workspace
+*************************/
+
+.workspace {
+  color: var(--base06) !important;
+  background-color: var(--base00) !important;
+}
+
+.workspace-tabs {
+  color: var(--base06) !important;
+  background-color: var(--base00) !important;
+}
+
+.workspace-tab-header {
+  color: var(--base06) !important;
+  background-color: var(--base00) !important;
+}
+
+.workspace-tab-header-inner {
+  color: var(--base02) !important;
+}
+
+.workspace-leaf {
+  color: var(--base06) !important;
+  background-color: var(--base00) !important;
+}
+
+/*************************
+ * View header
+*************************/
+
+.view-header {
+  background-color: var(--base00) !important;
+  color: var(--base06) !important;
+  border-bottom: 1px solid var(--base01);
+}
+
+.view-header-title {
+  color: var(--base06) !important;
+}
+
+.view-header-title-container:after {
+  background: none !important;
+}
+
+.view-content {
+  background-color: var(--base00) !important;
+  color: var(--base06) !important;
+}
+
+.view-action {
+  color: var(--base06) !important;
+}
+
+/*************************
+ * Nav folder
+*************************/
+
+.nav-folder-title, .nav-file-title {
+  background-color: var(--base00) !important;
+  color: var(--base06) !important;
+}
+
+.nav-action-button {
+  color: var(--base06) !important;
+}
+
+/*************************
+ * Markdown headers
+*************************/
+
+.cm-header-1, .markdown-preview-view h1 {
+  color: var(--base0A);
+}
+
+.cm-header-2, .markdown-preview-view h2 {
+  color: var(--base0B);
+}
+
+.cm-header-3, .markdown-preview-view h3 {
+  color: var(--base0C);
+}
+
+.cm-header-4, .markdown-preview-view h4 {
+  color: var(--base0D);
+}
+
+.cm-header-5, .markdown-preview-view h5 {
+  color: var(--base0E);
+}
+
+.cm-header-6, .markdown-preview-view h6 {
+  color: var(--base0E);
+}
+
+/*************************
+ * Markdown strong and emphasis
+*************************/
+
+.cm-em, .markdown-preview-view em {
+  color: var(--base0D);
+}
+
+.cm-strong, .markdown-preview-view strong {
+  color: var(--base09);
+}
+
+/*************************
+ * Markdown links
+*************************/
+
+.cm-link, .markdown-preview-view a {
+  color: var(--base0C) !important;
+}
+
+.cm-formatting-link,.cm-url {
+  color: var(--base03) !important;
+}
+
+/*************************
+ * Quotes
+*************************/
+
+.cm-quote, .markdown-preview-view blockquote {
+  color: var(--base0D) !important;
+}
+
+/*************************
+ * Code blocks
+*************************/
+
+.HyperMD-codeblock, .markdown-preview-view pre {
+  color: var(--base07) !important;
+  background-color: var(--base01) !important;
+}
+
+.cm-inline-code, .markdown-preview-view code {
+  color: var(--base07) !important;
+  background-color: var(--base01) !important;
+}
+
+/*************************
+ * Cursor
+*************************/
+
+.CodeMirror-cursors {
+  color: var(--base0B);
+  z-index: 5 !important /* fixes a bug where cursor is hidden in code blocks */
+}

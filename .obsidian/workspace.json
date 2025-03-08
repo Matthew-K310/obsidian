@@ -4,56 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c33a1e310817a03c",
+        "id": "c97c2dfacba948a0",
         "type": "tabs",
         "children": [
           {
-            "id": "e143e6c2e176716f",
+            "id": "d15c616c8fd524ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote/1 - Rough Notes/Things to Look Into.md",
+                "file": "Reading Things to Look Into.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Things to Look Into"
+              "title": "Reading Things to Look Into"
             }
           },
           {
-            "id": "22a9f6566d7fc415",
+            "id": "ec221ccc40ad4a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote/6 - Full Notes/Papers/Thoughts on Scrolling.md",
+                "file": "templates/Main Note.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts on Scrolling"
-            }
-          },
-          {
-            "id": "70a608b7d66a8c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remote/6 - Full Notes/Lessons/The Person of Jesus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Person of Jesus"
+              "title": "Main Note"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,42 +52,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eb6633cb765a87b",
+            "id": "bef70e8d3fd0d835",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "ce3ba26637fdd5a9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "ea2792555361ab36",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -120,39 +79,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "221cac4a64c826f4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Religion/Theological Issues and Arguments/Questions about Worldview/Alcohol and the Bible.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Alcohol and the Bible"
-            }
-          },
-          {
-            "id": "6f102d8c19e61b24",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Resume Requirements.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Resume Requirements"
-            }
-          },
-          {
             "id": "88fa426244b1c2ac",
             "type": "leaf",
             "state": {
@@ -166,19 +92,17 @@
             }
           },
           {
-            "id": "ef43fc31eac85141",
+            "id": "15bf3c587e00d71d",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Resume Requirements.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Resume Requirements"
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "4ed435f1dd178f6e",
+            "id": "4088d649c8982a3e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -190,84 +114,137 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "f58e3e63b8c2973a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remote/10 - Tags/agony.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for agony"
+            }
+          },
+          {
+            "id": "506ec63cf50195a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remote/10 - Tags/agony.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from agony"
+            }
+          },
+          {
+            "id": "b6ffd72b5e08eb88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remote/Untitled Kanban.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled Kanban"
+            }
+          },
+          {
+            "id": "8ce620cb88e3c465",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 264.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": true,
-      "omnisearch:Omnisearch": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "local-backup:Run local backup": false,
-      "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "70a608b7d66a8c9c",
+  "active": "ec221ccc40ad4a8a",
   "lastOpenFiles": [
-    "remote/6 - Full Notes/Lessons",
-    "remote/2 - Source Material/Annotations/Annotation of The Chalcedonian Definition.pdf",
-    "remote/6 - Full Notes/Lessons/The Person of Jesus.md",
-    "remote/4 - Indexes/Index of My Beliefs.md",
-    "remote/6 - Full Notes/Papers/Thoughts on Existence and Purpose.md",
-    "remote/1 - Rough Notes/Thoughts/Era 1- Moving churches.md",
-    "remote/1 - Rough Notes/Thoughts/A choice between faith and pleasure….md",
-    "remote/6 - Full Notes/Papers/Thoughts on Scrolling.md",
-    "remote/6 - Full Notes/Essays/On Life, the Memory of Pleasure, and the Upkeep of the Mind.md",
-    "remote/5 - Template/Untitled.md",
-    "remote/6 - Full Notes/Papers",
-    "remote/6 - Full Notes/Essays",
-    "remote/8 - Theology",
-    "remote/7 - Research",
-    "remote/1 - Rough Notes/Thoughts/The Thrawn Trilogy was my second foray into the world of Star Wars….md",
-    "remote/templates/Untitled.md",
-    "remote/1 - Rough Notes/Reading Things to Look Into.md",
-    "remote/2 - Source Material/Annotations",
-    "remote/2 - Source Material/Others",
-    "remote/2 - Source Material/Papers",
-    "remote/2 - Source Material/Books",
-    "remote/2 - Source Material/Articles",
-    "remote/1 - Rough Notes/Things to Look Into.md",
-    "remote/5 - Template/todo template.md",
-    "remote/_Index_of_remote.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/What are our goals as a media team.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/VBS 2024 hours.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/Times I’ve worked in 2024.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/Student Center Issues and Fixes.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/Sarah,.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/Monday night hours 445-830 (3hrs 45min).md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/How to use the In Ear stationsP16s.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/For Vista Light Setup.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/Carlos, 1.md",
-    "remote/9 - Personal/Work Stuff/Old Hurst AV Work/7 38” for dca label.md",
-    "remote/9 - Personal/Work Stuff/_Index_of_Work Stuff.md",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 9.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 7.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 15.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 14.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 13.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 12.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 11.png",
-    "remote/8 - Religion/Sermon Notes/Handwritten Notes/Drawing 10.png",
-    "remote/1 - Rough Notes/Projects/Project Planning.canvas",
-    "remote/1 - Rough Notes/Ideas/Drawing 5.png",
-    "remote/1 - Rough Notes/Ideas/Drawing 4.png",
+    "projects/belles-crafts Kanban.md",
+    "projects/Belle's Crafts Brainstorming.md",
+    "programming/div id=name-field class=form-item fields name required.md",
+    "programming/def read_input().md",
+    "programming/C++ Learning Notes.md",
+    "programming/Arch Install (UEFI).md",
+    "programming",
+    "projects/Korg Triton Parts List.md",
+    "projects/Korg Triton Parts List 1.md",
+    "projects/AirPods Pro style earbuds with the option for an mmcx cable at the….md",
+    "projects",
+    "Programming/div id=name-field class=form-item fields name required.md",
+    "Programming/def read_input().md",
+    "Programming/C++ Learning Notes.md",
+    "Programming/Arch Install (UEFI).md",
+    "Programming",
+    "Projects/Korg Triton Parts List.md",
+    "Projects/Korg Triton Parts List 1.md",
+    "Projects/AirPods Pro style earbuds with the option for an mmcx cable at the….md",
+    "Projects",
+    "rough-notes/Ideas/song idea 2-25-25.md",
+    "source-material/Others/deadmau5 Masterclass notes.md",
+    "rough-notes/Useful/Purchase dates for music gear.md",
+    "rough-notes/Purchase dates for music gear.md",
+    "03/07",
+    "03",
+    "hello.md",
+    "1741399451-hello.md",
+    "dailies/070320251946.md",
+    "dailies/2025-03-07.md",
+    "2025-03-07.md",
+    "1741396309-USYQ.md",
+    "dailies",
+    "rough-notes/Useful",
+    "rough-notes/Important",
+    "mini-essays",
+    "source-material/Others/Screenshot 2024-12-30 at 18.18.09.jpeg",
+    "source-material/Sermons/Handwritten Notes/Drawing 9.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 13.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 7.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 12.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 15.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 11.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 14.png",
+    "source-material/Sermons/Handwritten Notes/Drawing 10.png",
+    "rough-notes/Ideas/Drawing 5.png",
+    "remote/2 - Rough Notes/Projects/Project Planning.canvas",
+    "remote/5 - Main Notes/Catholicism Research.canvas",
     "remote/Projects 1/Project Planning.canvas",
-    "Project Planning.canvas",
-    "Untitled.canvas"
+    "Project Planning.canvas"
   ]
 }
