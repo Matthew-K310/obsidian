@@ -1,0 +1,3 @@
+Created: {{date}}
+
+Type: #daily

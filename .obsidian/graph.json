@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"6 - Personal\"  ",
+      "query": "path:daily-notes  ",
       "color": {
         "a": 1,
-        "rgb": 47284
+        "rgb": 11629170
       }
     },
     {
-      "query": "path:\"8 - Tags\"  ",
+      "query": "path:main-notes  ",
       "color": {
         "a": 1,
-        "rgb": 16745573
+        "rgb": 5142886
       }
     },
     {
-      "query": "path:\"5 - Main Notes\"  ",
+      "query": "path:mini-essays  ",
       "color": {
         "a": 1,
-        "rgb": 3994367
+        "rgb": 5726862
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 9.5068359375,
   "linkStrength": 0.721052631578947,
   "linkDistance": 193,
-  "scale": 0.7207303787636045,
+  "scale": 0.6445060120105082,
   "close": true
 }

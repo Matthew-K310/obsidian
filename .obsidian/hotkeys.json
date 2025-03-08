@@ -77,14 +77,6 @@
   "file-explorer:new-file": [
     {
       "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
-  "templater-obsidian:create-remote/5 - Template/Untitled.md": [
-    {
-      "modifiers": [
         "Mod"
       ],
       "key": "N"
@@ -93,8 +85,7 @@
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Ctrl"
       ],
       "key": "N"
     }
