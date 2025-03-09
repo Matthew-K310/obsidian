@@ -13,32 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Things to Look Into.md",
+                "file": "tags/psalm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reading Things to Look Into"
+              "title": "psalm"
             }
           },
           {
-            "id": "ec221ccc40ad4a8a",
+            "id": "7ce3eb77f0b83f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Main Note.md",
+                "file": "tags/pleaure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Main Note"
+              "title": "pleaure"
+            }
+          },
+          {
+            "id": "3cc9de0fbbe3980a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +72,24 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "88fa426244b1c2ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,49 +104,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88fa426244b1c2ac",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "15bf3c587e00d71d",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4088d649c8982a3e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "f58e3e63b8c2973a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remote/10 - Tags/agony.md",
+                "file": "tags/psalm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for agony"
+              "title": "Backlinks for psalm"
             }
           },
           {
@@ -147,31 +135,8 @@
               "icon": "links-going-out",
               "title": "Outgoing links from agony"
             }
-          },
-          {
-            "id": "b6ffd72b5e08eb88",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "remote/Untitled Kanban.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
-            }
-          },
-          {
-            "id": "8ce620cb88e3c465",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,54 +159,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec221ccc40ad4a8a",
+  "active": "88fa426244b1c2ac",
   "lastOpenFiles": [
-    "projects/belles-crafts Kanban.md",
-    "projects/Belle's Crafts Brainstorming.md",
-    "programming/div id=name-field class=form-item fields name required.md",
-    "programming/def read_input().md",
-    "programming/C++ Learning Notes.md",
-    "programming/Arch Install (UEFI).md",
+    "tags/psalm.md",
+    "tags/faith.md",
+    "main-notes/Belle's Crafts Brainstorming.md",
+    "tags/design.md",
+    "tags/brainstorming.md",
+    "tags/project.md",
+    "tags/useful.md",
+    "tags/setup.md",
+    "tags/work.md",
+    "tags/concepts.md",
+    "tags/book.md",
+    "tags/music.md",
+    "tags/pleaure.md",
+    "indexes/Books I read in 2025.md",
+    "main-notes/child-sexual-abuse-training.md",
+    "rough-notes/important/virtual machine passwords.md",
+    "rough-notes/important/Relationship Notes.md",
+    "rough-notes/important/Bitwarden password.md",
+    "rough-notes/important/Movies for date night.md",
+    "rough-notes/important",
+    "rough-notes/work/FBCH Easter Event 2024.md",
+    "rough-notes/work/4 tables in 203.md",
+    "rough-notes/work/080320251700-setup.md",
+    "rough-notes/work",
+    "rough-notes/sermons/Handwritten Notes/Drawing 14.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 12.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 10.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 9.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 7.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 15.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 11.png",
+    "rough-notes/sermons/Handwritten Notes/Drawing 13.png",
+    "rough-notes/sermons/The Unfathomable Generosity of God.md",
+    "rough-notes/sermons/The Seed.md",
+    "rough-notes/sermons/The Lord's Supper and Idolatry.md",
+    "rough-notes/sermons/The Difficult Balance of Freedom and Love.md",
+    "rough-notes/sermons/Handwritten Notes",
+    "rough-notes/sermons",
+    "rough-notes/Thoughts/Do I fear Death?.md~",
+    "rough-notes/Drawing 3.png",
+    "rough-notes/Drawing 5.png",
+    "source-material/Papers/Annotation of The Chalcedonian Definition.pdf",
+    "source-material/Others/The Person of Jesus (Full Lesson).pdf",
+    "source-material/Articles/the-ransom-theory-2.pdf",
+    "source-material/Books/MortificationOfSinInBelievers 1.pdf",
     "programming",
-    "projects/Korg Triton Parts List.md",
-    "projects/Korg Triton Parts List 1.md",
-    "projects/AirPods Pro style earbuds with the option for an mmcx cable at the….md",
-    "projects",
-    "Programming/div id=name-field class=form-item fields name required.md",
-    "Programming/def read_input().md",
-    "Programming/C++ Learning Notes.md",
-    "Programming/Arch Install (UEFI).md",
-    "Programming",
-    "Projects/Korg Triton Parts List.md",
-    "Projects/Korg Triton Parts List 1.md",
-    "Projects/AirPods Pro style earbuds with the option for an mmcx cable at the….md",
-    "Projects",
-    "rough-notes/Ideas/song idea 2-25-25.md",
-    "source-material/Others/deadmau5 Masterclass notes.md",
-    "rough-notes/Useful/Purchase dates for music gear.md",
-    "rough-notes/Purchase dates for music gear.md",
-    "03/07",
-    "03",
-    "hello.md",
-    "1741399451-hello.md",
-    "dailies/070320251946.md",
-    "dailies/2025-03-07.md",
-    "2025-03-07.md",
-    "1741396309-USYQ.md",
-    "dailies",
-    "rough-notes/Useful",
-    "rough-notes/Important",
-    "mini-essays",
-    "source-material/Others/Screenshot 2024-12-30 at 18.18.09.jpeg",
-    "source-material/Sermons/Handwritten Notes/Drawing 9.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 13.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 7.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 12.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 15.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 11.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 14.png",
-    "source-material/Sermons/Handwritten Notes/Drawing 10.png",
-    "rough-notes/Ideas/Drawing 5.png",
     "remote/2 - Rough Notes/Projects/Project Planning.canvas",
     "remote/5 - Main Notes/Catholicism Research.canvas",
     "remote/Projects 1/Project Planning.canvas",

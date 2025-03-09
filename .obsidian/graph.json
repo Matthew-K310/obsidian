@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:daily-notes  ",
+      "query": "path:dailies  ",
       "color": {
         "a": 1,
         "rgb": 11629170
@@ -22,10 +22,24 @@
       }
     },
     {
-      "query": "path:mini-essays  ",
+      "query": "tag:#miniessay  ",
       "color": {
         "a": 1,
         "rgb": 5726862
+      }
+    },
+    {
+      "query": "tag:#full  ",
+      "color": {
+        "a": 1,
+        "rgb": 8306909
+      }
+    },
+    {
+      "query": "path:tags  ",
+      "color": {
+        "a": 1,
+        "rgb": 13621113
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 9.5068359375,
   "linkStrength": 0.721052631578947,
   "linkDistance": 193,
-  "scale": 0.6445060120105082,
+  "scale": 0.5410704052968632,
   "close": true
 }
