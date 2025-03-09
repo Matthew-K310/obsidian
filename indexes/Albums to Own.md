@@ -2,7 +2,7 @@ Created: 080320251626
 
 Type: #rough
 
-Tags: [[useful]], [[music]]
+Tags: [[useful]], [[music]], [[index]]
 
 - The Lasy Goodbye
 - A Moment Apart
@@ -23,4 +23,3 @@ Tags: [[useful]], [[music]]
 - Shadowboxer
 - Happiness, Guaranteed
 - BRONSON
-

@@ -1,18 +1,18 @@
 2025-01-04 15:01
 
-Status: baby
+Type: #mini
 
-Tags: [[philosophy]], [[mind]], [[humannature]]
+Tags: [[philosophy]], [[mind]]
 
 # Escapism
 
-I want escape. 
+I want escape.
 
 From what?
 
 From my fear
 
-From my anxiety 
+From my anxiety
 
 From my anger
 
@@ -42,15 +42,8 @@ instead of these temporary “pleasures”?
 
 Because I’m prideful
 
-Because I think I know better 
+Because I think I know better
 
 But I know nothing
 
-<<<<<<< HEAD
-compared to Him who created me. 
-=======
-compared to Him who created me. 
-
-# References
-
->>>>>>> origin/main
+compared to Him who created me.
