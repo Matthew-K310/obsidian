@@ -13,6 +13,8 @@
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:toggle-checklist-status",
+    "editor:toggle-code",
+    "editor:insert-tag",
     "editor:attach-file",
     "editor:toggle-highlight",
     "editor:toggle-bullet-list",
@@ -23,5 +25,6 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "tabSize": 4
 }
