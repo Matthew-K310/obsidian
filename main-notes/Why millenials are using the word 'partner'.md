@@ -2,7 +2,7 @@ Created: 2025-01-09 11:09
 
 Type: #miniessay 
 
-Tags: [[research]], [[moderndating]], [[1736442615-RSYH|partner]]
+Tags: [[research]], [[moderndating]], [[partner 1|partner 1]]
 
 Source: https://www.washingtonpost.com/lifestyle/2019/01/21/forget-boyfriend-or-girlfriend-why-millennials-are-using-word-partner/
 

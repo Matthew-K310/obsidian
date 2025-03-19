@@ -1,8 +1,8 @@
-`Created: 1503250838`
+Created: 1503250838
 
-`Type: [[documentation]]`
+Type: [[documentation]]
 
-`Tags: [[proffieboard]], [[programming]]`
+Tags: [[proffieboard]], [[programming]]
 
 `#ifdef CONFIG_TOP`
 `#include "proffieboard_v2_config.h"`
