@@ -1,3 +1,5 @@
+Tags: [[index]], [[theology]]
+
 This is a passion project intended to provide answers to common (and some not so common) questions and theories about the Bible’s standing on certain topics. 
 
 This will by no means be comprehensive, as I am just one man, but I’ll try my best to cover as many as I can. 
