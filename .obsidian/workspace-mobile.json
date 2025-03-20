@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/Albums to Own.md",
+                "file": "dailies/19032025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Albums to Own"
+              "title": "19032025"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "c0d65b9427a03838",
   "lastOpenFiles": [
+    "indexes/Albums to Own.md",
     "indexes/Books I read in 2025.md",
     "indexes/Boxes.md",
     "indexes/Movies for date night.md",
@@ -189,7 +190,6 @@
     "main-notes/No greater agony.md",
     "main-notes/No man knows how bad he is....md",
     "main-notes/NPC music.md",
-    "main-notes/Of God and Waiting.md",
     "remote/Tags",
     "remote",
     "image 1.jpg",
