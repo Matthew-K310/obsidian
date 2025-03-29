@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c97c2dfacba948a0",
+        "id": "7052a8997c6c55da",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc9de0fbbe3980a",
+            "id": "398158ab5f4b85ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/1303252007.md",
+                "file": "dailies/2903251106.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1303252007"
-            }
-          },
-          {
-            "id": "7e060066b82ce8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packing-for-mission-trip.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "packing-for-mission-trip"
+              "title": "2903251106"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +56,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -170,36 +154,36 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7e060066b82ce8ae",
+  "active": "398158ab5f4b85ee",
   "lastOpenFiles": [
-    "dailies/1303252007.md",
-    "packing-for-mission-trip.md",
-    "rough-notes/important/apple-account-recovery-key.md",
+    "indexes/API Keys.md",
+    "tags/video.md",
+    "tags/swift.md",
+    "tags/suffering 1.md",
+    "tags/personal.md",
+    "tags/partner 1.md",
+    "tags/linux.md",
+    "tags/justice.md",
+    "tags/install.md",
+    "tags/gospel.md",
+    "tags/fallacy.md",
+    "tags/documentation.md",
+    "tags/david.md",
+    "tags/brainrot.md",
+    "tags/biblestudy.md",
+    "main-notes/swift-doc-notes.md",
+    "main-notes/proffieboard-example-code.md",
+    "main-notes/Thrawn Trilogy Review.md",
+    "dailies/27032025.md",
+    "dailies/25032025.md",
+    "dailies/24032025.md",
+    "dailies/23032025.md",
+    "dailies/21032025.md",
+    "dailies/20032025.md",
+    "dailies/19032025.md",
+    "dailies/18032025.md",
     "apple-account-recovery-key.md~",
-    "apple-account-recovery-key.md",
-    "tags/psalm.md",
-    "dailies/1103252352.md",
-    "tags/faith.md",
-    "main-notes/Belle's Crafts Brainstorming.md",
-    "tags/design.md",
-    "tags/brainstorming.md",
-    "tags/project.md",
-    "tags/useful.md",
-    "tags/setup.md",
-    "tags/work.md",
-    "tags/concepts.md",
-    "tags/book.md",
-    "tags/music.md",
-    "tags/pleaure.md",
-    "indexes/Books I read in 2025.md",
-    "main-notes/child-sexual-abuse-training.md",
-    "rough-notes/important/virtual machine passwords.md",
-    "rough-notes/important/Relationship Notes.md",
-    "rough-notes/important/Bitwarden password.md",
-    "rough-notes/important/Movies for date night.md",
     "rough-notes/important",
-    "rough-notes/work/FBCH Easter Event 2024.md",
-    "rough-notes/work/4 tables in 203.md",
     "rough-notes/work",
     "rough-notes/sermons/Handwritten Notes/Drawing 14.png",
     "rough-notes/sermons/Handwritten Notes/Drawing 12.png",
