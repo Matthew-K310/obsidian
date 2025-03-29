@@ -2,7 +2,7 @@ Created: 29122024
 
 Type: #miniessay
 
-Tags: [[death]], [[080320251703-hope|hope]], [[080320251703-thoughts|thoughts]]
+Tags: [[death]], [[hope|hope]], [[thoughts|thoughts]]
 
 Do I fear death, or do I fear how I'm going to die?
 

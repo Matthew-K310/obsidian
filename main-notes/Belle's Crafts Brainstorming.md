@@ -2,7 +2,7 @@ Created: 040220252154
 
 Type: #project
 
-Tags: [[brainstorming]], [[design]], [[080320251701-webdev]]
+Tags: [[brainstorming]], [[design]], [[webdev]]
 
 # Belle's Crafts Brainstorming
 

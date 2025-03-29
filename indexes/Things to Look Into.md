@@ -1,1 +1,0 @@
-Does God change His mind?

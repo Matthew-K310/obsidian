@@ -2,7 +2,7 @@ Created: 2025-01-09 12:04
 
 Type: #miniessay 
 
-Tags: [[1736445890-SKYL|video]]
+Tags: [[video|video]]
 
 Source: https://www.youtube.com/watch?v=2LpR9zhEl2A
 

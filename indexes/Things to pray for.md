@@ -2,7 +2,7 @@ Created: 2025-01-05 16:26
 
 Status: 
 
-Tags: [[prayer]]
+Tags: [[prayer]], [[index]]
 
 # Untitled
 

@@ -2,7 +2,7 @@ Created: 2025-01-09 12:28
 
 Type: #miniessay 
 
-Tags: [[brainrot]], [[research]], [[1736445890-SKYL|video]]
+Tags: [[brainrot]], [[research]], [[video|video]]
 
 Source: https://www.youtube.com/watch?v=jnYqekHg77k
 

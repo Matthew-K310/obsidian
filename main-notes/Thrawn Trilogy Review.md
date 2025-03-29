@@ -2,7 +2,9 @@ Created: 080320251705
 
 Type: #miniessay
 
-Tags: [[080320251706-book|book]], [[080320251706-review|review]]
+Tags: [[book]], [[review|review]]
+
+The Thrawn Trilogy was my second foray into the world of Star Wars. 
 
 Characters
 
@@ -73,4 +75,3 @@ Thrawn could still have pulled an Imperial victory out of it. But he, Pellaeon, 
 attack. "Prepare to retreat."
 
 May the Force be with you.
-
