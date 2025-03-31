@@ -1,10 +1,3 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "baseFontSizeAction": true,
-  "translucency": true,
-  "baseFontSize": 14,
-  "accentColor": "#889eaa"
+  "accentColor": "#69aaff"
 }
