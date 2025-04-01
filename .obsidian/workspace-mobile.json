@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/later.md",
+                "file": "dailies/01042025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "later"
+              "title": "01042025"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "f646e7441715306b",
   "lastOpenFiles": [
-    "dailies/31032025.md",
     "tags/later.md",
+    "dailies/01042025.md",
+    "dailies/31032025.md",
     "rough-notes/tailscale-ubuntu-2204.md",
     "rough-notes/Title Void's Descent.md",
     "rough-notes/Cool Kicks and Shi.md",
@@ -206,7 +207,6 @@
     "dailies/02-28-2025.md",
     "dailies/02-26-2025.md",
     "dailies/02-25-2025.md",
-    "dailies/02-23-2025.md",
-    "dailies/02-22-2025.md"
+    "dailies/02-23-2025.md"
   ]
 }
