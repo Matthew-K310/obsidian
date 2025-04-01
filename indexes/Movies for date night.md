@@ -11,7 +11,7 @@ Tags: [[index]], [[movies]]
 - [ ] 1917
 - [ ] Nacho Libre
 - [ ] Clone Wars (see arcs)
-- [ ] Rogue One: A Star Wars Story
+- [ ] Rogue One
 - [ ] The Creator
 - [ ] Hidalgo
 - [ ] Lord of the Rings Extended Editions
@@ -38,6 +38,7 @@ Tags: [[index]], [[movies]]
 - [ ] How to Train Your Dragon
 - [ ] How to Train Your Dragon 2
 - [ ] How to Train Your Dragon 3
+- [x] Shrek
 - [ ] Shrek 2
 - [ ] Shrek the Third
 
