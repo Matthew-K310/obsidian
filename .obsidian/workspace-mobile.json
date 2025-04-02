@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/01042025.md",
+                "file": "Work Hours 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01042025"
+              "title": "Work Hours 2025"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "f646e7441715306b",
   "lastOpenFiles": [
-    "tags/later.md",
     "dailies/01042025.md",
+    "tags/later.md",
     "dailies/31032025.md",
     "rough-notes/tailscale-ubuntu-2204.md",
     "rough-notes/Title Void's Descent.md",
