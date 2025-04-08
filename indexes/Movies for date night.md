@@ -11,7 +11,7 @@ Tags: [[index]], [[movies]]
 - [ ] 1917
 - [ ] Nacho Libre
 - [ ] Clone Wars (see arcs)
-- [ ] Rogue One
+- [x] Rogue One
 - [ ] The Creator
 - [ ] Hidalgo
 - [ ] Lord of the Rings Extended Editions

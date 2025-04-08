@@ -43,3 +43,10 @@ as an argument
 if the left side is not enough to determine the result
 
 `true or raise("Hello World")` will return true
+
+![[IMG_4140.png]]
+![[IMG_4141.png]]
+![[IMG_4142.png]]
+
+![[IMG_4143.png]]
+![[IMG_4144.png]]

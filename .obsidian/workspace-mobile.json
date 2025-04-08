@@ -16,7 +16,16 @@
                 "file": "Work Hours 2025.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Work Hours 2025"
@@ -132,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "tags/later.md",
+            "file": "Work Hours 2025.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -166,7 +175,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +191,20 @@
   },
   "active": "f646e7441715306b",
   "lastOpenFiles": [
-    "dailies/03042025.md",
+    "dailies/08042025.md",
     "Work Hours 2025.md",
+    "main-notes/elixir-notes.md",
+    "media",
+    "media/IMG_4144.png",
+    "media/IMG_4143.png",
+    "media/IMG_4142.png",
+    "media/IMG_4141.png",
+    "media/IMG_4140.png",
+    "dailies/06042025.md",
+    "dailies/04042025.md",
+    "indexes/Movies for date night.md",
+    "tags/movies.md",
+    "dailies/03042025.md",
     "dailies/01042025.md",
     "tags/later.md",
     "dailies/31032025.md",
@@ -195,18 +216,12 @@
     "rough-notes/3D model chaos knight orange justice dancing on imperial guard bodies.md",
     "indexes/Things to pray for.md",
     "indexes/Albums to Own.md",
-    "indexes/Movies for date night.md",
     "dailies/01282025.md",
     "dailies/02-20-2025.md",
     "dailies/02212025.md",
     "dailies/02242025.md",
     "dailies/12042024.md",
     "dailies/12132024.md",
-    "dailies/12-14-2024.md",
-    "dailies/12032024.md",
-    "dailies/03-04-2025.md",
-    "dailies/03-02-2025.md",
-    "dailies/02-28-2025.md",
-    "dailies/02-26-2025.md"
+    "dailies/12-14-2024.md"
   ]
 }
