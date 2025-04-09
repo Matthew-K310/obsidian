@@ -1,6 +1,6 @@
 Created: 2025-01-09 11:54
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags:
 

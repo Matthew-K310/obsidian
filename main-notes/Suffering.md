@@ -1,6 +1,6 @@
 Created: 2024-12-31
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[suffering 1|suffering 1]], [[humanity]], [[commonplace]]
 

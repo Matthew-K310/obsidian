@@ -1,6 +1,6 @@
 Created: 080320251628
 
-Type: #rough
+Type: [[rough]]
 
 Tags: [[index]], [[080320251630-relationship|relationship]], [[personal]], [[important]]
 

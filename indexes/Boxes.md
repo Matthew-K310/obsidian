@@ -1,6 +1,6 @@
 Created: 080320251627
 
-Type: #rough
+Type: [[rough]]
 
 Tags: [[boxes]], [[index]]
 

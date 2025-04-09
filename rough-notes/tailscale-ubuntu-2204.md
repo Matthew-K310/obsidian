@@ -1,6 +1,6 @@
 Created: 11032025
 
-Type: #mini
+Type: [[mini]]
 
 Tags: [[tailscale]], [[server]]
 ### Install package signing key and repository

@@ -1,6 +1,6 @@
 Created: 2025-01-16 21:44
 
-Type: #miniessay
+Type: [[miniessay]]
 
 Tags: [[christianity]], [[faith]], [[religion]]
 

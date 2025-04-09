@@ -1,6 +1,6 @@
 Created: 080320251622
 
-Type: #rough
+Type: [[rough]]
 
 Tags: [[programming]], [[linux]], [[install]]
 

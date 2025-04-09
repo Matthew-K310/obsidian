@@ -1,6 +1,6 @@
 Created: 2025-02-23 22:09
 
-Type: #miniessay
+Type: [[miniessay]]
 
 Tags: [[fallacy]], [[concepts]]
 

@@ -1,6 +1,6 @@
 Created: 29122024
 
-Type: #miniessay
+Type: [[miniessay]]
 
 Tags: [[death]], [[hope|hope]], [[thoughts|thoughts]]
 

@@ -1,6 +1,6 @@
 Created: 080320251228
 
-Type: #full
+Type: [[full]]
 
 Tags: [[training]], [[childcare]]
 

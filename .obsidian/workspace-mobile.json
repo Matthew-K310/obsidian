@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Hours 2025.md",
+                "file": "dailies/09042025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Work Hours 2025"
+              "title": "09042025"
             }
           }
         ]
@@ -46,28 +46,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
-        }
-      },
-      {
-        "id": "d7afdf481deb4340",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          },
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
         }
       },
       {
@@ -91,8 +74,8 @@
         "state": {
           "type": "bookmarks",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -136,20 +119,6 @@
         }
       },
       {
-        "id": "452678a89946decc",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Work Hours 2025.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
-        }
-      },
-      {
         "id": "9e46f4faefe05f5a",
         "type": "leaf",
         "state": {
@@ -186,13 +155,17 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "f646e7441715306b",
   "lastOpenFiles": [
-    "dailies/08042025.md",
     "Work Hours 2025.md",
+    "indexes/Relationship Notes.md",
+    "indexes/Movies for date night.md",
+    "dailies/09042025.md",
+    "dailies/08042025.md",
     "main-notes/elixir-notes.md",
     "media",
     "media/IMG_4144.png",
@@ -202,7 +175,6 @@
     "media/IMG_4140.png",
     "dailies/06042025.md",
     "dailies/04042025.md",
-    "indexes/Movies for date night.md",
     "tags/movies.md",
     "dailies/03042025.md",
     "dailies/01042025.md",
@@ -220,8 +192,6 @@
     "dailies/02-20-2025.md",
     "dailies/02212025.md",
     "dailies/02242025.md",
-    "dailies/12042024.md",
-    "dailies/12132024.md",
-    "dailies/12-14-2024.md"
+    "dailies/12042024.md"
   ]
 }

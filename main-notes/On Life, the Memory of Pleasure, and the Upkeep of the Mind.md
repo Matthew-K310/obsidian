@@ -7,7 +7,7 @@ source: Out of the Silent Planet by C.S. Lewis
 ---
 Created: 26122024
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[pleasure]], [[book]], [[life]]
 

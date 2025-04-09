@@ -1,6 +1,6 @@
 Created: 2025-01-09 12:28
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[brainrot]], [[research]], [[video|video]]
 

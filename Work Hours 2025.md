@@ -1,6 +1,6 @@
 Created: 3103250907
 
-Type: #index
+Type: [[index]]
 
 Tags: [[work]]
 

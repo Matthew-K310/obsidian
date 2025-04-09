@@ -1,6 +1,6 @@
 Created: 2025-01-06
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[research]], [[moderndating]]
 

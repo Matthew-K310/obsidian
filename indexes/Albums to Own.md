@@ -1,6 +1,6 @@
 Created: 080320251626
 
-Type: #rough
+Type: [[rough]]
 
 Tags: [[useful]], [[music]], [[index]]
 

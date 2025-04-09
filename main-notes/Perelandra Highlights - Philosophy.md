@@ -7,7 +7,7 @@ description: All of these are purple colored highlights from my readings. All pa
 ---
 Created: 0803251643
 
-Type: #source 
+Type: [[source]] 
 
 Tags: [[book]], [[philosophy]]
 

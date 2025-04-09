@@ -7,7 +7,7 @@ source: '"Perelandra" by C.S. Lewis'
 ---
 Created: 31122024
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[pleaure]], [[book]], [[psychology]]
 

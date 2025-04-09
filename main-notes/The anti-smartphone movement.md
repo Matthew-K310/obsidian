@@ -1,6 +1,6 @@
 Created: 2025-01-09 12:04
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[video|video]]
 

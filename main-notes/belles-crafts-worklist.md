@@ -1,6 +1,6 @@
 Created: 080320251625
 
-Type: #project
+Type: [[project]]
 
 Tags: [[project]], [[webdev]]
 

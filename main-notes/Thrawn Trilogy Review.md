@@ -1,6 +1,6 @@
 Created: 080320251705
 
-Type: #miniessay
+Type: [[miniessay]]
 
 Tags: [[book]], [[review|review]]
 
