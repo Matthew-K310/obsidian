@@ -1,47 +1,54 @@
 {
   "main": {
-    "id": "b3323331a39f5771",
+    "id": "776c2311b06f5853",
     "type": "split",
     "children": [
       {
-        "id": "d4524e101ea9b29e",
+        "id": "4ac3ed73a82dfca1",
         "type": "tabs",
         "children": [
           {
-            "id": "f646e7441715306b",
+            "id": "4add02a7c0f14747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/09042025.md",
+                "file": "dailies/10042025.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09042025"
+              "title": "10042025"
+            }
+          },
+          {
+            "id": "861cade4a03794b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Easter 2025 Setup List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Easter 2025 Setup List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f254381cb338fbd4",
+    "id": "b0e75e83dff33e5a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "acf1dd43dc0946bc",
+        "id": "0e58404d48f7ad0d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -54,7 +61,24 @@
         }
       },
       {
-        "id": "7318c9d68d903cef",
+        "id": "8325333f9befb179",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9b674b0ae8b3dd5f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -69,7 +93,7 @@
         }
       },
       {
-        "id": "6009b02e10738f8b",
+        "id": "7f8ce4788ebb784f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -77,35 +101,21 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "f5b1bbad3be8f34d",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "All properties"
-        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "3d79af015f67f349",
+    "id": "ae26b5e833e31d51",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "85e7cb89ccbfd10d",
+        "id": "3c8efe8e0f01f0de",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tags/later.md",
+            "file": "Easter 2025 Setup List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,79 +129,50 @@
         }
       },
       {
-        "id": "9e46f4faefe05f5a",
+        "id": "cf3bfef467a3a670",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Easter 2025 Setup List.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "427edfc1c5e42087",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "tags/later.md",
+            "file": "Easter 2025 Setup List.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "bf7f4c96ea270f7c",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f646e7441715306b",
+  "active": "861cade4a03794b1",
   "lastOpenFiles": [
-    "Work Hours 2025.md",
-    "indexes/Relationship Notes.md",
-    "indexes/Movies for date night.md",
-    "dailies/09042025.md",
-    "dailies/08042025.md",
-    "main-notes/elixir-notes.md",
-    "media",
-    "media/IMG_4144.png",
-    "media/IMG_4143.png",
-    "media/IMG_4142.png",
-    "media/IMG_4141.png",
-    "media/IMG_4140.png",
-    "dailies/06042025.md",
-    "dailies/04042025.md",
-    "tags/movies.md",
-    "dailies/03042025.md",
-    "dailies/01042025.md",
-    "tags/later.md",
-    "dailies/31032025.md",
-    "rough-notes/tailscale-ubuntu-2204.md",
-    "rough-notes/Title Void's Descent.md",
-    "rough-notes/Cool Kicks and Shi.md",
-    "rough-notes/Albums to Own.md",
-    "rough-notes/A group called the Prēdecessors and a group called the Predecessors….md",
-    "rough-notes/3D model chaos knight orange justice dancing on imperial guard bodies.md",
-    "indexes/Things to pray for.md",
-    "indexes/Albums to Own.md",
-    "dailies/01282025.md",
-    "dailies/02-20-2025.md",
-    "dailies/02212025.md",
-    "dailies/02242025.md",
-    "dailies/12042024.md"
+    "dailies/10042025.md",
+    "Easter 2025 Setup List.md"
   ]
 }
