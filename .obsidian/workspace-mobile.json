@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Easter 2025 Setup List.md",
+                "file": "dailies/20250416.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Easter 2025 Setup List"
+              "title": "20250416"
             }
           }
         ],
@@ -73,8 +73,8 @@
             "extraContext": false,
             "sortOrder": "alphabetical"
           },
-          "icon": "lucide-search",
-          "title": "Search"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -101,6 +101,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "93ceaac04b535db1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -115,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Easter 2025 Setup List.md",
+            "file": "main-notes/The New Covenant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,8 +152,8 @@
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -153,8 +167,18 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-list",
-          "title": "Outline"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "020ee14997ed2cc6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -162,6 +186,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,7 +199,14 @@
   },
   "active": "861cade4a03794b1",
   "lastOpenFiles": [
-    "dailies/10042025.md",
-    "Easter 2025 Setup List.md"
+    "dailies/20250414.md",
+    "dailies/20250416.md",
+    "main-notes/The New Covenant.md",
+    "dailies/20250413.md",
+    "dailies/20250411.md",
+    "Work Hours 2025.md",
+    "dailies/20250410.md",
+    "Easter 2025 Setup List.md",
+    "dailies/10042025.md"
   ]
 }
