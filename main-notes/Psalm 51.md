@@ -1,6 +1,6 @@
 Created: 0803251638
 
-Type: #full
+Type: [[full]]
 
 Tags: [[biblestudy]], [[david]], [[psalm]]
 

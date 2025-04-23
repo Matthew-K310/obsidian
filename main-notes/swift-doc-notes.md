@@ -1,6 +1,6 @@
 Created: 1503250830
 
-Type: #lesson
+Type: [[lesson]]
 
 Tags: [[swift]], [[documentation]], [[programming]]
 

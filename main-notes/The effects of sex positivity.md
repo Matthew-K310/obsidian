@@ -1,6 +1,6 @@
 Created: 2025-01-21 10:46
 
-Type: #miniessay 
+Type: [[miniessay]] 
 
 Tags: [[commonplace]], [[article]], [[sexuality]]
 

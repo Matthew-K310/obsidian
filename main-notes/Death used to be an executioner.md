@@ -1,6 +1,6 @@
 2025-01-05 15:15
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[death]], [[gospel]]
 

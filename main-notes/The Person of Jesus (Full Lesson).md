@@ -1,6 +1,6 @@
 Created: 2025-01-26 17:40
 
-Status: #adult
+Status: [[adult]]
 
 Tags: [[personofjesus]], [[lesson]], [[theology]]
 

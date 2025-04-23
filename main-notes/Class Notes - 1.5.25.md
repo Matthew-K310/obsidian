@@ -1,6 +1,6 @@
 Created: 2025-01-05 15:46
 
-Type: #mini
+Type: [[mini]]
 
 Tags: [[church]], [[class]], [[creation]]
 

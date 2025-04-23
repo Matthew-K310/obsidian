@@ -1,6 +1,6 @@
 Created: 2024-12-31
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[art]], [[writing]], [[humanity]], [[commonplace]]
 

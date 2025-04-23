@@ -1,6 +1,6 @@
 Created: 040220252154
 
-Type: #project
+Type: [[project]]
 
 Tags: [[brainstorming]], [[design]], [[webdev]]
 

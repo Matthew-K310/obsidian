@@ -2,7 +2,7 @@
 ---
 Created: 2025-01-04
 
-Status: #child
+Status: [[child]]
 
 Tags: [[philosophy]], [[socialmedia]]
 

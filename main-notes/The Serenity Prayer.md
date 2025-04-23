@@ -1,6 +1,6 @@
 Created: 2025-01-05
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[prayer]], [[serenity]], [[commonplace]]
 

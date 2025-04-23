@@ -1,6 +1,6 @@
 2025-01-04 15:01
 
-Type: #mini
+Type: [[mini]]
 
 Tags: [[philosophy]], [[mind]]
 

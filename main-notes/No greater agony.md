@@ -5,7 +5,7 @@ created: 2024-12-31
 ---
 Created: 2024-12-31
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[agony]], [[commonplace]]
 

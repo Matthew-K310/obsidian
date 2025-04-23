@@ -1,3 +1,3 @@
 Created: {{date}}
 
-Type: #daily
+Type: [[daily]]

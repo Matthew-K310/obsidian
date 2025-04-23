@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "theme": "obsidian",
   "cssTheme": "",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
@@ -7,4 +8,7 @@
   "translucency": true,
   "baseFontSize": 14,
   "accentColor": "#889eaa"
+=======
+  "cssTheme": "Minimal"
+>>>>>>> 1f55f11378e995db93d70edd33bcb4a5bea9b4bc
 }

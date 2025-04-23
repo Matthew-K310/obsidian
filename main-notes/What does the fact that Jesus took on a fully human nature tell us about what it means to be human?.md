@@ -1,6 +1,6 @@
 Created: 2025-01-27 20:49
 
-Status: #child 
+Status: [[child]] 
 
 Tags: [[personofjesus]], [[theology]], [[humanity]]
 

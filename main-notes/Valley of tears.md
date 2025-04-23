@@ -1,6 +1,6 @@
 2025-01-05 15:11
 
-Status: #quote 
+Status: [[quote]] 
 
 Tags: [[death]], [[life]], [[humanity]]
 
