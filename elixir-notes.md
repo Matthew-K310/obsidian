@@ -43,3 +43,13 @@ as an argument
 if the left side is not enough to determine the result
 
 `true or raise("Hello World")` will return true
+
+Strings are created using double quotes
+
+Interconnect two strings with `<>`
+
+You can also do string interpolation
+
+string = "world"
+"hello #{string}!"
+"hello world"
