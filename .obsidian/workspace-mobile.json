@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/Memes to Learn.md",
+                "file": "indexes/Reading Things to Look Into.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Memes to Learn"
+              "title": "Reading Things to Look Into"
             }
           }
         ],
@@ -214,9 +214,10 @@
   },
   "active": "1e42f2ef23d5724f",
   "lastOpenFiles": [
+    "dailies/20250503.md",
+    "indexes/Memes to Learn.md",
     "dailies/20250422.md",
     "README.md",
-    "indexes/Memes to Learn.md",
     "dailies/20250421.md",
     "dailies/20250416.md",
     "dailies/20250414.md",
