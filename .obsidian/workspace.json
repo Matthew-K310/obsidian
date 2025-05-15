@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7052a8997c6c55da",
+        "id": "72cdd145b1ec915f",
         "type": "tabs",
         "children": [
           {
-            "id": "398158ab5f4b85ee",
+            "id": "9a137d60cab0a939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/How To Start an Online Store in 2025 (10-Step Guide).md",
+                "file": "main-notes/elixir-tuples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "How To Start an Online Store in 2025 (10-Step Guide)"
+              "title": "elixir-tuples"
             }
           },
           {
-            "id": "5ab3c31cc4e241e3",
+            "id": "f2559d3c7172f6dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/22042025.md",
+                "file": "dailies/20250514.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "22042025"
+              "title": "20250514"
             }
           }
         ],
@@ -77,6 +77,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "8f0addcd3ecc9269",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,8 +132,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from agony"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -159,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -169,8 +180,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bef70e8d3fd0d835",
+  "active": "f2559d3c7172f6dd",
   "lastOpenFiles": [
+    "main-notes/elixir-tuples.md",
+    "dailies/20250514.md",
+    "README.md",
+    "todo.md",
+    "Work Hours 2025.md",
+    "Untitled.md",
+    "tags/data-structures.md",
+    "dailies/20250513.md",
+    "dailies/20250508.md",
+    "sources/How To Start an Online Store in 2025 (10-Step Guide).md",
+    "dailies/20250427.md",
+    "dailies/20250423.md",
+    "dailies/22042025.md",
     "tags/later.md",
     "media/IMG_4144.png",
     "media/IMG_4143.png",
@@ -190,19 +214,6 @@
     "dailies/12032024.md",
     "dailies/10042025.md",
     "dailies/09042025.md",
-    "dailies/08042025.md",
-    "dailies/04042025.md",
-    "dailies/03042025.md",
-    "dailies/02242025.md",
-    "dailies/02212025.md",
-    "dailies/01282025.md",
-    "Work Hours 2025.md",
-    "Easter 2025 Setup List.md",
-    "main-notes/Belle's Crafts Brainstorming.md",
-    "dailies/22042025.md",
-    "main-notes/child-sexual-abuse-training.md",
-    "main-notes/Brain rot.md",
-    "main-notes/Be calm. Think clear..md",
     "sources",
     "apple-account-recovery-key.md~",
     "rough-notes/important",

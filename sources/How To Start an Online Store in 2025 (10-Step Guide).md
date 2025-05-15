@@ -5,7 +5,7 @@ source: "https://www.shopify.com/blog/start-online-store#"
 type: "clipping"
 tags:
 ---
-### 4\. Design your brand
+### 4 Design your brand
 
 ![An ecommerce product page from the online store of Verve Coffee](https://cdn.shopify.com/s/files/1/0070/7032/files/ecommerce-design-5_3c48a3ab-588e-41b7-a476-110328a031f0.png?v=1701103622)
 
