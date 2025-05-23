@@ -7,12 +7,13 @@ Tags: [[programming]], [[linux]], [[install]]
 ### Connect To Wifi
 
 - iwctl
-- station wlan0 connect Odyssey1
+- station wlan0 connect SSID
+- Enter password
 - ping [google.com](http://google.com)
 
 ### Partition With Cfdisk
 
-- cfdisk
+- cfdisk /dev/sda
 - /dev/sda1 = 100M
 - /dev/sda2 = 4G
 - /dev/sda3 = the rest of the drive
@@ -32,7 +33,9 @@ Tags: [[programming]], [[linux]], [[install]]
 
 ### Install Packages
 
-- pacstrap /mnt base linux linux-firmware sof-firmware base-devel grub efibootmgr vim nano networkmanager git
+- pacman -Sy archlinux-keyring
+- pacman -Syu
+- pacstrap /mnt base linux linux-firmware sof-firmware base-devel grub efibootmgr vim networkmanager
 
 ### Generate Filesystem
 
@@ -48,7 +51,7 @@ Tags: [[programming]], [[linux]], [[install]]
 
 - ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime
 - Check time with date
-- hwclock —systohc
+- hwclock —-systohc
 
 ### Localization
 
@@ -70,9 +73,8 @@ Tags: [[programming]], [[linux]], [[install]]
 
 ### Allow Sudo
 
-- EDITOR=vim visudo
+- visudo
 - Find “Uncomment to allow members of group wheel to execute any command”
-- Uncomment below line
 
 ### Enable Core Services and Grub
 
@@ -82,8 +84,7 @@ Tags: [[programming]], [[linux]], [[install]]
 
 ### Final Steps
 
-- exit bash shell
+- exit chroot shell
 - run umount -a
 - reboot
 - Re-enable Wifi after restart with nmcli device wifi connect Odyssey1 password K0Tt@63$
-
