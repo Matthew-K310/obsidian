@@ -1,4 +1,5 @@
 {
+  "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:toggle-bullet-list",
@@ -19,6 +20,5 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "alwaysUpdateLinks": true,
   "promptDelete": false
 }

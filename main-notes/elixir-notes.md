@@ -44,9 +44,21 @@ if the left side is not enough to determine the result
 
 `true or raise("Hello World")` will return true
 
+<<<<<<< HEAD:elixir-notes.md
+Strings are created using double quotes
+
+Interconnect two strings with `<>`
+
+You can also do string interpolation
+
+string = "world"
+"hello #{string}!"
+"hello world"
+=======
 ![[IMG_4140.png]]
 ![[IMG_4141.png]]
 ![[IMG_4142.png]]
 
 ![[IMG_4143.png]]
 ![[IMG_4144.png]]
+>>>>>>> 1f55f11378e995db93d70edd33bcb4a5bea9b4bc:main-notes/elixir-notes.md

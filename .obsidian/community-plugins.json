@@ -3,5 +3,8 @@
   "url-into-selection",
   "obsidian-linter",
   "settings-search",
-  "calendar"
+  "calendar",
+  "obsidian-advanced-uri",
+  "obsidian-git",
+  "better-export-pdf"
 ]

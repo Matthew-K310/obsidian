@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7052a8997c6c55da",
+        "id": "72cdd145b1ec915f",
         "type": "tabs",
         "children": [
           {
-            "id": "398158ab5f4b85ee",
+            "id": "9a137d60cab0a939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2903251106.md",
+                "file": "bible-study-outline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2903251106"
+              "title": "bible-study-outline"
             }
           }
         ]
@@ -61,6 +61,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "8f0addcd3ecc9269",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,8 +116,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from agony"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -143,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -151,57 +162,57 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "398158ab5f4b85ee",
+  "active": "9a137d60cab0a939",
   "lastOpenFiles": [
-    "indexes/API Keys.md",
-    "tags/video.md",
-    "tags/swift.md",
-    "tags/suffering 1.md",
-    "tags/personal.md",
-    "tags/partner 1.md",
-    "tags/linux.md",
-    "tags/justice.md",
-    "tags/install.md",
-    "tags/gospel.md",
-    "tags/fallacy.md",
-    "tags/documentation.md",
-    "tags/david.md",
-    "tags/brainrot.md",
-    "tags/biblestudy.md",
-    "main-notes/swift-doc-notes.md",
-    "main-notes/proffieboard-example-code.md",
-    "main-notes/Thrawn Trilogy Review.md",
-    "dailies/27032025.md",
-    "dailies/25032025.md",
+    "dailies/31032025.md",
+    "dailies/29032025.md",
+    "dailies/28032025.md",
     "dailies/24032025.md",
     "dailies/23032025.md",
-    "dailies/21032025.md",
-    "dailies/20032025.md",
-    "dailies/19032025.md",
-    "dailies/18032025.md",
-    "apple-account-recovery-key.md~",
-    "rough-notes/important",
+    "dailies/12032024.md",
+    "dailies/20250519.md",
+    "dailies/11042025.md",
+    "dailies/11032025.md",
+    "dailies/10042025.md",
+    "dailies/10032025.md",
+    "dailies/09042025.md",
+    "dailies/08042025.md",
+    "dailies/08032025.md",
+    "dailies/07032025.md",
+    "dailies/06042025.md",
+    "dailies/05042025.md",
+    "dailies/04042025.md",
+    "dailies/03042025.md",
+    "dailies/02242025.md",
+    "dailies/02212025.md",
+    "dailies/01282025.md",
+    "dailies/01042025.md",
+    "dailies/290325.md",
+    "dailies/20250514.md",
+    "tags/partner.md",
     "rough-notes/work",
-    "rough-notes/sermons/Handwritten Notes/Drawing 14.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 12.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 10.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 9.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 7.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 15.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 11.png",
-    "rough-notes/sermons/Handwritten Notes/Drawing 13.png",
-    "rough-notes/sermons/Handwritten Notes",
-    "rough-notes/sermons",
-    "rough-notes/Thoughts/Do I fear Death?.md~",
-    "rough-notes/Drawing 3.png",
-    "rough-notes/Drawing 5.png",
-    "source-material/Papers/Annotation of The Chalcedonian Definition.pdf",
-    "source-material/Others/The Person of Jesus (Full Lesson).pdf",
-    "source-material/Articles/the-ransom-theory-2.pdf",
-    "source-material/Books/MortificationOfSinInBelievers 1.pdf",
+    "rough-notes/Important",
+    "rough-notes/Recording 20250204101201.m4a",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 9.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 7.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 15.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 14.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 13.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 12.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 11.png",
+    "rough-notes/Sermons/Handwritten Notes/Drawing 10.png",
+    "rough-notes/Sermons/Handwritten Notes",
+    "rough-notes/Sermons",
+    "media/IMG_4141.png",
+    "media/IMG_4142.png",
+    "dailies",
+    "rough-notes",
+    "indexes",
+    "tags",
+    "media",
     "remote/2 - Rough Notes/Projects/Project Planning.canvas",
     "remote/5 - Main Notes/Catholicism Research.canvas",
     "remote/Projects 1/Project Planning.canvas",
