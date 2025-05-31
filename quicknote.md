@@ -1,8 +1,12 @@
 ## quick note
 
-### What do I need to have
+Figure out how to include older leaders
 
-- Text input
-- Save states for items
-- State toggle
--
+### Leaders
+
+- Ben Flegel
+- Nikolai Burgess
+- Jude Hurst-Bolster
+- Matthew Kennedy
+- Lethan Hutchins
+- Aidan Dorn
