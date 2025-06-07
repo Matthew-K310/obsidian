@@ -12,7 +12,7 @@
 ### Tomorrow
 
 - [ ] Go to HPB
-- [ ]
+- [ ] Plan out Belle's site
 - [ ]
 - [ ]
 - [ ]
