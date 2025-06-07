@@ -1,10 +1,9 @@
 [
   "omnisearch",
   "url-into-selection",
-  "obsidian-linter",
   "settings-search",
   "calendar",
   "obsidian-advanced-uri",
-  "obsidian-git",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-kanban"
 ]

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/Reading Things to Look Into.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reading Things to Look Into"
+              "title": "todo"
             }
           }
         ],
@@ -68,7 +68,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byCreatedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -201,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "omnisearch:Omnisearch": false,
@@ -212,8 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e58404d48f7ad0d",
+  "active": "1e42f2ef23d5724f",
   "lastOpenFiles": [
+    "dailies/06062025.md",
+    "todo.md",
     "indexes/Reading Things to Look Into.md",
     "dailies/20250525.md",
     "dailies/20250503.md",

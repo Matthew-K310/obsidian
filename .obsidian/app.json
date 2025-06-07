@@ -20,5 +20,9 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "strictLineBreaks": false
 }

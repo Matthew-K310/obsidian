@@ -1,5 +1,3 @@
-## Todo
-
 ### Today
 
 - [ ] Send in hours for VBS
@@ -12,7 +10,7 @@
 ### Tomorrow
 
 - [ ] Go to HPB
-- [ ] Plan out Belle's site
+- [ ] Plan out Belle's site (Linear)
 - [ ]
 - [ ]
 - [ ]
