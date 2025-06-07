@@ -63,3 +63,14 @@
 - Read that week's Heidelberg passage
 - Pray over the group
 - Split into groups
+
+Figure out how to include older leaders
+
+### Leaders
+
+- Ben Flegel
+- Nikolai Burgess
+- Jude Hurst-Bolster
+- Matthew Kennedy
+- Lethan Hutchins
+- Aidan Dorn
