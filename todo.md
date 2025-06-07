@@ -1,7 +1,7 @@
 ### Today
 
 - [ ] Send in hours for VBS
-- [ ]
+- [ ] Do Bible study (Romans 1)
 - [ ]
 - [ ]
 - [ ]
