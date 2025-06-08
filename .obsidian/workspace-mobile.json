@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "worklog-brian-project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "worklog-brian-project"
             }
           }
         ],
@@ -230,13 +230,13 @@
   },
   "active": "3bd83f5c205bb989",
   "lastOpenFiles": [
+    "todo.md",
     "stack-info.md",
     "tags/stack.md",
     "Prayer Requests.md",
     "main-notes/bible-study-leader-meeting-053025.md",
     "main-notes/bible-study-goals.md",
     "main-notes/bible-study-outline.md",
-    "todo.md",
     "dailies/06062025.md",
     "indexes/Reading Things to Look Into.md",
     "dailies/20250525.md",
