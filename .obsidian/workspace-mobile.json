@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worklog-brian-project.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "worklog-brian-project"
+              "title": "todo"
             }
           }
         ],
@@ -230,6 +230,7 @@
   },
   "active": "3bd83f5c205bb989",
   "lastOpenFiles": [
+    "worklog-brian-project.md",
     "todo.md",
     "stack-info.md",
     "tags/stack.md",
