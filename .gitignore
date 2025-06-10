@@ -1,4 +1,3 @@
-API Keys.md
-secrets
-.obsidian
-.DS_Store
+.obsidian/
+.DS_Store/
+secrets/

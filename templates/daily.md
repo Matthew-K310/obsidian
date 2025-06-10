@@ -1,3 +1,1 @@
 Created: {{date}}
-
-Type: [[daily]]

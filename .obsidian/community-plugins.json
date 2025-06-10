@@ -3,7 +3,10 @@
   "url-into-selection",
   "settings-search",
   "calendar",
-  "obsidian-advanced-uri",
   "better-export-pdf",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-advanced-slides",
+  "obsidian-full-calendar",
+  "obsidian-linter",
+  "remotely-save"
 ]

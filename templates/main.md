@@ -1,5 +1,1 @@
 Created: {{date}}
-
-Type:
-
-Tags:
