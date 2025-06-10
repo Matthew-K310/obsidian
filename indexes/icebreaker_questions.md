@@ -1,6 +1,4 @@
-Created: 2025-03-17
-
-## Icebreakers
+#index
 
 - What’s your favorite cheese?
 - What’s your second favorite color?
@@ -9,4 +7,3 @@ Created: 2025-03-17
 - What’s your favorite kind of pasta?
 - What’s your third favorite animal?
 - What’s the coolest place you’ve visited?
-
