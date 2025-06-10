@@ -24,5 +24,6 @@
   "foldHeading": false,
   "foldIndent": false,
   "showLineNumber": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": false
 }
