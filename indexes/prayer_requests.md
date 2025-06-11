@@ -22,6 +22,7 @@
 - The faith of his family
 - The salvation of his father
 - That all of their behavior would glorify God and honor Him
+- Wisdom in relationships
 
 ### Nikolai Burgess
 
