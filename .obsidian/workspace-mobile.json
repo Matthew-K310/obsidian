@@ -71,12 +71,24 @@
             "id": "6205271bbfc8a860",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "latex/student-bible-study.pdf"
+                "file": "indexes/look_into.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "student-bible-study"
+              "icon": "lucide-file",
+              "title": "look_into"
             }
           }
         ],
@@ -242,12 +254,12 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
+    "latex/student-bible-study.pdf",
     "indexes/prayer_requests.md",
     "indexes/look_into.md",
     "quicknote.md",
     "todo.md",
     "dailies/06112025.md",
-    "latex/student-bible-study.pdf",
     "latex/student-bible-study.log",
     "latex/student-bible-study.aux",
     "latex/student-bible-study.tex",
@@ -271,7 +283,6 @@
     "README.md",
     "dailies/20250421.md",
     "dailies/20250416.md",
-    "dailies/20250414.md",
-    "main-notes/The New Covenant.md"
+    "dailies/20250414.md"
   ]
 }

@@ -6,3 +6,6 @@
 - What are my convictions and why do I hold to them?
 - Child salvation
 - Sovereign Grace Music
+- Deuterocanonical texts
+- Samuel Rutherford
+- Dunne Skodis
