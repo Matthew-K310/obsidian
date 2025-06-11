@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quicknote.md",
+                "file": "indexes/prayer_requests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "quicknote"
+              "title": "prayer_requests"
             }
           }
         ],
@@ -254,6 +254,8 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
+    "indexes/look_into.md",
+    "quicknote.md",
     "todo.md",
     "dailies/06112025.md",
     "latex/student-bible-study.pdf",
@@ -282,8 +284,6 @@
     "dailies/20250416.md",
     "dailies/20250414.md",
     "main-notes/The New Covenant.md",
-    "dailies/20250413.md",
-    "dailies/20250411.md",
-    "Work Hours 2025.md"
+    "dailies/20250413.md"
   ]
 }
