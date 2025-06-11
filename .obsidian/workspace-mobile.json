@@ -71,24 +71,12 @@
             "id": "6205271bbfc8a860",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "indexes/prayer_requests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "latex/student-bible-study.pdf"
               },
-              "icon": "lucide-file",
-              "title": "prayer_requests"
+              "icon": "lucide-file-text",
+              "title": "student-bible-study"
             }
           }
         ],
@@ -254,8 +242,8 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
-    "indexes/look_into.md",
     "indexes/prayer_requests.md",
+    "indexes/look_into.md",
     "quicknote.md",
     "todo.md",
     "dailies/06112025.md",
