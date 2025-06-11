@@ -71,12 +71,24 @@
             "id": "6205271bbfc8a860",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "latex/student-bible-study.pdf"
+                "file": "todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "student-bible-study"
+              "icon": "lucide-file",
+              "title": "todo"
             }
           }
         ],
@@ -242,11 +254,11 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
+    "latex/student-bible-study.pdf",
     "todo.md",
     "latex/student-bible-study.log",
     "latex/student-bible-study.aux",
     "latex/student-bible-study.tex",
-    "latex/student-bible-study.pdf",
     "latex",
     "Alien Righteousness.md",
     "tags/righteousness.md",
