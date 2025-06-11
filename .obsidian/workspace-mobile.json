@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "dailies/06112025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "06112025"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
-    "latex/student-bible-study.pdf",
     "todo.md",
+    "dailies/06112025.md",
+    "latex/student-bible-study.pdf",
     "latex/student-bible-study.log",
     "latex/student-bible-study.aux",
     "latex/student-bible-study.tex",
