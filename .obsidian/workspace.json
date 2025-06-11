@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "597756ecaed24163",
+        "id": "a9c13eca579d48ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d28759ce2bb4b2",
+            "id": "81034e9f27681533",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "daily"
             }
           }
         ]
@@ -176,12 +190,13 @@
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c8d28759ce2bb4b2",
+  "active": "81034e9f27681533",
   "lastOpenFiles": [
+    "Untitled.md",
+    "calendar",
     "indexes/prayer_requests.md~",
     "indexes/icebreaker_questions.md",
     "dailies/20250317.md",
@@ -226,8 +241,6 @@
     "media/Handwritten Notes",
     "media",
     "rough-notes/work/080320251700-setup.md~",
-    "rough-notes/Sermons/Handwritten Notes/Drawing 10.png~",
-    "rough-notes/Relationship Notes.md~",
     "remote/2 - Rough Notes/Projects/Project Planning.canvas",
     "remote/5 - Main Notes/Catholicism Research.canvas",
     "remote/Projects 1/Project Planning.canvas",
