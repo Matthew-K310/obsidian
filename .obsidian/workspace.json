@@ -189,11 +189,10 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81034e9f27681533",
+  "active": "bef70e8d3fd0d835",
   "lastOpenFiles": [
     "Untitled.md",
     "calendar",
