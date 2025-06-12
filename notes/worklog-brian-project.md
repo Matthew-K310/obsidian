@@ -1,3 +1,5 @@
-As of 060625 - 2hrs 10min
+As of 20250606 - 2hrs 10min
 
-060725 - 2hrs and 45min
+20250607 - 2hrs and 45min
+
+20250611 - 1hr

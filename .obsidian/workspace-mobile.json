@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/look_into.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "look_into"
+              "title": "README"
             }
           }
         ],
@@ -254,9 +254,11 @@
   },
   "active": "6205271bbfc8a860",
   "lastOpenFiles": [
+    "notes/worklog-brian-project.md",
+    "indexes/work_log_2025.md",
+    "indexes/look_into.md",
     "latex/student-bible-study.pdf",
     "indexes/prayer_requests.md",
-    "indexes/look_into.md",
     "quicknote.md",
     "todo.md",
     "dailies/06112025.md",
@@ -282,7 +284,6 @@
     "dailies/20250422.md",
     "README.md",
     "dailies/20250421.md",
-    "dailies/20250416.md",
-    "dailies/20250414.md"
+    "dailies/20250416.md"
   ]
 }
