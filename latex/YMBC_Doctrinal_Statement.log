@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 JUN 2025 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 JUN 2025 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**student-bible-study.tex
-(./student-bible-study.tex
+**YMBC_Doctrinal_Statement.tex
+(./YMBC_Doctrinal_Statement.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
@@ -28,8 +28,9 @@ ef
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box52
-) (./student-bible-study.aux)
-\openout1 = `student-bible-study.aux'.
+)
+No file YMBC_Doctrinal_Statement.aux.
+\openout1 = `YMBC_Doctrinal_Statement.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -65,20 +66,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [2]
 
-[3] (./student-bible-study.aux)
+[3] (./YMBC_Doctrinal_Statement.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 472 strings out of 474662
- 9015 string characters out of 5751110
- 397475 words of memory out of 5000000
- 23583 multiletter control sequences out of 15000+600000
+ 469 strings out of 474662
+ 8976 string characters out of 5751110
+ 397485 words of memory out of 5000000
+ 23582 multiletter control sequences out of 15000+600000
  564342 words of font info for 54 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 35i,8n,50p,217b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,8n,50p,222b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/matthewkennedy/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/j
 knappen/ec/tcrm1200.600pk></usr/local/texlive/2025basic/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/ty
@@ -87,7 +88,7 @@ pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts
 nts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025basic/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025basic/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on student-bible-study.pdf (3 pages, 84737 bytes).
+Output written on YMBC_Doctrinal_Statement.pdf (3 pages, 84737 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

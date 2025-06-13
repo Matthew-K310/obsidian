@@ -25,5 +25,6 @@
   "foldIndent": false,
   "showLineNumber": false,
   "strictLineBreaks": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "vimMode": true
 }

@@ -26,8 +26,7 @@
 - We need theological unity in the body
 - Exceptions to the creeds will not be tolerated
 - Exceptions to confessions and catechisms are almost guaranteed
-- Disagreements must not be arguments, but must be based in our mutual love for
-  Scripture and the brothers
+- Disagreements must not be arguments, but must be based in our mutual love for Scripture and the brothers
 - Disagreements should not be out of pride, but we should be humble and loving
   in how we rebuke and correct one another
 - Worship to come later

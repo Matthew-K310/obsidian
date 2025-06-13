@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "quicknote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "quicknote"
             }
           }
         ]
@@ -192,8 +192,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bef70e8d3fd0d835",
+  "active": "81034e9f27681533",
   "lastOpenFiles": [
+    "theology_reading_list.md",
+    "linear_cli_planning.md",
+    "templates/daily.md",
     "Untitled.md",
     "calendar",
     "indexes/prayer_requests.md~",
@@ -219,9 +222,6 @@
     "indexes/Relationship Notes.md",
     "indexes/Reading Things to Look Into.md",
     "indexes/albums_to_own.md",
-    "indexes/Movies for date night_1.md",
-    "indexes/things_to_teach_my_kids.md",
-    "indexes/Books I read in 2025.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
