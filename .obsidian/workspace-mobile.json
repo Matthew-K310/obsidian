@@ -90,9 +90,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "280c92ab4a0c7cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theology_reading_list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "theology_reading_list"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,8 +276,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6205271bbfc8a860",
+  "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
+    "README.md",
+    "theology_reading_list.md",
     "notes/worklog-brian-project.md",
     "indexes/work_log_2025.md",
     "indexes/look_into.md",
@@ -282,8 +308,6 @@
     "dailies/20250503.md",
     "indexes/Memes to Learn.md",
     "dailies/20250422.md",
-    "README.md",
-    "dailies/20250421.md",
-    "dailies/20250416.md"
+    "dailies/20250421.md"
   ]
 }
