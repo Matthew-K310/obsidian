@@ -95,24 +95,10 @@
             "id": "280c92ab4a0c7cd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theology_reading_list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "theology_reading_list"
+              "title": "New tab"
             }
           }
         ],
@@ -278,8 +264,8 @@
   },
   "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
-    "README.md",
     "theology_reading_list.md",
+    "README.md",
     "notes/worklog-brian-project.md",
     "indexes/work_log_2025.md",
     "indexes/look_into.md",
