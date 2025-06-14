@@ -5,6 +5,21 @@
 - Switch teams with git branch like behavior
 - Workspace switching would be a plus, but I don't know if it's possible
 
+## Command List
+
+I want the commands to feel very similar to working with Git via the command line, so that there is a feeling of cohesiveness across the developer experience.
+
+- create
+	- issue
+	- project
+- switch
+	- project
+	- team
+- ls
+	- issues
+	- projects
+	- teams
+
 ## Feature list
 
 - Issues

@@ -23,7 +23,7 @@
   "promptDelete": false,
   "foldHeading": false,
   "foldIndent": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "strictLineBreaks": false,
   "showInlineTitle": false,
   "vimMode": true

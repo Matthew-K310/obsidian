@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c13eca579d48ce",
+        "id": "68e42bcc51732d61",
         "type": "tabs",
         "children": [
           {
-            "id": "81034e9f27681533",
+            "id": "1351de3d75872655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quicknote.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "quicknote"
+              "title": "New tab"
             }
           }
         ]
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags/psalm.md",
+                "file": "secrets/api_keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,21 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for psalm"
-            }
-          },
-          {
-            "id": "506ec63cf50195a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "remote/10 - Tags/agony.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Backlinks for api_keys"
             }
           },
           {
@@ -170,12 +142,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +161,16 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "81034e9f27681533",
+  "active": "1351de3d75872655",
   "lastOpenFiles": [
-    "theology_reading_list.md",
     "linear_cli_planning.md",
+    "secrets/api_keys.md",
+    "quicknote.md",
+    "indexes/theology_reading_list.md",
     "templates/daily.md",
     "Untitled.md",
     "calendar",
@@ -220,8 +195,6 @@
     "indexes/Work Hours 2025.md",
     "indexes/Memes to Learn.md",
     "indexes/Relationship Notes.md",
-    "indexes/Reading Things to Look Into.md",
-    "indexes/albums_to_own.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",

@@ -5,5 +5,8 @@
   "calendar",
   "better-export-pdf",
   "obsidian-kanban",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-minimal-settings",
+  "obsidian-relative-line-numbers",
+  "remotely-save"
 ]

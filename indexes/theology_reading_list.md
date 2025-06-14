@@ -1,0 +1,4 @@
+- *Church History in Plain Language (6th edition* by Bruce L. Shelley
+- *The History of Theology (4th revised edition)* by Bengt Hägglund
+- *Our Legacy: The History of Christian Doctrine* by John D. Hannah
+- *Canon Revisited: Establishing the Origins and Authority of the New Testament Books* by Michael J. Krueger

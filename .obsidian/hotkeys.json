@@ -114,5 +114,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": " "
+    }
   ]
 }
