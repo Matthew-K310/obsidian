@@ -95,10 +95,24 @@
             "id": "280c92ab4a0c7cd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dailies/20250614.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20250614"
             }
           }
         ],
@@ -250,6 +264,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
@@ -264,6 +279,8 @@
   },
   "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
+    "linear_cli_planning.md",
+    "dailies/20250614.md",
     "theology_reading_list.md",
     "README.md",
     "notes/worklog-brian-project.md",
@@ -292,8 +309,6 @@
     "indexes/Reading Things to Look Into.md",
     "dailies/20250525.md",
     "dailies/20250503.md",
-    "indexes/Memes to Learn.md",
-    "dailies/20250422.md",
-    "dailies/20250421.md"
+    "indexes/Memes to Learn.md"
   ]
 }
