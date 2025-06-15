@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/20250614.md",
+                "file": "indexes/prayer_requests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250614"
+              "title": "prayer_requests"
             }
           }
         ],
@@ -279,13 +279,13 @@
   },
   "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
-    "linear_cli_planning.md",
+    "indexes/look_into.md",
     "dailies/20250614.md",
+    "linear_cli_planning.md",
     "theology_reading_list.md",
     "README.md",
     "notes/worklog-brian-project.md",
     "indexes/work_log_2025.md",
-    "indexes/look_into.md",
     "latex/student-bible-study.pdf",
     "indexes/prayer_requests.md",
     "quicknote.md",
