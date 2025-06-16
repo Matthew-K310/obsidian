@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
+    "editor:insert-tag",
     "editor:toggle-bullet-list",
     "editor:toggle-checklist-status",
     "editor:set-heading",
