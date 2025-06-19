@@ -1,4 +1,4 @@
-As of 20250606 - 2hrs 10min
+As of 20250606 - 2hrs and 10min
 
 20250607 - 2hrs and 45min
 
@@ -7,3 +7,7 @@ As of 20250606 - 2hrs 10min
 20250614 - 1hr 10min
 
 20250615 - 1hr
+
+20250617 - 1 hr
+
+20250618 - 4hrs and 30min
