@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/worklog-brian-project.md",
+                "file": "skit_script_camp_2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "worklog-brian-project"
+              "title": "skit_script_camp_2025"
             }
           }
         ],
@@ -279,10 +279,11 @@
   },
   "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
+    "indexes/worklog-brian-project.md",
+    "skit_script_camp_2025.md",
     "notes/the_effect_of_the_knowledge_of_God.md",
     "todo.md",
     "quicknote.md",
-    "indexes/worklog-brian-project.md",
     "indexes/work_log_2025.md",
     "linear_cli_planning.md",
     "indexes/prayer_requests.md",
@@ -308,7 +309,6 @@
     "main-notes/bible-study-outline.md",
     "dailies/06062025.md",
     "indexes/Reading Things to Look Into.md",
-    "dailies/20250525.md",
-    "dailies/20250503.md"
+    "dailies/20250525.md"
   ]
 }
