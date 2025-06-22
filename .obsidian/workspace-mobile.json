@@ -119,10 +119,24 @@
             "id": "92d2e344af5623c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Goals"
             }
           }
         ],
@@ -287,7 +301,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e58404d48f7ad0d",
+  "active": "92d2e344af5623c8",
   "lastOpenFiles": [
     "dailies/06222025.md",
     "Goals.md",
