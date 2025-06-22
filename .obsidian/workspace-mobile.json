@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "dailies/06222025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "06222025"
             }
           }
         ],
@@ -279,6 +279,8 @@
   },
   "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
+    "templates/daily.md",
+    "dailies/06222025.md",
     "todo.md",
     "quicknote.md",
     "notes/skit_script_camp_2025.md",
@@ -307,8 +309,6 @@
     "main-notes/bible-study-leader-meeting-053025.md",
     "main-notes/bible-study-goals.md",
     "main-notes/bible-study-outline.md",
-    "dailies/06062025.md",
-    "indexes/Reading Things to Look Into.md",
-    "dailies/20250525.md"
+    "dailies/06062025.md"
   ]
 }
