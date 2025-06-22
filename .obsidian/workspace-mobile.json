@@ -95,10 +95,24 @@
             "id": "280c92ab4a0c7cd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/skit_script_camp_2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "skit_script_camp_2025"
             }
           }
         ],
@@ -250,6 +264,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
@@ -262,17 +277,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280c92ab4a0c7cd9",
+  "active": "0e58404d48f7ad0d",
   "lastOpenFiles": [
+    "indexes/worklog-brian-project.md",
+    "notes/skit_script_camp_2025.md",
+    "notes/the_effect_of_the_knowledge_of_God.md",
+    "todo.md",
+    "quicknote.md",
+    "indexes/work_log_2025.md",
+    "notes/linear_cli_planning.md",
+    "indexes/prayer_requests.md",
+    "indexes/look_into.md",
+    "dailies/20250614.md",
     "theology_reading_list.md",
     "README.md",
-    "notes/worklog-brian-project.md",
-    "indexes/work_log_2025.md",
-    "indexes/look_into.md",
     "latex/student-bible-study.pdf",
-    "indexes/prayer_requests.md",
-    "quicknote.md",
-    "todo.md",
     "dailies/06112025.md",
     "latex/student-bible-study.log",
     "latex/student-bible-study.aux",
@@ -290,10 +309,6 @@
     "main-notes/bible-study-outline.md",
     "dailies/06062025.md",
     "indexes/Reading Things to Look Into.md",
-    "dailies/20250525.md",
-    "dailies/20250503.md",
-    "indexes/Memes to Learn.md",
-    "dailies/20250422.md",
-    "dailies/20250421.md"
+    "dailies/20250525.md"
   ]
 }

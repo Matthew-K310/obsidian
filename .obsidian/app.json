@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
+    "editor:insert-tag",
     "editor:toggle-bullet-list",
     "editor:toggle-checklist-status",
     "editor:set-heading",
@@ -23,7 +24,7 @@
   "promptDelete": false,
   "foldHeading": false,
   "foldIndent": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "strictLineBreaks": false,
   "showInlineTitle": false,
   "vimMode": true
