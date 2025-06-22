@@ -1,5 +1,8 @@
 - [ ] Create camp packing list
-- [ ] Create cheery carnival song (waltz style)
+- [ ] Do Galatians Day 5 homework
+- [ ] Do Galatians Day 6 homework
+- [ ] Pack for camp
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/skit_script_camp_2025.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "skit_script_camp_2025"
+              "title": "daily"
             }
           }
         ],
@@ -277,13 +277,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e58404d48f7ad0d",
+  "active": "280c92ab4a0c7cd9",
   "lastOpenFiles": [
-    "indexes/worklog-brian-project.md",
-    "notes/skit_script_camp_2025.md",
-    "notes/the_effect_of_the_knowledge_of_God.md",
     "todo.md",
     "quicknote.md",
+    "notes/skit_script_camp_2025.md",
+    "indexes/worklog-brian-project.md",
+    "notes/the_effect_of_the_knowledge_of_God.md",
     "indexes/work_log_2025.md",
     "notes/linear_cli_planning.md",
     "indexes/prayer_requests.md",
