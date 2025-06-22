@@ -1,0 +1,4 @@
+- [ ] Learn Rust and rebuild linear-cli with it
+- [ ] Try Nix Darwin
+- [ ] Try NixOS
+- [ ] 

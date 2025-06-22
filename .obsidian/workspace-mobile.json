@@ -114,9 +114,33 @@
               "icon": "lucide-file",
               "title": "06222025"
             }
+          },
+          {
+            "id": "92d2e344af5623c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -277,10 +301,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280c92ab4a0c7cd9",
+  "active": "92d2e344af5623c8",
   "lastOpenFiles": [
-    "templates/daily.md",
     "dailies/06222025.md",
+    "Goals.md",
+    "templates/daily.md",
     "todo.md",
     "quicknote.md",
     "notes/skit_script_camp_2025.md",
@@ -308,7 +333,6 @@
     "Prayer Requests.md",
     "main-notes/bible-study-leader-meeting-053025.md",
     "main-notes/bible-study-goals.md",
-    "main-notes/bible-study-outline.md",
-    "dailies/06062025.md"
+    "main-notes/bible-study-outline.md"
   ]
 }
