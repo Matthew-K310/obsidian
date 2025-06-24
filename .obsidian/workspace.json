@@ -11,10 +11,24 @@
             "id": "1351de3d75872655",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "camp_skit_2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "camp_skit_2025"
             }
           }
         ]
@@ -167,12 +181,13 @@
   },
   "active": "1351de3d75872655",
   "lastOpenFiles": [
+    "camp_skit_2025.md",
+    "dailies/06232025.md",
     "linear_cli_planning.md",
     "secrets/api_keys.md",
     "quicknote.md",
     "indexes/theology_reading_list.md",
     "templates/daily.md",
-    "Untitled.md",
     "calendar",
     "indexes/prayer_requests.md~",
     "indexes/icebreaker_questions.md",
@@ -194,7 +209,6 @@
     "indexes/reading_log_2025.md",
     "indexes/Work Hours 2025.md",
     "indexes/Memes to Learn.md",
-    "indexes/Relationship Notes.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
