@@ -1,7 +1,7 @@
-- [ ] Create camp packing list
-- [ ] Do Galatians Day 5 homework
-- [ ] Do Galatians Day 6 homework
-- [ ] Pack for camp
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 

@@ -98,14 +98,6 @@
       "key": "N"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "editor:save-file": [],
   "app:delete-file": [
     {
@@ -122,5 +114,15 @@
       ],
       "key": " "
     }
-  ]
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": []
 }
