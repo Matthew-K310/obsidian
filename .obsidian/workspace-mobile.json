@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "indexes/Goals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -301,10 +301,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92d2e344af5623c8",
+  "active": "0e58404d48f7ad0d",
   "lastOpenFiles": [
     "dailies/06222025.md",
-    "Goals.md",
+    "indexes/Goals.md",
     "templates/daily.md",
     "todo.md",
     "quicknote.md",
