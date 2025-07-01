@@ -3,7 +3,8 @@
 - [ ] Clean up chair in room
 - [ ] Clean up clean
 - [ ] Take Belle to Bible study (possibly)
-- [ ] 
+- [ ] Study Romans 5:1-11
+- [ ] Read Heidelberg for the week
 - [ ] 
 - [ ] 
 - [ ] 
