@@ -1,4 +1,4 @@
-- [ ] 
+- [ ] Create personal email server
 - [ ] 
 - [ ] 
 - [ ] 
