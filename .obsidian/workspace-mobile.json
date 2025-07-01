@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/Goals.md",
+                "file": "dailies/07012025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "07012025"
             }
           }
         ],
@@ -301,12 +301,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e58404d48f7ad0d",
+  "active": "92d2e344af5623c8",
   "lastOpenFiles": [
-    "dailies/06222025.md",
-    "indexes/Goals.md",
-    "templates/daily.md",
     "todo.md",
+    "dailies/07012025.md",
+    "indexes/Goals.md",
+    "dailies/06222025.md",
+    "templates/daily.md",
     "quicknote.md",
     "notes/skit_script_camp_2025.md",
     "indexes/worklog-brian-project.md",
@@ -332,7 +333,6 @@
     "tags/stack.md",
     "Prayer Requests.md",
     "main-notes/bible-study-leader-meeting-053025.md",
-    "main-notes/bible-study-goals.md",
-    "main-notes/bible-study-outline.md"
+    "main-notes/bible-study-goals.md"
   ]
 }
