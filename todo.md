@@ -1,4 +1,8 @@
-- [ ] 
+- [ ] Mow the lawn
+- [ ] Write out text to Bible study group
+- [ ] Clean up chair in room
+- [ ] Clean up clean
+- [ ] Take Belle to Bible study (possibly)
 - [ ] 
 - [ ] 
 - [ ] 
