@@ -138,9 +138,33 @@
               "icon": "lucide-file",
               "title": "07012025"
             }
+          },
+          {
+            "id": "fc656b86dd7b6b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -301,10 +325,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92d2e344af5623c8",
+  "active": "fc656b86dd7b6b5d",
   "lastOpenFiles": [
-    "todo.md",
     "dailies/07012025.md",
+    "todo.md",
+    "todo.md",
     "indexes/Goals.md",
     "dailies/06222025.md",
     "templates/daily.md",
@@ -332,7 +357,6 @@
     "stack-info.md",
     "tags/stack.md",
     "Prayer Requests.md",
-    "main-notes/bible-study-leader-meeting-053025.md",
-    "main-notes/bible-study-goals.md"
+    "main-notes/bible-study-leader-meeting-053025.md"
   ]
 }
