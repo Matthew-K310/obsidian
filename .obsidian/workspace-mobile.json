@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "indexes/date_night_movies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "date_night_movies"
             }
           }
         ],
@@ -327,9 +327,8 @@
   },
   "active": "fc656b86dd7b6b5d",
   "lastOpenFiles": [
+    "todo.md",
     "dailies/07012025.md",
-    "todo.md",
-    "todo.md",
     "indexes/Goals.md",
     "dailies/06222025.md",
     "templates/daily.md",

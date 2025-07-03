@@ -8,7 +8,7 @@
 - [ ] Nacho Libre
 - [ ] Clone Wars (see arcs)
 - [x] Rogue One
-- [ ] The Creator
+- [x] The Creator ✅ 2025-07-03
 - [ ] Hidalgo
 - [ ] Lord of the Rings Extended Editions
 - [ ] The Chronicles of Narnia
