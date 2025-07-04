@@ -2,7 +2,6 @@ Here is a list of the RSS/XML URLs from the provided file:
 
 *   https://lukesmith.xyz/rss.xml
 *   https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
-*   https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
 *   https://lindypress.net/rss
 *   https://notrelated.xyz/rss
 *   https://landchad.net/rss.xml
@@ -15,11 +14,7 @@ Here is a list of the RSS/XML URLs from the provided file:
 *   https://jaredhenderson.substack.com/feed
 *   https://joshblais.com/index.xml
 *   https://askligonier.ligonier.org/rss
-*   https://www.namtao.com/nb/
 *   https://blog.dreamsofcode.io/rss.xml
-*   https://feeds.skynews.com/feeds/rss/us.xml
-*   https://feeds.skynews.com/feeds/rss/world.xml
-*   https://feeds.skynews.com/feeds/rss/technology.xml
 *   https://zen-browser.app/feed.xml
 *   https://www.youtube.com/feeds/videos.xml?channel_id=UCwHwDuNd9lCdA7chyyquDXw
 *   https://www.youtube.com/feeds/videos.xml?channel_id=UCK9WBLVJwLkX8GiUaMsm3_g
