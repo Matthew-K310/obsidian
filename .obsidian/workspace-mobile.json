@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "indexes/look_into.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "look_into"
             }
           }
         ],
@@ -375,10 +375,10 @@
   },
   "active": "9ee71f29476314d3",
   "lastOpenFiles": [
+    "todo.md",
     "using_tailwind_css.md",
     "using_templ_for_web_development.md",
     "indexes/date_night_movies.md",
-    "todo.md",
     "dailies/07012025.md",
     "indexes/Goals.md",
     "dailies/06222025.md",
