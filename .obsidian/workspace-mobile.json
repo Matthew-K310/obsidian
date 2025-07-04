@@ -218,7 +218,7 @@
               "type": "markdown",
               "state": {
                 "file": "rss_feeds.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
