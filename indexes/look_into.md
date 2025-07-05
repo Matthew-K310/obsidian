@@ -6,7 +6,7 @@
 - Sovereign Grace Music
 - Deuterocanonical texts
 - Samuel Rutherford
-- Dunne Skodis
 - Abilene Christian nuclear reactor
 - Charleston Confession
 - Philadelphia Confession 
+- **Predestination of the saints**
