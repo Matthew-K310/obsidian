@@ -1,0 +1,17 @@
+- [ ] Talk to Cougar about plans for Wednesday
+- [ ] Ask about going to Gatlin's party
+- [ ] Do Galatians assignments for days 2, 3, and 6
+- [ ] Finish cleaning up room
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
