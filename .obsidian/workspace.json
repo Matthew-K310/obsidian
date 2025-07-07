@@ -174,9 +174,7 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "1351de3d75872655",

@@ -1,10 +1,17 @@
-- [x] Mow the lawn ✅ 2025-07-01
-- [x] Write out text to Bible study group ✅ 2025-07-01
-- [ ] Clean up chair in room
-- [ ] Clean up clean
-- [x] Take Belle to Bible study (possibly) ✅ 2025-07-01
-- [x] Study Romans 5:1-11 ✅ 2025-07-03
-- [ ] Read Heidelberg for the week
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
