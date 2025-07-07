@@ -1,0 +1,32 @@
+Here is a list of the RSS/XML URLs from the provided file:
+
+*   https://lukesmith.xyz/rss.xml
+*   https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
+*   https://lindypress.net/rss
+*   https://notrelated.xyz/rss
+*   https://landchad.net/rss.xml
+*   https://based.cooking/index.xml
+*   https://artixlinux.org/feed.php
+*   https://www.archlinux.org/feeds/news/
+*   https://github.com/LukeSmithxyz/voidrice/commits/master.atom
+*   https://thorstenball.com/atom.xml
+*   https://world.hey.com/dhh/feed.atom
+*   https://jaredhenderson.substack.com/feed
+*   https://joshblais.com/index.xml
+*   https://askligonier.ligonier.org/rss
+*   https://blog.dreamsofcode.io/rss.xml
+*   https://zen-browser.app/feed.xml
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCwHwDuNd9lCdA7chyyquDXw
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCK9WBLVJwLkX8GiUaMsm3_g
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UC4NNPgQ9sOkBjw6GlkgCylg
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCqS4Hfwr5q2WUYmGb6OZasQ
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCdpkTMgFiDkcAnNV7TmXntA
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UC7WtLipHnndkqwSxvL0oyVQ
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCWQaM7SpSECp9FELz-cHzuQ
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCZTMvlskGKEC0ZDxHgSB_1g
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UC2Kyj04yISmHr1V-UlJz4eg
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCa8W2_uf81Ew6gYuw0VPSeA
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCib8MAX3TwtAPw007zcraRg
+*   https://www.youtube.com/feeds/videos.xml?channel_id=UCgleHPPvl9LD7jeU2G-XNWw

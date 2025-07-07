@@ -1,6 +1,4 @@
 #index
-
-- Baptist Faith and Message vs. 1689 Confession
 - What do denominations believe about baptism?
 - Song of Solomon pertaining to God and the church
 - What are my convictions and why do I hold to them?
@@ -8,5 +6,7 @@
 - Sovereign Grace Music
 - Deuterocanonical texts
 - Samuel Rutherford
-- Dunne Skodis
 - Abilene Christian nuclear reactor
+- Charleston Confession
+- Philadelphia Confession 
+- **Predestination of the saints**

@@ -162,9 +162,81 @@
               "icon": "lucide-file",
               "title": "date_night_movies"
             }
+          },
+          {
+            "id": "d8b7245ca03d1687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "using_templ_for_web_development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "using_templ_for_web_development"
+            }
+          },
+          {
+            "id": "9ee71f29476314d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "indexes/look_into.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "look_into"
+            }
+          },
+          {
+            "id": "b9b7173af84aa56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "indexes/look_into.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "look_into"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -325,9 +397,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc656b86dd7b6b5d",
+  "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "rss_feeds.md",
+    "indexes/look_into.md",
     "todo.md",
+    "using_tailwind_css.md",
+    "using_templ_for_web_development.md",
+    "indexes/date_night_movies.md",
     "dailies/07012025.md",
     "indexes/Goals.md",
     "dailies/06222025.md",
@@ -339,7 +416,6 @@
     "indexes/work_log_2025.md",
     "notes/linear_cli_planning.md",
     "indexes/prayer_requests.md",
-    "indexes/look_into.md",
     "dailies/20250614.md",
     "theology_reading_list.md",
     "README.md",
@@ -353,9 +429,6 @@
     "tags/righteousness.md",
     "main-notes/Arch Install (UEFI).md",
     "worklog-brian-project.md",
-    "stack-info.md",
-    "tags/stack.md",
-    "Prayer Requests.md",
-    "main-notes/bible-study-leader-meeting-053025.md"
+    "stack-info.md"
   ]
 }
