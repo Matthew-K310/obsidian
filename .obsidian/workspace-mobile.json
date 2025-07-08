@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quicknote.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "quicknote"
+              "title": "todo"
             }
           }
         ],
@@ -399,6 +399,7 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "quicknote.md",
     "indexes/look_into.md",
     "rss_feeds.md",
     "todo.md",
@@ -409,7 +410,6 @@
     "indexes/Goals.md",
     "dailies/06222025.md",
     "templates/daily.md",
-    "quicknote.md",
     "notes/skit_script_camp_2025.md",
     "indexes/worklog-brian-project.md",
     "notes/the_effect_of_the_knowledge_of_God.md",

@@ -1,6 +1,6 @@
-- [ ] Talk to Cougar about plans for Wednesday
+- [x] Talk to Cougar about plans for Wednesday ✅ 2025-07-08
 - [ ] Ask about going to Gatlin's party
-- [ ] Do Galatians assignments for days 2, 3, and 6
+- [x] Do Galatians assignments for days 2, 3, and 6 ✅ 2025-07-08
 - [ ] Finish cleaning up room
 - [ ]
 - [ ]
