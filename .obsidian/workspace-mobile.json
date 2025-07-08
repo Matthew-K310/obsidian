@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/look_into.md",
+                "file": "quicknote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "look_into"
+              "title": "quicknote"
             }
           }
         ],
@@ -399,8 +399,8 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
-    "rss_feeds.md",
     "indexes/look_into.md",
+    "rss_feeds.md",
     "todo.md",
     "using_tailwind_css.md",
     "using_templ_for_web_development.md",
