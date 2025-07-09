@@ -66,177 +66,9 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "6205271bbfc8a860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "280c92ab4a0c7cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/06222025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06222025"
-            }
-          },
-          {
-            "id": "92d2e344af5623c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/07012025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07012025"
-            }
-          },
-          {
-            "id": "fc656b86dd7b6b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "indexes/date_night_movies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "date_night_movies"
-            }
-          },
-          {
-            "id": "d8b7245ca03d1687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "using_templ_for_web_development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "using_templ_for_web_development"
-            }
-          },
-          {
-            "id": "9ee71f29476314d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "indexes/look_into.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "look_into"
-            }
-          },
-          {
-            "id": "b9b7173af84aa56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -384,51 +216,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": true,
+      "zk-prefixer:Create new unique note": false,
       "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b7173af84aa56c",
+  "active": "3bd83f5c205bb989",
   "lastOpenFiles": [
-    "quicknote.md",
-    "indexes/look_into.md",
-    "rss_feeds.md",
-    "todo.md",
-    "using_tailwind_css.md",
-    "using_templ_for_web_development.md",
-    "indexes/date_night_movies.md",
-    "dailies/07012025.md",
-    "indexes/Goals.md",
-    "dailies/06222025.md",
-    "templates/daily.md",
-    "notes/skit_script_camp_2025.md",
-    "indexes/worklog-brian-project.md",
-    "notes/the_effect_of_the_knowledge_of_God.md",
-    "indexes/work_log_2025.md",
-    "notes/linear_cli_planning.md",
+    "indexes/links_for_later.md",
+    "dailies/20250329.md",
     "indexes/prayer_requests.md",
-    "dailies/20250614.md",
-    "theology_reading_list.md",
-    "README.md",
-    "latex/student-bible-study.pdf",
-    "dailies/06112025.md",
-    "latex/student-bible-study.log",
-    "latex/student-bible-study.aux",
-    "latex/student-bible-study.tex",
+    "indexes/Goals.md",
+    "indexes/memes_to_memorize.md",
+    "indexes/work_log_2025.md",
+    "indexes/date_night_movies.md",
+    "rss_feeds.md",
+    "indexes/icebreaker_questions.md",
+    "indexes/look_into.md",
+    "indexes/relationship_index.md",
+    "indexes/theology_reading_list.md",
+    "indexes/music_gear_purchases.md",
+    "indexes/albums_to_own.md",
+    "latex/YMBC_Doctrinal_Statement.log",
+    "latex/YMBC_Doctrinal_Statement.aux",
+    "latex/YMBC_Doctrinal_Statement.tex",
+    "latex/YMBC_Doctrinal_Statement.pdf",
     "latex",
-    "Alien Righteousness.md",
-    "tags/righteousness.md",
-    "main-notes/Arch Install (UEFI).md",
-    "worklog-brian-project.md",
-    "stack-info.md"
+    "indexes/things_to_teach_my_kids.md",
+    "indexes/reading_log_2025.md",
+    "indexes/worklog-brian-project.md",
+    "media/handwritten_notes/Drawing 15.png",
+    "media/handwritten_notes/Drawing 14.png",
+    "media/handwritten_notes/Drawing 13.png",
+    "media/handwritten_notes/Drawing 12.png",
+    "media/handwritten_notes/Drawing 10.png",
+    "media/handwritten_notes/Drawing 11.png",
+    "media/handwritten_notes/Drawing 7.png",
+    "media/handwritten_notes/Drawing 9.png",
+    "media/handwritten_notes",
+    "dailies/20250614.md",
+    "notes/important/Relationship Notes.md",
+    "notes/important/Movies for date night.md",
+    "notes/important/virtual machine passwords.md",
+    "notes/linear_cli_planning.md",
+    "notes/heir_to_the_empire_review.md",
+    "notes/student_bs_meeting.md",
+    "notes/sunk_cost_fallacy.md",
+    "notes/the_person_of_jesus_lesson.md",
+    "notes/important",
+    "notes"
   ]
 }
