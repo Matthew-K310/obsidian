@@ -1,17 +1,13 @@
-- [x] Talk to Cougar about plans for Wednesday ✅ 2025-07-08
-- [ ] Ask about going to Gatlin's party
-- [x] Do Galatians assignments for days 2, 3, and 6 ✅ 2025-07-08
-- [ ] Finish cleaning up room
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Create audiobookshelf VM (1cpu, 2048mb RAM, 120gb storage)
+- [ ] Create navidrome VM (1cpu, 2048mb RAM, 30gb storage)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
