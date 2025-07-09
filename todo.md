@@ -1,13 +1,13 @@
-- [ ] Create audiobookshelf VM (1cpu, 2048mb RAM, 120gb storage)
-- [ ] Create navidrome VM (1cpu, 2048mb RAM, 30gb storage)
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Create audiobookshelf VM (1cpu, 2048mb RAM, 120gb storage)
+- [x] Create navidrome VM (1cpu, 2048mb RAM, 30gb storage)
+- [ ] Create immich VM
+- [ ] Create vaultwarden VM
+- [ ] Figure out USB mounting on iMac
+- [ ] Set up automatic git password sync
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
