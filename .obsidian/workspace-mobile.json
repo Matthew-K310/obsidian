@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "dailies/07132025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "07132025"
             }
           }
         ],
@@ -399,10 +399,11 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "todo.md",
+    "dailies/07132025.md",
     "quicknote.md",
     "indexes/look_into.md",
     "rss_feeds.md",
-    "todo.md",
     "using_tailwind_css.md",
     "using_templ_for_web_development.md",
     "indexes/date_night_movies.md",
@@ -428,7 +429,6 @@
     "Alien Righteousness.md",
     "tags/righteousness.md",
     "main-notes/Arch Install (UEFI).md",
-    "worklog-brian-project.md",
-    "stack-info.md"
+    "worklog-brian-project.md"
   ]
 }
