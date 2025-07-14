@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/07142025.md",
+                "file": "dailies/20250714.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07142025"
+              "title": "20250714"
             }
           }
         ]
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea9dc36063e30de1",
@@ -183,9 +182,11 @@
   },
   "active": "1351de3d75872655",
   "lastOpenFiles": [
-    "dailies/07132025.md",
+    "dailies/20250622.md",
+    "dailies/20250701.md",
+    "dailies/20250713.md",
+    "dailies/20250714.md",
     "todo.md",
-    "dailies/07142025.md",
     "camp_skit_2025.md",
     "notes/camp_skit_2025.md",
     "indexes/Goals.md",
@@ -209,8 +210,6 @@
     "indexes/music_gear_purchases.md",
     "indexes/Purchase dates for music gear.md",
     "indexes/work_log_2025.md",
-    "indexes/relationship_index.md",
-    "indexes/look_into.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
