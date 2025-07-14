@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/20250714.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250714"
+              "title": "README"
             }
           }
         ]
@@ -182,10 +182,12 @@
   },
   "active": "1351de3d75872655",
   "lastOpenFiles": [
+    "rss_feeds.md",
+    "quicknote.md",
+    "dailies/20250714.md",
     "dailies/20250622.md",
     "dailies/20250701.md",
     "dailies/20250713.md",
-    "dailies/20250714.md",
     "todo.md",
     "camp_skit_2025.md",
     "notes/camp_skit_2025.md",
@@ -194,7 +196,6 @@
     "dailies/06232025.md",
     "linear_cli_planning.md",
     "secrets/api_keys.md",
-    "quicknote.md",
     "indexes/theology_reading_list.md",
     "templates/daily.md",
     "calendar",
@@ -209,7 +210,6 @@
     "notes/bedroom_measurements.md",
     "indexes/music_gear_purchases.md",
     "indexes/Purchase dates for music gear.md",
-    "indexes/work_log_2025.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
