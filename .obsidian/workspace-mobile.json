@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/07132025.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07132025"
+              "title": "todo"
             }
           }
         ],
@@ -399,8 +399,8 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
-    "todo.md",
     "dailies/07132025.md",
+    "todo.md",
     "quicknote.md",
     "indexes/look_into.md",
     "rss_feeds.md",
