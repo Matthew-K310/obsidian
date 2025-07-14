@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/07142025.md",
+                "file": "quicknote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07142025"
+              "title": "quicknote"
             }
           }
         ],
@@ -399,13 +399,14 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "rss_feeds.md",
     "todo.md",
+    "dailies/20250714.md",
     "today_i_learned",
     "dailies/07142025.md",
     "dailies/07132025.md",
     "quicknote.md",
     "indexes/look_into.md",
-    "rss_feeds.md",
     "using_tailwind_css.md",
     "using_templ_for_web_development.md",
     "indexes/date_night_movies.md",
