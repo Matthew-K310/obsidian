@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "dailies/07142025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "07142025"
             }
           }
         ],
@@ -399,8 +399,10 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
-    "dailies/07132025.md",
     "todo.md",
+    "today_i_learned",
+    "dailies/07142025.md",
+    "dailies/07132025.md",
     "quicknote.md",
     "indexes/look_into.md",
     "rss_feeds.md",
@@ -427,8 +429,6 @@
     "latex/student-bible-study.tex",
     "latex",
     "Alien Righteousness.md",
-    "tags/righteousness.md",
-    "main-notes/Arch Install (UEFI).md",
-    "worklog-brian-project.md"
+    "tags/righteousness.md"
   ]
 }
