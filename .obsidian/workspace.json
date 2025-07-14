@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea9dc36063e30de1",
@@ -161,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +183,7 @@
   },
   "active": "1351de3d75872655",
   "lastOpenFiles": [
+    "dailies/07132025.md",
     "todo.md",
     "dailies/07142025.md",
     "camp_skit_2025.md",
@@ -208,7 +211,6 @@
     "indexes/work_log_2025.md",
     "indexes/relationship_index.md",
     "indexes/look_into.md",
-    "indexes/date_night_movies.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
