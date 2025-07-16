@@ -1,7 +1,7 @@
 - [ ] Set up nginxproxymanager container on ports 8080 and 8443
-- [ ] Set up nextcloud instance
-- [ ] Set up custom domain and https for nextcloud
-- [ ] Set up tailscale on nextcloud
+- [x] Set up nextcloud instance ✅ 2025-07-16
+- [x] Set up custom domain and https for nextcloud ✅ 2025-07-16
+- [x] Set up tailscale on nextcloud ✅ 2025-07-16
 - [ ] Create immich VM
 - [ ] Create vaultwarden VM
 - [ ] Figure out USB mounting on iMac
