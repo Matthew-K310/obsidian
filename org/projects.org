@@ -1,6 +1,21 @@
 * belles-crafts
+** Notes
+*** Stack
+- Go: backend and server
+- Templ: pages and templating
+- TailwindCSS: styling
+- MySQL: database
 ** Tasks
-*** TODO Style/design product component
-*** TODO Style navbar component
-
- [[file:~/Developer/web-dev/belles-crafts/main.go]]
+*** Todos
+**** TODO Style/design product component
+**** TODO Style navbar component
+**** TODO
+**** TODO Create filter selector
+Will use test data for now, since I don't have the DB up yet
+*** Done
+**** DONE Create product component (BELLE-16)
+**** DONE Create layout template (BELLE-19)
+**** DONE Bug fix: page rendering (BELLE-21)
+Fixed by making adding a render function in main.go
+**** DONE Bug fix: font color (BELLE-20)
+Fixed invisible text by changing styling to text-white
