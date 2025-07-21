@@ -384,7 +384,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,

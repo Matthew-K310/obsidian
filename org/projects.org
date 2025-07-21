@@ -1,0 +1,6 @@
+* belles-crafts
+** Tasks
+*** TODO Style/design product component
+*** TODO Style navbar component
+
+ [[file:~/Developer/web-dev/belles-crafts/main.go]]
