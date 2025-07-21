@@ -384,7 +384,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": true,
@@ -399,9 +398,10 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "org/todo.org",
+    "todo.md",
     "quicknote.md",
     "rss_feeds.md",
-    "todo.md",
     "dailies/20250714.md",
     "today_i_learned",
     "dailies/07142025.md",
@@ -429,7 +429,6 @@
     "latex/student-bible-study.aux",
     "latex/student-bible-study.tex",
     "latex",
-    "Alien Righteousness.md",
-    "tags/righteousness.md"
+    "Alien Righteousness.md"
   ]
 }
