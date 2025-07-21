@@ -1,3 +1,0 @@
-usr - matthewumbrel
-
-passwd - hopefullyeasyserver
