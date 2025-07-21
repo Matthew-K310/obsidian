@@ -1,11 +1,7 @@
-- [ ] Set up nginxproxymanager container on ports 8080 and 8443
-- [ ] Set up nextcloud instance
-- [ ] Set up custom domain and https for nextcloud
-- [ ] Set up tailscale on nextcloud
 - [ ] Create immich VM
 - [ ] Create vaultwarden VM
 - [ ] Figure out USB mounting on iMac
 - [ ] Set up automatic git password sync
-- [x] Schedule coffee with Doug
+- [ ] Schedule coffee with Doug
 - [ ] Schedule coffee with Tom
 - [ ]

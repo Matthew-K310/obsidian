@@ -1,8 +1,6 @@
-* Belle's Crafts
+* belles-crafts
 ** Tasks
-*** TODO
-**** TODO BELLE-12 Create shop page
-***** TODO BELLE-16 Create product component
-***** TODO BELLE-17 Create product page template
-****** TODO 
-***** TODO BELLE-18 Create filter selectors
+*** TODO Style/design product component
+*** TODO Style navbar component
+
+ [[file:~/Developer/web-dev/belles-crafts/main.go]]
