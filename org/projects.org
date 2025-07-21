@@ -1,0 +1,8 @@
+* Belle's Crafts
+** Tasks
+*** TODO
+**** TODO BELLE-12 Create shop page
+***** TODO BELLE-16 Create product component
+***** TODO BELLE-17 Create product page template
+****** TODO 
+***** TODO BELLE-18 Create filter selectors

@@ -11,24 +11,10 @@
             "id": "1351de3d75872655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -167,7 +153,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "remotely-save:Remotely Save": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -182,13 +167,20 @@
   },
   "active": "1351de3d75872655",
   "lastOpenFiles": [
+    "org/ideas.org",
+    "org/done.org",
+    "org/todo.org",
+    "org/projects.org",
+    "org/journal.org",
+    "org/calendar.org",
+    "todo.md",
+    "README.md",
     "rss_feeds.md",
     "quicknote.md",
     "dailies/20250714.md",
     "dailies/20250622.md",
     "dailies/20250701.md",
     "dailies/20250713.md",
-    "todo.md",
     "camp_skit_2025.md",
     "notes/camp_skit_2025.md",
     "indexes/Goals.md",
@@ -208,8 +200,6 @@
     "dailies/20250329.md",
     "dailies/20250324.md",
     "notes/bedroom_measurements.md",
-    "indexes/music_gear_purchases.md",
-    "indexes/Purchase dates for music gear.md",
     "notes/important",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
@@ -221,13 +211,8 @@
     "media/handwritten_notes/Drawing 10.png",
     "media/handwritten_notes",
     "notes/Important",
-    "notes",
-    "main-notes/Important",
     "media/Handwritten Notes/Drawing 9.png",
     "media/Handwritten Notes/Drawing 7.png",
-    "media/Handwritten Notes",
-    "media",
-    "rough-notes/work/080320251700-setup.md~",
     "remote/2 - Rough Notes/Projects/Project Planning.canvas",
     "remote/5 - Main Notes/Catholicism Research.canvas",
     "remote/Projects 1/Project Planning.canvas",
