@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+- [x] Set up nextcloud instance ✅ 2025-07-16
+- [x] Set up custom domain and https for nextcloud ✅ 2025-07-16
+- [x] Set up tailscale on nextcloud ✅ 2025-07-16
+>>>>>>> refs/remotes/origin/main
 - [ ] Create immich VM
 - [ ] Create vaultwarden VM
 - [ ] Figure out USB mounting on iMac
