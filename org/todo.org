@@ -1,6 +1,15 @@
 #+title: Todo
 
 * Inbox
-** [ ] Write thank you note to P&G
-** [ ] Write thank you note to the Evan's
-** [ ] Email Rob about volunteering (list out skills)
+** TODO Write thank you note to P&G
+- State "TODO"       from ""           [2025-07-20 Sun 19:25]
+** TODO Write thank you note to the Evan's
+- State "TODO"       from ""           [2025-07-20 Sun 19:25]
+** TODO Email Rob about volunteering (list out skills)
+- State "TODO"       from ""           [2025-07-20 Sun 19:25]
+
+** TODO Clean Den
+
+** TODO Clean living room
+
+** TODO Clean my room

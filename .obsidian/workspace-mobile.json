@@ -215,24 +215,10 @@
             "id": "b9b7173af84aa56c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "New tab"
             }
           }
         ],
@@ -396,11 +382,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e58404d48f7ad0d",
+  "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "org/todo.org",
+    "todo.md",
     "quicknote.md",
     "rss_feeds.md",
-    "todo.md",
     "dailies/20250714.md",
     "today_i_learned",
     "dailies/07142025.md",
@@ -428,7 +415,6 @@
     "latex/student-bible-study.aux",
     "latex/student-bible-study.tex",
     "latex",
-    "Alien Righteousness.md",
-    "tags/righteousness.md"
+    "Alien Righteousness.md"
   ]
 }
