@@ -1,2 +1,6 @@
 #+title: Todo
 
+* Inbox
+** [ ] Write thank you note to P&G
+** [ ] Write thank you note to the Evan's
+** [ ] Email Rob about volunteering (list out skills)
