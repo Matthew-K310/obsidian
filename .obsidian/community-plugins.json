@@ -5,10 +5,10 @@
   "calendar",
   "better-export-pdf",
   "obsidian-kanban",
-  "obsidian-advanced-slides",
   "obsidian-minimal-settings",
   "obsidian-relative-line-numbers",
   "obsidian-tasks-plugin",
   "obsidian-advanced-uri",
-  "obsidian-org-mode"
+  "obsidian-org-mode",
+  "remotely-save"
 ]

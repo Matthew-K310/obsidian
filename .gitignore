@@ -1,2 +1,5 @@
 .DS_Store/
 secrets/
+.obsidian/
+.sync*
+.stfolder/

@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "notes/important/Movies for date night.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Movies for date night"
             }
           }
         ],
@@ -393,11 +393,32 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
+    "org/todo.sync-conflict-20250722-052717-AQSZDJW.org",
+    "org/agenda.sync-conflict-20250722-052717-AQSZDJW.org",
+    "org/bookmarks.html",
+    "quicknote.md",
+    "secrets/gcal_secrets.md",
+    "todo.md",
+    "secrets/Bitwarden password.md",
+    "secrets/api_keys.md",
+    "secrets/apple-account-recovery-key.md",
+    "secrets/20250423.md",
+    "secrets",
+    "org/agenda.sync-conflict-20250721-184326-AQSZDJW.org",
+    "org/calendar.sync-conflict-20250721-184323-AQSZDJW.org",
+    "today_i_learned/freelance/overplan_for_payment_rates.md",
+    "today_i_learned/freelance",
+    "today_i_learned/tailscale/linux_install",
+    "today_i_learned/tailscale",
+    "today_i_learned/README.md",
+    "today_i_learned/rust/cargo_docs.md",
+    "today_i_learned/rust",
     "notes/alien_righteousness.md",
     "notes/child_sexual_abuse_training.md",
     "notes/camp_skit_2025.md",
@@ -413,23 +434,6 @@
     "notes/on_life_memory_and_upkeep_of_mind.md",
     "notes/linear_cli_planning.md",
     "notes/elixir-tuples.md",
-    "notes/important/virtual machine passwords.md",
-    "todo.md",
-    "org/todo.org",
-    "quicknote.md",
-    "rss_feeds.md",
-    "dailies/20250714.md",
-    "today_i_learned",
-    "dailies/07142025.md",
-    "dailies/07132025.md",
-    "indexes/look_into.md",
-    "using_tailwind_css.md",
-    "using_templ_for_web_development.md",
-    "indexes/date_night_movies.md",
-    "latex/student-bible-study.pdf",
-    "latex/student-bible-study.log",
-    "latex/student-bible-study.aux",
-    "latex/student-bible-study.tex",
-    "latex"
+    "org/todo.org"
   ]
 }

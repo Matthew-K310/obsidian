@@ -5,8 +5,16 @@ Jul 21, 2025
 * DONE Clean living room
 * DONE Clean my room
 * DONE Plan coffee with Doug
-* TODO Write thank you note to P&G
-* TODO Write thank you note to the Evan's
-* TODO Email Rob about volunteering (list out skills)
+Tuesday
+* Goals for the week
+** Development
+*** Create store page file://Users/matthewkennedy/Developer/web-dev/belles-crafts/
+*** Finish rpg-in-go series
+** Personal
+*** Finish the 1689 Confession
+*** Finish Dune: Messiah
+*** Write thank you cards
+
 Jul 22, 2025
-* Coffee with Doug <2025-07-22 Tue 16:00>
+* TODO Mow the lawn
+SCHEDULED: <2025-07-22 Tue 08:30>

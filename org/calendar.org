@@ -1,0 +1,83 @@
+* Events
+** Morning Discipleship
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:ETag:     "3506276503303966"
+:entry-id: flsclgommru21rhhl0effh9s1g/matthew_i_kennedy@att.net
+:END:
+:org-gcal:
+<2025-07-23 Wed 06:30-08:00>
+
+<2025-07-30 Wed 06:30-08:00>
+:END:
+:PROPERTIES:
+:CAPTURED:
+:END:
+** Evening Fellowship
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:ETag:     "3506276518521918"
+:entry-id: co2ehm26o5fcr2481bhh2h173k/matthew_i_kennedy@att.net
+:END:
+:org-gcal:
+<2025-07-23 Wed 18:00-20:00>
+
+<2025-07-30 Wed 18:00-20:00>
+:END:
+:PROPERTIES:
+:CAPTURED:
+:END:
+** Game Night
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:END:
+<2025-07-24 Thu 19:00-21:00>
+:PROPERTIES:
+:CREATED: [2025-07-21 Mon 17:27]
+:CAPTURED:
+:END:
+:CAPTURED: [[file:~/Notes/obsidian-vault/org/calendar.org::*Game Night][Game Night]]
+:END:
+** Boot.dev Hackathon Kickoff
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:ETag:     "3506275649511262"
+:entry-id: 8an3b3injeuh8khs4a0c9l32ak/matthew_i_kennedy@att.net
+:END:
+:org-gcal:
+<2025-07-25 Fri 10:00-12:00>
+:END:
+:PROPERTIES:
+:CREATED: [2025-07-21 Mon 17:42]
+** Admin Day
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:ETag:     "3506276103512158"
+:entry-id: daujt0aa24f08ufhd2fid74ucg/matthew_i_kennedy@att.net
+:END:
+:org-gcal:
+<2025-07-21 Mon +1w>
+:END:
+:PROPERTIES:
+:CREATED: [2025-07-21 Mon 17:45]
+:CAPTURED:
+:END:
+** Coffee with Doug
+:PROPERTIES:
+:calendar-id: matthew_i_kennedy@att.net
+:org-gcal-managed: org
+:ETag:     "3506321778122846"
+:entry-id: gsjg482370eus16v9eq28upflo/matthew_i_kennedy@att.net
+:END:
+:org-gcal:
+<2025-07-22 Tue 16:00-17:30>
+:END:
+:PROPERTIES:
+:CREATED: [2025-07-22 Tue 00:04]
+:CAPTURED: [[file:~/Notes/obsidian-vault/org/calendar.org::*Morning Discipleship][Morning Discipleship]]
+:END:

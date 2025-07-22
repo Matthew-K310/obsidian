@@ -1,0 +1,18 @@
+#+title: Agenda
+
+Jul 21, 2025
+* DONE Clean Den
+* DONE Clean living room
+* DONE Clean my room
+* DONE Plan coffee with Doug
+* TODO Write thank you note to P&G
+DEADLINE: <2025-07-22 Tue>
+* TODO Write thank you note to the Evan's
+DEADLINE: <2025-07-22 Tue>
+* TODO Email Rob about volunteering
+DEADLINE: <2025-07-22 Tue>
+Jul 22, 2025
+* Coffee with Doug
+Jul 23, 2025
+Jul 21, 2025
+* PROJ Belle's Crafts file://Users/matthewkennedy/Developer
