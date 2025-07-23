@@ -1,10 +1,14 @@
 * Events
+:PROPERTIES:
+:ID:       2f7ee754-de4e-46a5-86df-923bf1ddbdb3
+:END:
 ** Morning Discipleship
 :PROPERTIES:
 :calendar-id: matthew_i_kennedy@att.net
 :org-gcal-managed: org
 :ETag:     "3506276503303966"
 :entry-id: flsclgommru21rhhl0effh9s1g/matthew_i_kennedy@att.net
+:ID:       2805663b-b692-4105-94ff-eadab050234e
 :END:
 :org-gcal:
 <2025-07-23 Wed 06:30-08:00>
@@ -20,6 +24,7 @@
 :org-gcal-managed: org
 :ETag:     "3506276518521918"
 :entry-id: co2ehm26o5fcr2481bhh2h173k/matthew_i_kennedy@att.net
+:ID:       ef0ea1a8-0ce7-43f0-9910-05a8ea1dea55
 :END:
 :org-gcal:
 <2025-07-23 Wed 18:00-20:00>
@@ -33,6 +38,7 @@
 :PROPERTIES:
 :calendar-id: matthew_i_kennedy@att.net
 :org-gcal-managed: org
+:ID:       abcdee20-efc0-44ff-a36e-1a1748745e20
 :END:
 <2025-07-24 Thu 19:00-21:00>
 :PROPERTIES:
@@ -47,6 +53,7 @@
 :org-gcal-managed: org
 :ETag:     "3506275649511262"
 :entry-id: 8an3b3injeuh8khs4a0c9l32ak/matthew_i_kennedy@att.net
+:ID:       94fcb867-5bf4-488c-b804-90552b933389
 :END:
 :org-gcal:
 <2025-07-25 Fri 10:00-12:00>
@@ -59,6 +66,7 @@
 :org-gcal-managed: org
 :ETag:     "3506276103512158"
 :entry-id: daujt0aa24f08ufhd2fid74ucg/matthew_i_kennedy@att.net
+:ID:       f9d563bd-8c83-4451-b671-8ca471f83d07
 :END:
 :org-gcal:
 <2025-07-21 Mon +1w>
@@ -73,6 +81,7 @@
 :org-gcal-managed: org
 :ETag:     "3506321778122846"
 :entry-id: gsjg482370eus16v9eq28upflo/matthew_i_kennedy@att.net
+:ID:       806170ae-6eb1-4886-8796-e88788de5d8c
 :END:
 :org-gcal:
 <2025-07-22 Tue 16:00-17:30>
@@ -80,4 +89,13 @@
 :PROPERTIES:
 :CREATED: [2025-07-22 Tue 00:04]
 :CAPTURED: [[file:~/Notes/obsidian-vault/org/calendar.org::*Morning Discipleship][Morning Discipleship]]
+:END:
+** testing
+:PROPERTIES:
+:ID:       d7eb12e2-98b0-4575-8434-2f6c2c013524
+:END:
+<2025-07-23 Wed 12:03>
+:PROPERTIES:
+:CREATED: [2025-07-23 Wed 12:03]
+:CAPTURED:
 :END:
