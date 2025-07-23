@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/prayer_requests.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "prayer_requests"
+              "title": "todo"
             }
           }
         ],
@@ -399,11 +399,15 @@
   },
   "active": "b9b7173af84aa56c",
   "lastOpenFiles": [
-    "notes/important/Movies for date night.md",
+    "today_i_learned/emacs/projectile.md",
+    "indexes/prayer_requests.md",
+    "today_i_learned/emacs",
+    "org/nextcloud.org",
     "org/agenda.sync-conflict-20250722-011749-BXGWWFY.org",
     "org/agenda.sync-conflict-20250722-052717-AQSZDJW.org",
-    "org/bookmarks.html",
     "org/todo.sync-conflict-20250722-052717-AQSZDJW.org",
+    "notes/important/Movies for date night.md",
+    "org/bookmarks.html",
     "org/journal.org",
     "org/roam/org-roam.db",
     "org/roam",
@@ -415,8 +419,6 @@
     "secrets/apple-account-recovery-key.md",
     "secrets/20250423.md",
     "secrets",
-    "org/agenda.sync-conflict-20250721-184326-AQSZDJW.org",
-    "org/calendar.sync-conflict-20250721-184323-AQSZDJW.org",
     "today_i_learned/freelance/overplan_for_payment_rates.md",
     "today_i_learned/README.md",
     "today_i_learned/rust/cargo_docs.md",
@@ -432,8 +434,6 @@
     "notes/repetitive_pleasure.md",
     "notes/skit_script_camp_2025.md",
     "notes/perelandra_philosophy.md",
-    "notes/on_life_memory_and_upkeep_of_mind.md",
-    "notes/linear_cli_planning.md",
-    "notes/elixir-tuples.md"
+    "notes/on_life_memory_and_upkeep_of_mind.md"
   ]
 }
