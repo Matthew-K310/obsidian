@@ -32,24 +32,28 @@ Tuesday
 
 Jul 21, 2025
 * DONE Clean Den
+CLOSED: [2025-07-23 Wed 12:20]
 :PROPERTIES:
 :ID:       14f493e6-6834-429d-867d-983ed868fed9
 :END:
 * DONE Clean living room
+CLOSED: [2025-07-23 Wed 12:20]
 :PROPERTIES:
 :ID:       1650278b-39f7-4925-b890-eb5b836541b0
 :END:
 * DONE Clean my room
+CLOSED: [2025-07-23 Wed 12:20]
 :PROPERTIES:
 :ID:       71cfe448-2f0f-426f-933b-ab20776450f3
 :END:
 * DONE Plan coffee with Doug
+CLOSED: [2025-07-23 Wed 12:20]
 :PROPERTIES:
 :ID:       7b0c7744-f9bf-4aef-a665-7133f8a0fca0
 :END:
 Jul 22, 2025
 * DONE Mow the lawn
-SCHEDULED: <2025-07-22 Tue 08:30>
+CLOSED: [2025-07-23 Wed 12:20] SCHEDULED: <2025-07-22 Tue 08:30>
 :PROPERTIES:
 :ID:       ff8d9f4a-a14d-4168-85ad-4e4b1ac1925a
 :END:
@@ -57,11 +61,11 @@ SCHEDULED: <2025-07-22 Tue 08:30>
 :PROPERTIES:
 :ID:       c5e6652c-68a6-4015-a2da-86ebc9dab77a
 :END:
-* TODO Write thank you note to the Evans <2025-07-22>
+* TODO Write thank you note to the Evans <2025-07-23 Wed> <2025-07-22>
 :PROPERTIES:
 :ID:       b1ec5922-3516-4817-91f0-f25655efbe81
 :END:
-* TODO Write thank you note to P&G <2025-07-22>
+* TODO Write thank you note to P&G <2025-07-23 Wed> <2025-07-22>
 :PROPERTIES:
 :ID:       89d86670-09d0-4665-91ed-a5e0da005e85
 :END:
@@ -74,4 +78,9 @@ Jul 25, 2025
 * TODO Trim hedges at P&G's <2025-07-25>
 :PROPERTIES:
 :ID:       bc26e363-0cc6-4bc8-bd77-0da68821c5c4
+:END:
+Jul 23, 2025
+* DONE Set up caldav for org-mode <2025-07-23>
+:PROPERTIES:
+:ID:       52ef9ab3-5d33-419b-8465-aed20145bfb9
 :END:

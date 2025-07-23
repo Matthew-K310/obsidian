@@ -90,12 +90,3 @@
 :CREATED: [2025-07-22 Tue 00:04]
 :CAPTURED: [[file:~/Notes/obsidian-vault/org/calendar.org::*Morning Discipleship][Morning Discipleship]]
 :END:
-** testing
-:PROPERTIES:
-:ID:       d7eb12e2-98b0-4575-8434-2f6c2c013524
-:END:
-<2025-07-23 Wed 12:03>
-:PROPERTIES:
-:CREATED: [2025-07-23 Wed 12:03]
-:CAPTURED:
-:END:
