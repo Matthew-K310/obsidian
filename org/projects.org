@@ -10,17 +10,16 @@
 *** Issues
 **** Backlog
 **** Todo
-***** TODO Create Store Page @frontend [1/3]
-DEADLINE: <2025-07-25 Fri>
+***** TODO Style navbar component
+***** TODO Create home page
+***** TODO Create store page
 - [ ] Style product component
-- [ ] Create filter selector (use placeholder data)
-- [X] DONE Create Product Component
-**** Done
-***** DONE Create Layout Template
-***** DONE Bug: invisible font
-***** DONE Bug: page not rendering
+- [ ] Create filter UI
+***** TODO Create about page
+***** TODO Create contact page
+**** Bugs
+***** TODO Pages: Styling not updating :bug:
 
-*** Worklog
 
 ** PROJ Hackathon
 :PROPERTIES:
@@ -28,4 +27,11 @@ DEADLINE: <2025-07-25 Fri>
 :END:
 SCHEDULED: <2025-07-25 Fri 10:00>
 DEADLINE: <2025-07-28 Mon 09:00>
-*** TODO
+*** TODO Come up with project ideas [0/3]
+- [ ] Idea 1: Progamming language
+  - Lang = Rust
+   - Type = Statically typed, functional
+
+- [ ] Idea 2: 2D game
+  - Lang = Go
+  - Framework = Ebitengine
