@@ -1,6 +1,2 @@
 #+title: Todo
 
-* TODO Come up with project for hackathon
-:PROPERTIES:
-:ID:       92e02276-3326-42e5-a9f9-d939ba52d6f9
-:END:

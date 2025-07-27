@@ -102,8 +102,8 @@
 :PROPERTIES:
 :ID:       66a0d729-59dc-43c3-8e18-df5f74a7af1b
 :END:
-** TODO Trim hedges at P&G's
-SCHEDULED: <2025-07-25 Fri 09:30>
+** DONE Trim hedges at P&G’s :calendar:
+CLOSED: [2025-07-25 Fri 15:58] SCHEDULED: <2025-07-25 Fri 09:30>
 :PROPERTIES:
 :CREATED: [2025-07-24 Thu 00:13]
 :CAPTURED: [[file:~/Notes/obsidian-vault/org/projects.org::*Create Store Page @frontend][Create Store Page @frontend]]

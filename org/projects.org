@@ -27,11 +27,4 @@
 :END:
 SCHEDULED: <2025-07-25 Fri 10:00>
 DEADLINE: <2025-07-28 Mon 09:00>
-*** TODO Come up with project ideas [0/3]
-- [ ] Idea 1: Progamming language
-  - Lang = Rust
-   - Type = Statically typed, functional
-
-- [ ] Idea 2: 2D game
-  - Lang = Go
-  - Framework = Ebitengine
+*** DONE Come up with project ideas
