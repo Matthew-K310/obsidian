@@ -5,7 +5,7 @@
 - [ ] Star Trek: Beyond
 - [ ] Gladiator
 - [ ] 1917
-- [ ] Nacho Libre
+- [x] Nacho Libre
 - [ ] Clone Wars (see arcs)
 - [x] Rogue One
 - [x] The Creator ✅ 2025-07-03
