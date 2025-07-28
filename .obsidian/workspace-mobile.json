@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/look_into.md",
+                "file": "indexes/to_read.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,35 +208,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "look_into"
-            }
-          },
-          {
-            "id": "b9b7173af84aa56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "todo"
+              "title": "to_read"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -397,8 +373,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b9b7173af84aa56c",
+  "active": "9ee71f29476314d3",
   "lastOpenFiles": [
+    "todo.md",
+    "indexes/to_read.md",
     "today_i_learned/emacs/projectile.md",
     "indexes/prayer_requests.md",
     "today_i_learned/emacs",
@@ -413,7 +391,6 @@
     "org/roam",
     "quicknote.md",
     "secrets/gcal_secrets.md",
-    "todo.md",
     "secrets/Bitwarden password.md",
     "secrets/api_keys.md",
     "secrets/apple-account-recovery-key.md",
@@ -433,7 +410,6 @@
     "notes/stuff_i_want_to_learn.md",
     "notes/repetitive_pleasure.md",
     "notes/skit_script_camp_2025.md",
-    "notes/perelandra_philosophy.md",
-    "notes/on_life_memory_and_upkeep_of_mind.md"
+    "notes/perelandra_philosophy.md"
   ]
 }
