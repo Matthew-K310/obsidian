@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indexes/worklog-brian-project.md",
+                "file": "today_i_learned/tailscale/install_on_lxc.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "worklog-brian-project"
+              "title": "install_on_lxc"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bef70e8d3fd0d835",
+  "active": "ec6e556d651e9c73",
   "lastOpenFiles": [
+    "today_i_learned/tailscale/install_on_lxc.md~",
+    "indexes/worklog-brian-project.md",
     "indexes/to_read.md",
     "org/init.org",
     "org/journal/2025/Week 30/July 24, 2025.org",
@@ -215,8 +217,6 @@
     "dailies/20250714.md",
     "dailies/20250622.md",
     "dailies/20250701.md",
-    "dailies/20250713.md",
-    "camp_skit_2025.md",
     "media/handwritten_notes/Drawing 9.png",
     "media/handwritten_notes/Drawing 7.png",
     "media/handwritten_notes/Drawing 15.png",
