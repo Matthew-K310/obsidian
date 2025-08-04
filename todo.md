@@ -1,7 +1,4 @@
 - [ ] Create immich VM
-- [ ] Create vaultwarden VM
-- [ ] Figure out USB mounting on iMac
 - [ ] Set up automatic git password sync
-- [ ] Schedule coffee with Doug
 - [ ] Schedule coffee with Tom
 - [ ]
